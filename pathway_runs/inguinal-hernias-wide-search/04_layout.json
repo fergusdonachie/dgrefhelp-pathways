@@ -1,0 +1,17 @@
+{
+  "format": "markdown_to_rds",
+  "sections": [
+    {"id": "overview", "title": "Overview", "intent": "purpose/scope"},
+    {"id": "thresholds", "title": "Key thresholds", "intent": "at-a-glance urgency triage"},
+    {"id": "assessment", "title": "Initial assessment in primary care", "intent": "risk and diagnosis framing"},
+    {"id": "pathway", "title": "Stepwise pathway", "intent": "operational workflow"},
+    {"id": "referral", "title": "Who to refer", "intent": "threshold-triggered escalation"},
+    {"id": "manage_primary", "title": "Who not to refer immediately (primary care management)", "intent": "watchful-waiting group"},
+    {"id": "evidence", "title": "Evidence confidence and notes", "intent": "source strength and caveats"}
+  ],
+  "style": {
+    "voice": "concise, threshold-focused",
+    "bullets": "short",
+    "numbers": "explicit where validated"
+  }
+}

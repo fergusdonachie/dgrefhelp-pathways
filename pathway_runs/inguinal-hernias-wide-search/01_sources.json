@@ -1,0 +1,88 @@
+{
+  "topic": "Inguinal hernias (adult primary care referral pathway; UK/Scotland-facing)",
+  "search_strategy": {
+    "framework": "widened tiered search",
+    "tier1_always": [
+      "NICE/CKS (attempted; CKS access-limited in extractor)",
+      "SIGN (checked for condition-specific guidance)",
+      "Right Decisions national NHS Scotland pathway",
+      "NHS Scotland territorial board pathways (NHS Highland, NHS Borders)"
+    ],
+    "tier2_selected": [
+      "Royal College of Surgeons / British Hernia Society commissioning guidance",
+      "AOMRC EBI best-practice statement for minimally symptomatic inguinal hernia"
+    ],
+    "tier3_used": [],
+    "tier3_justification": "Not required: Tier1+Tier2 gave consistent referral-threshold signals for primary care triage."
+  },
+  "tooling": {
+    "primary": "tavily_tavily_search + tavily_tavily_extract",
+    "brave_fallback_used": false
+  },
+  "shortlisted_sources": [
+    {
+      "id": "S1",
+      "tier": 1,
+      "title": "NICE CKS: Hernia - inguinal",
+      "publisher": "NICE CKS",
+      "url": "https://cks.nice.org.uk/topics/hernia-inguinal/",
+      "reason": "Required Tier1 source family (NICE/CKS); extraction showed licensing/access page rather than clinical content."
+    },
+    {
+      "id": "S2",
+      "tier": 1,
+      "title": "SIGN guidelines index",
+      "publisher": "SIGN",
+      "url": "http://www.sign.ac.uk/guidelines/",
+      "reason": "Tier1 requirement check for Scottish national guideline; no inguinal-hernia-specific SIGN guideline identified."
+    },
+    {
+      "id": "S3",
+      "tier": 1,
+      "title": "Inguinal hernia pathway",
+      "publisher": "Right Decisions (NHS Scotland national pathway)",
+      "url": "https://www.rightdecisions.scot.nhs.uk/general-surgery-pathways/inguinal-hernia/",
+      "reason": "Core Scotland-facing pathway framing, includes ACRT/Opt-In model and references to HerniaSurge updates."
+    },
+    {
+      "id": "S4",
+      "tier": 1,
+      "title": "Groin hernia pathway (Guidelines)",
+      "publisher": "NHS Highland via Right Decisions",
+      "url": "https://rightdecisions.scot.nhs.uk/tam-treatments-and-medicines-nhs-highland/adult-therapeutic-guidelines/surgical/groin-hernia-pathway-guidelines/",
+      "reason": "Territorial board detail for primary/secondary care handling, conservative management and imaging caveats."
+    },
+    {
+      "id": "S5",
+      "tier": 1,
+      "title": "Hernia",
+      "publisher": "NHS Borders RefHelp via Right Decisions",
+      "url": "https://rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/colorectal/hernia/",
+      "reason": "Territorial board referral route and primary-care referral population definitions."
+    },
+    {
+      "id": "S6",
+      "tier": 2,
+      "title": "Commissioning guide: Groin hernia",
+      "publisher": "Royal College of Surgeons / ASGBI / British Hernia Society",
+      "url": "https://www.rcseng.ac.uk/-/media/files/rcs/library-and-publications/non-journal-publications/hernia--commissioning-guide.pdf",
+      "reason": "UK specialty referral thresholds: emergency/urgent/routine distinctions and imaging/referral advice for primary care."
+    },
+    {
+      "id": "S7",
+      "tier": 2,
+      "title": "Repair of minimally symptomatic inguinal hernia",
+      "publisher": "AOMRC Evidence-Based Interventions",
+      "url": "https://www.aomrc.org.uk/ebi/clinicians/repair-of-minimally-symptomatic-inguinal-hernia/",
+      "reason": "Current UK best-practice statement for watchful waiting and urgent referral for women with suspected groin hernia."
+    },
+    {
+      "id": "S8",
+      "tier": 2,
+      "title": "General surgery pathway: Inguinal hernia",
+      "publisher": "GIRFT/ASGBI",
+      "url": "https://gettingitrightfirsttime.co.uk/wp-content/uploads/2023/07/General-surgery_Pathway_Inguinal-hernia-FINAL-V1-July-2023.pdf",
+      "reason": "Operational UK pathway context including watchful waiting criteria and escalation of acutely incarcerated/strangulated cases."
+    }
+  ]
+}
