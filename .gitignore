@@ -1,0 +1,7 @@
+.DS_Store
+.openclaw/
+pathway_runs/**/01_sources.json
+pathway_runs/**/02_extracted_evidence.json
+pathway_runs/**/03_synthesised.json
+pathway_runs/**/04_layout.json
+pathway_runs/**/06_rds_blocks.json
