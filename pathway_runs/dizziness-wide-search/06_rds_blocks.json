@@ -1,0 +1,69 @@
+{
+  "blocks": [
+    {
+      "id": "intro_scope",
+      "type": "markdown",
+      "title": "Who this pathway covers",
+      "content": "Adults presenting in primary care with dizziness, vertigo, imbalance, or light-headedness."
+    },
+    {
+      "id": "core_principle",
+      "type": "alert",
+      "variant": "info",
+      "title": "Core principle",
+      "content": "Exclude stroke/central causes first. If red flags are absent and findings are peripheral/positional, manage in primary care first."
+    },
+    {
+      "id": "emergency_thresholds",
+      "type": "checklist",
+      "title": "Immediate same-day emergency referral",
+      "items": [
+        "Sudden-onset dizziness/vertigo with focal neurological deficit.",
+        "Acute vestibular syndrome not explained by BPPV/postural hypotension and no trained HINTS assessor available.",
+        "Concerning central features (e.g., central-pattern nystagmus, new severe gait unsteadiness, acute new deafness with vestibular syndrome).",
+        "Associated major neurological symptoms (diplopia, dysarthria/speech change, unilateral weakness/numbness, reduced consciousness, severe new headache)."
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "checklist",
+      "title": "Primary care assessment essentials",
+      "items": [
+        "Classify dizziness phenotype (vertigo vs presyncope vs disequilibrium).",
+        "Establish onset, duration, triggers, recurrence pattern.",
+        "Perform focused neurological and gait examination.",
+        "Assess hearing/tinnitus/aural symptoms.",
+        "Review medications and orthostatic factors.",
+        "Perform Hallpike where indicated and trained."
+      ]
+    },
+    {
+      "id": "management",
+      "type": "checklist",
+      "title": "Primary care management",
+      "items": [
+        "Hallpike-positive BPPV: perform Epley/canalith repositioning.",
+        "Use vestibular suppressants short-term only in acute severe phase.",
+        "Provide safety advice and encourage graded mobilisation.",
+        "Arrange reassessment if not improving or diagnosis remains uncertain."
+      ]
+    },
+    {
+      "id": "routine_referral",
+      "type": "checklist",
+      "title": "Routine referral thresholds",
+      "items": [
+        "BPPV persisting after appropriate repositioning manoeuvres.",
+        "Persistent dizziness/vertigo beyond ~6 weeks despite first-line care.",
+        "Recurrent suspected vestibular migraine/Meniere-type episodes not controlled in primary care."
+      ]
+    },
+    {
+      "id": "evidence_confidence",
+      "type": "alert",
+      "variant": "warning",
+      "title": "Evidence confidence",
+      "content": "Moderate-High. Strong NICE NG127 threshold evidence plus concordant Scottish board pathways; confidence reduced by CKS extraction limits and no dedicated current SIGN dizziness guideline identified in this run."
+    }
+  ]
+}

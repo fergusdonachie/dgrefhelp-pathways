@@ -1,0 +1,65 @@
+{
+  "topic": "Dizziness (adult primary care referral pathway)",
+  "evidence_points": [
+    {
+      "source_id": "S1",
+      "quote": "For adults with sudden-onset dizziness and a focal neurological deficit... refer immediately to exclude posterior circulation stroke.",
+      "threshold_type": "Immediate emergency referral"
+    },
+    {
+      "source_id": "S1",
+      "quote": "For sudden-onset acute vestibular syndrome, HINTS should be performed if trained clinician available; stroke-pattern HINTS findings require immediate neuroimaging/referral.",
+      "threshold_type": "Emergency diagnostic triage"
+    },
+    {
+      "source_id": "S1",
+      "quote": "If HINTS-trained clinician not available and BPPV/postural hypotension do not account for presentation, refer immediately per local stroke pathways.",
+      "threshold_type": "Default emergency pathway when uncertainty remains"
+    },
+    {
+      "source_id": "S1",
+      "quote": "For transient rotational vertigo on head movement: offer Hallpike; if BPPV diagnosed offer canalith repositioning (e.g. Epley) if trained clinician available.",
+      "threshold_type": "Primary care definitive management"
+    },
+    {
+      "source_id": "S3",
+      "quote": "Most people with vertigo do not need secondary care assessment. If vestibular apparatus lesion suspected, ENT is the best route.",
+      "threshold_type": "Routine referral boundary"
+    },
+    {
+      "source_id": "S3",
+      "quote": "Vestibular sedatives should only be used for acute vestibular syndrome; long-term use is not recommended.",
+      "threshold_type": "Medication duration limit"
+    },
+    {
+      "source_id": "S4",
+      "quote": "BPPV episodes are typically <30 seconds positional rotational vertigo; positive Dix-Hallpike with torsional nystagmus ~30 seconds.",
+      "threshold_type": "Diagnosis threshold"
+    },
+    {
+      "source_id": "S4",
+      "quote": "If primary care manoeuvres fail, routine referral to Audiology; advise Brandt-Daroff/Cawthorne-Cooksey while awaiting appointment.",
+      "threshold_type": "Routine failed-treatment escalation"
+    },
+    {
+      "source_id": "S5",
+      "quote": "Routine blood tests and imaging are rarely helpful in isolated vertigo; Hallpike is the most useful investigation in primary care.",
+      "threshold_type": "Investigation threshold"
+    },
+    {
+      "source_id": "S7",
+      "quote": "Phone 999/A&E for vertigo with double vision, hearing loss, difficulty/slurred speech, limb weakness/numbness.",
+      "threshold_type": "Public-facing emergency red flags"
+    },
+    {
+      "source_id": "S7",
+      "quote": "If symptoms persist beyond 6 weeks, referral to vestibular physiotherapy or ENT may be required.",
+      "threshold_type": "Persistent symptom referral"
+    },
+    {
+      "source_id": "S9",
+      "quote": "ABN A&G FAQ recommends use of local dizziness pathways (e.g., NHS Lothian) and NICE NG127 for dizziness/vertigo queries.",
+      "threshold_type": "Specialty corroboration"
+    }
+  ]
+}
