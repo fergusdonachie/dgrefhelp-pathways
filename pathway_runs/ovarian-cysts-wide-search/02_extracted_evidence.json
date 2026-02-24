@@ -1,0 +1,93 @@
+{
+  "topic": "Ovarian cysts",
+  "extracted_at": "2026-02-24",
+  "evidence": [
+    {
+      "source_id": "nice_cg122_recommendations",
+      "statements": [
+        "Measure serum CA125 in primary care in women with symptoms suggesting ovarian cancer.",
+        "If CA125 is 35 IU/ml or greater, arrange ultrasound of abdomen and pelvis.",
+        "If ultrasound suggests ovarian cancer, refer via suspected cancer pathway.",
+        "RMI I >=250 should be referred to specialist MDT."
+      ],
+      "type": "national_guideline"
+    },
+    {
+      "source_id": "scot_referral_2025",
+      "statements": [
+        "USC referral for raised CA125 >=35 IU/ml.",
+        "USC referral for ultrasound suggesting ovarian cancer or abdominal/pelvic mass not clearly uterine/GI/urological.",
+        "USC referral for unexplained ascites.",
+        "In symptomatic women (especially >=50), do abdominal exam + CA125 + urgent pelvic USS."
+      ],
+      "type": "national_scottish_referral"
+    },
+    {
+      "source_id": "rightdecisions_ggc_premenop_514",
+      "statements": [
+        "Simple unilateral unilocular cyst <5 cm: no follow-up.",
+        "Simple 5-7 cm: repeat TVUS every 6 months for 1 year; refer if persistent/enlarging.",
+        ">7 cm: refer to gynaecology with CA125.",
+        "RMI >200: USOC referral and oncology MDT route.",
+        "If age <40 and non-simple mass: add LDH, AFP, hCG."
+      ],
+      "type": "territorial_operational_guideline"
+    },
+    {
+      "source_id": "rightdecisions_ggc_postmenop_549",
+      "statements": [
+        "Simple cyst <3 cm: no follow-up.",
+        "Simple 3-5 cm with CA125<35: repeat TVUS + CA125 6-monthly up to 1 year.",
+        "Simple >5 cm: urgent referral to gynaecology (USOC if symptomatic).",
+        "Any non-simple/indeterminate mass: refer with CA125 and RMI.",
+        "RMI >200: USOC pathway + MDT escalation."
+      ],
+      "type": "territorial_operational_guideline"
+    },
+    {
+      "source_id": "rightdecisions_borders",
+      "statements": [
+        "Premenopausal simple cyst <5 cm usually physiological; no routine follow-up.",
+        "Premenopausal 5-7 cm: interval USS (3-6 monthly).",
+        "Premenopausal >7 cm: consider surgical management/referral.",
+        "Postmenopausal simple <5 cm + normal CA125: conservative with interval scanning.",
+        "RMI >200 predicts increased malignancy risk and supports oncology escalation."
+      ],
+      "type": "territorial_operational_guideline",
+      "limitations": "Review date older (2020/2023) than GGC 2025-2026 pathways."
+    },
+    {
+      "source_id": "rcog_gtg34",
+      "statements": [
+        "Postmenopausal pathway uses CA125 + TVUS + RMI I.",
+        "RMI I threshold of 200 commonly used for low vs increased risk pathways.",
+        "Dec 2025 update: simple unilateral unilocular postmenopausal cysts <=3 cm do not need routine follow-up."
+      ],
+      "type": "specialty_guideline"
+    },
+    {
+      "source_id": "rcog_gtg62",
+      "statements": [
+        "Many premenopausal simple/functional cysts <50 mm resolve within 2-3 cycles.",
+        "Laparoscopy is preferred for benign masses when surgery is needed.",
+        "IOTA malignant-rule features should trigger oncology referral."
+      ],
+      "type": "specialty_guideline"
+    },
+    {
+      "source_id": "sign_135",
+      "statements": [
+        "SIGN provides Scottish national ovarian cancer management framework, supporting specialist pathway escalation for suspected malignancy."
+      ],
+      "type": "national_scottish_guideline",
+      "limitations": "PDF text extraction in this run was technically limited; used validated indexed metadata/snippets."
+    },
+    {
+      "source_id": "nice_cks_access",
+      "statements": [
+        "CKS page present but access-limited; no additional extracted threshold statements in this run."
+      ],
+      "type": "access_context"
+    }
+  ]
+}

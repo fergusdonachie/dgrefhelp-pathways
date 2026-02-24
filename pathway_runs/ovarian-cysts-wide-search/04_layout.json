@@ -1,0 +1,65 @@
+{
+  "topic": "Ovarian cysts",
+  "layout_version": "DGRefHelp-threshold-v1",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who this pathway is for",
+      "content": "Adults with incidental or symptomatic ovarian cyst/mass findings in primary care; excludes known pregnancy-specific and paediatric pathways."
+    },
+    {
+      "id": "red_flags",
+      "title": "Immediate same-day action",
+      "bullets": [
+        "Acute severe unilateral pelvic pain +/- nausea/vomiting: suspect torsion/rupture -> emergency gynaecology."
+      ]
+    },
+    {
+      "id": "usc",
+      "title": "Urgent suspicion of cancer (USC) thresholds",
+      "bullets": [
+        "Ascites or palpable pelvic/abdominal mass not clearly benign uterine/GI/urological origin.",
+        "CA125 >=35 IU/ml with suspicious symptoms/findings.",
+        "Ultrasound suspicious for ovarian malignancy."
+      ]
+    },
+    {
+      "id": "premenopausal",
+      "title": "Premenopausal cyst thresholds",
+      "table": [
+        ["Simple <5 cm", "No routine follow-up"],
+        ["Simple 5-7 cm", "Interval TVUS; refer if persistent/increasing"],
+        ["Simple >7 cm", "Refer gynaecology"],
+        ["Complex/non-simple", "CA125 (+LDH/AFP/hCG if <40) and refer by risk"]
+      ]
+    },
+    {
+      "id": "postmenopausal",
+      "title": "Postmenopausal cyst thresholds",
+      "table": [
+        ["Simple <=3 cm", "No routine follow-up"],
+        ["Simple 3-5 cm and CA125 <35", "Repeat TVUS+CA125 at 6-month intervals up to 1 year"],
+        ["Simple >5 cm", "Urgent referral"],
+        ["Any non-simple mass", "Refer with CA125 and RMI"]
+      ]
+    },
+    {
+      "id": "rmi",
+      "title": "RMI interpretation note",
+      "content": "Operational Scottish pathways commonly use RMI >200 for high-risk escalation; NICE specialist referral recommendation uses RMI >=250. If either threshold is reached locally, escalate via USC/specialist MDT."
+    },
+    {
+      "id": "safetynet",
+      "title": "Safety net",
+      "bullets": [
+        "If initial workup is non-diagnostic but symptoms persist/frequency increases, re-evaluate urgently.",
+        "CA125 can be normal in ovarian cancer; do not rely on CA125 alone."
+      ]
+    },
+    {
+      "id": "confidence",
+      "title": "Evidence confidence",
+      "content": "Moderate-High (multisource concordance; minor RMI threshold variance and some extraction limitations)."
+    }
+  ]
+}
