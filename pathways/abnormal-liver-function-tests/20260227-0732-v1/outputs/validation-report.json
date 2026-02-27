@@ -1,0 +1,8 @@
+{
+  "status": "warning",
+  "checks": [
+    {"level": "info", "message": "Required draft and HTML artifacts present."},
+    {"level": "warning", "message": "Evidence synthesis currently weighted to SPS source due PDF extraction limitations in this run."},
+    {"level": "info", "message": "HTML uses permitted plain tags only."}
+  ]
+}

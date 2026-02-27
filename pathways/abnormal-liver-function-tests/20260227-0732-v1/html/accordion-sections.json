@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Who needs urgent referral",
+    "html": "<p>Arrange same-day secondary care assessment if there is jaundice with synthetic dysfunction, decompensation features (ascites, encephalopathy, bleeding), suspected malignancy pattern (e.g. weight loss with cholestatic jaundice), or marked liver test derangement.</p>"
+  },
+  {
+    "title": "Initial primary care assessment",
+    "html": "<ul><li>History: alcohol, medicines/supplements, metabolic risk, viral risk factors, symptoms.</li><li>Examination: chronic liver disease stigmata, jaundice, hepatomegaly, fluid overload, encephalopathy signs.</li><li>Repeat and extend bloods where indicated, including synthetic markers and platelets.</li></ul>"
+  },
+  {
+    "title": "Threshold-based follow-up",
+    "html": "<ul><li>&lt;2× ULN and stable: repeat and review reversible causes.</li><li>&gt;2–3× ULN: investigate promptly and consider specialist input.</li><li>Persistently abnormal without explanation: refer.</li></ul>"
+  }
+]

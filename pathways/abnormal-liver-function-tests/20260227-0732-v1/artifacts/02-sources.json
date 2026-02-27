@@ -1,0 +1,23 @@
+{
+  "topic": "abnormal liver function tests",
+  "sources": [
+    {
+      "title": "NHS SPS - Assessing liver function and interpreting liver blood tests",
+      "url": "https://www.sps.nhs.uk/articles/assessing-liver-function-and-interpreting-liver-blood-tests/",
+      "type": "guidance-summary",
+      "used_for_extraction": true
+    },
+    {
+      "title": "BSG guideline on abnormal liver blood tests",
+      "url": "https://www.bsg.org.uk/getmedia/b51bdc64-7145-43ad-828b-21f473b0a918/Guidelines-on-the-management-of-abnormal-liver-blood-tests.pdf",
+      "type": "specialty-guideline",
+      "used_for_extraction": "link-confirmed-text-limited"
+    },
+    {
+      "title": "NENC hepatology network abnormal liver blood test guideline",
+      "url": "https://ntag.nhs.uk/wp-content/uploads/2024/08/Abnormal-Liver-blood-test-Guidelines-NENC-Hepatology-Network-V3.1-01-08-2024.pdf",
+      "type": "regional-guideline",
+      "used_for_extraction": "link-confirmed-text-limited"
+    }
+  ]
+}
