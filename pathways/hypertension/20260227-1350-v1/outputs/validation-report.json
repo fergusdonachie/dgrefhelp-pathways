@@ -1,9 +1,10 @@
 {
   "status": "pass_with_warnings",
   "checks": [
-    {"level": "pass", "message": "Required review and HTML artifacts generated."},
+    {"level": "pass", "message": "Required review and HTML artifacts generated, including cms-upload-bundle.json."},
     {"level": "pass", "message": "Primary care management section includes stepwise prescribing, monitoring, and safety details."},
     {"level": "pass", "message": "HTML uses plain allowed tags only."},
+    {"level": "pass", "message": "Accordion uses DGRefHelp canonical heading set and order (Assessment, Primary care management, Who to refer, Who not to refer, References)."},
     {"level": "warning", "message": "Local formulary and Scotland-specific referral route text requires local editor insertion before publication."}
   ]
 }
