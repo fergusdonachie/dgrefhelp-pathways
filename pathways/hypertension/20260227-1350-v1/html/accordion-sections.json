@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Diagnosis and initial assessment",
+    "html": "<ul><li>Measure BP accurately and confirm hypertension with ABPM/HBPM where appropriate.</li><li>Classify stage and check for urgent red flags.</li><li>Perform baseline tests: urine ACR/haematuria, HbA1c, U&E, creatinine/eGFR, lipids, ECG, fundoscopy.</li><li>Assess formal CVD risk and possible secondary causes.</li></ul>"
+  },
+  {
+    "title": "Primary care management (detailed)",
+    "html": "<ul><li>Offer repeated lifestyle intervention: weight, diet, sodium reduction, exercise, alcohol reduction, smoking cessation.</li><li>Step 1: ACEi/ARB or CCB according to age/diabetes/family origin; thiazide-like diuretic if CCB not tolerated.</li><li>Step 2: combine 2 classes after adherence and dose review.</li><li>Step 3: ACEi/ARB + CCB + thiazide-like diuretic.</li><li>Step 4 resistant HTN: confirm with ABPM/HBPM, reassess adherence/postural drop/secondary causes; consider spironolactone if suitable.</li><li>Monitor renal function/electrolytes and adverse effects after initiation and dose changes.</li></ul>"
+  },
+  {
+    "title": "Monitoring, targets and referral",
+    "html": "<ul><li>Clinic targets: &lt;140/90 if under 80; &lt;150/90 if 80 or over (individualise for frailty/postural hypotension).</li><li>Use home BP monitoring to support control and adherence.</li><li>Review every 4–6 weeks during titration, then at least annually once stable.</li><li>Refer non-urgently for suspected secondary causes, resistant hypertension, or complex management uncertainty.</li></ul>"
+  }
+]

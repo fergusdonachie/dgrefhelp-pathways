@@ -1,0 +1,19 @@
+{
+  "topic": "hypertension in adults",
+  "scope": {
+    "population": "Adults >=18 years, non-pregnant, including type 2 diabetes unless condition-specific guidance supersedes",
+    "setting": "Primary care (NHS Scotland context)",
+    "focus": [
+      "Diagnosis confirmation",
+      "Risk and target organ assessment",
+      "Detailed primary care management",
+      "Stepwise antihypertensive prescribing",
+      "Monitoring, safety-netting, and referral thresholds"
+    ],
+    "exclusions": [
+      "Pregnancy hypertension pathways",
+      "Paediatric hypertension",
+      "Inpatient hypertensive emergencies"
+    ]
+  }
+}

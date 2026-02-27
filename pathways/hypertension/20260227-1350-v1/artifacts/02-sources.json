@@ -1,0 +1,29 @@
+{
+  "topic": "hypertension in adults",
+  "sources": [
+    {
+      "title": "NICE NG136 Hypertension in adults: diagnosis and management (overview)",
+      "url": "https://www.nice.org.uk/guidance/ng136",
+      "tier": "Tier 1",
+      "used": true
+    },
+    {
+      "title": "NICE NG136 Recommendations",
+      "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations",
+      "tier": "Tier 1",
+      "used": true
+    },
+    {
+      "title": "NICE CKS Hypertension topic summary",
+      "url": "https://cks.nice.org.uk/topics/hypertension/",
+      "tier": "Tier 1 support",
+      "used": true
+    },
+    {
+      "title": "SIGN CVD prevention / ASSIGN context page",
+      "url": "https://www.sign.ac.uk/guidelines/risk-estimation-and-the-prevention-of-cardiovascular-disease/",
+      "tier": "Scotland context",
+      "used": true
+    }
+  ]
+}

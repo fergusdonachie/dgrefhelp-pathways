@@ -1,0 +1,9 @@
+{
+  "status": "pass_with_warnings",
+  "checks": [
+    {"level": "pass", "message": "Required review and HTML artifacts generated."},
+    {"level": "pass", "message": "Primary care management section includes stepwise prescribing, monitoring, and safety details."},
+    {"level": "pass", "message": "HTML uses plain allowed tags only."},
+    {"level": "warning", "message": "Local formulary and Scotland-specific referral route text requires local editor insertion before publication."}
+  ]
+}
