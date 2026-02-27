@@ -1,14 +1,22 @@
 [
   {
-    "title": "Who needs urgent referral",
-    "html": "<p>Arrange same-day secondary care assessment if there is jaundice with synthetic dysfunction, decompensation features (ascites, encephalopathy, bleeding), suspected malignancy pattern (e.g. weight loss with cholestatic jaundice), or marked liver test derangement.</p>"
+    "heading": "Assessment",
+    "html": "<p>Assess abnormal liver blood tests in clinical context, not as isolated numbers. Classify biochemical pattern, identify red flags, and assess synthetic function early.</p><ul><li>Take focused history: alcohol, medicines/supplements, viral and metabolic risk factors, and symptom trajectory.</li><li>Examine for jaundice, hepatomegaly, chronic liver disease stigmata, ascites, and encephalopathy.</li><li>Interpret pattern as hepatocellular, cholestatic, or mixed and compare with prior results/trend.</li><li>Include synthetic markers and full blood count/platelets in baseline assessment where clinically indicated.</li></ul>"
   },
   {
-    "title": "Initial primary care assessment",
-    "html": "<ul><li>History: alcohol, medicines/supplements, metabolic risk, viral risk factors, symptoms.</li><li>Examination: chronic liver disease stigmata, jaundice, hepatomegaly, fluid overload, encephalopathy signs.</li><li>Repeat and extend bloods where indicated, including synthetic markers and platelets.</li></ul>"
+    "heading": "Primary care management",
+    "html": "<p>The default approach is red-flag first triage, followed by pattern-directed investigation and time-bounded review.</p><ul><li><strong>Mild abnormalities</strong> (for example less than about 2 times ULN in clinically stable patients): repeat tests, review reversible causes, and reassess.</li><li><strong>More significant derangement</strong> (for example above about 2 to 3 times ULN): investigate promptly and consider early specialist input.</li><li>Address reversible drivers early, including alcohol reduction/abstinence where relevant and medication review for possible drug-induced injury.</li><li>Differentiate cholestatic pattern from non-hepatic ALP causes when ALP is isolated (for example consider vitamin D/bone context).</li><li>Use clear safety-netting: earlier review for symptom progression, worsening bloods, or new synthetic dysfunction features.</li></ul>"
   },
   {
-    "title": "Threshold-based follow-up",
-    "html": "<ul><li>&lt;2× ULN and stable: repeat and review reversible causes.</li><li>&gt;2–3× ULN: investigate promptly and consider specialist input.</li><li>Persistently abnormal without explanation: refer.</li></ul>"
+    "heading": "Who to refer",
+    "html": "<p><strong>Urgent same-day referral</strong></p><ul><li>Jaundice with low albumin or prolonged INR/raised PT suggesting synthetic failure.</li><li>Ascites, encephalopathy, active bleeding, or other decompensation features.</li><li>Marked cholestasis with concerning systemic features (for example weight loss) suggesting possible obstructive or malignant pathology.</li><li>Marked transaminase derangement or rapid biochemical deterioration.</li></ul><p><strong>Routine referral</strong></p><ul><li>Persistent unexplained abnormal liver tests despite appropriate primary care reassessment.</li><li>Suspected chronic liver disease requiring specialist staging and long-term management planning.</li></ul><p><strong>Include in referral</strong></p><ul><li>Trend of liver blood tests and synthetic markers.</li><li>Medication/alcohol history and actions already taken.</li><li>Associated symptoms, examination findings, and comorbidity profile.</li></ul>"
+  },
+  {
+    "heading": "Who not to refer",
+    "html": "<p>Do not routinely refer asymptomatic patients with mild, likely reversible abnormalities at first presentation when there are no red flags, no synthetic dysfunction, and a safe short-interval review plan is in place.</p><p>Continue primary care follow-up with repeat testing and escalation if abnormalities persist or clinical status worsens.</p>"
+  },
+  {
+    "heading": "References",
+    "html": "<ul><li><a href=\"https://www.sps.nhs.uk/articles/assessing-liver-function-and-interpreting-liver-blood-tests/\">NHS SPS: Assessing liver function and interpreting liver blood tests</a></li><li><a href=\"https://www.bsg.org.uk/getmedia/b51bdc64-7145-43ad-828b-21f473b0a918/Guidelines-on-the-management-of-abnormal-liver-blood-tests.pdf\">BSG: Guidelines on the management of abnormal liver blood tests</a></li><li><a href=\"https://ntag.nhs.uk/wp-content/uploads/2024/08/Abnormal-Liver-blood-test-Guidelines-NENC-Hepatology-Network-V3.1-01-08-2024.pdf\">NENC Hepatology Network: Abnormal liver blood test guideline</a></li></ul>"
   }
 ]

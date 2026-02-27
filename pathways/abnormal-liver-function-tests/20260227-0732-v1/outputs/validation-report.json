@@ -1,8 +1,9 @@
 {
   "status": "warning",
   "checks": [
-    {"level": "info", "message": "Required draft and HTML artifacts present."},
+    {"level": "info", "message": "Required draft and HTML artifacts present, including cms-upload-bundle.json."},
     {"level": "warning", "message": "Evidence synthesis currently weighted to SPS source due PDF extraction limitations in this run."},
-    {"level": "info", "message": "HTML uses permitted plain tags only."}
+    {"level": "info", "message": "HTML uses permitted plain tags only."},
+    {"level": "info", "message": "Accordion now uses DGRefHelp canonical heading set and order."}
   ]
 }
