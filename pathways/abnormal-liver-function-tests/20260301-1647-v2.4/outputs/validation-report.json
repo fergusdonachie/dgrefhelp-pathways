@@ -28,6 +28,10 @@
     {
       "level": "pass",
       "message": "Background explainer added: enzyme vs synthetic function interpretation and concerning-pattern guidance."
+    },
+    {
+      "level": "pass",
+      "message": "Assessment now explicitly states D&G routine LFT components and required add-on tests including platelets (via FBC)."
     }
   ]
 }
