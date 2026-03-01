@@ -1,0 +1,10 @@
+{
+  "status": "pass_with_warnings",
+  "checks": [
+    {"level": "pass", "message": "Required review, HTML, and CMS bundle artifacts generated."},
+    {"level": "pass", "message": "BSG and NENC PDF sources extracted via PDF fallback and included as raw artifacts."},
+    {"level": "pass", "message": "Accordion uses DGRefHelp canonical heading set and order."},
+    {"level": "warning", "message": "NB Medical KISS extraction requires authenticated interactive session; no safe non-interactive extraction was completed in this run."},
+    {"level": "warning", "message": "Insert local D&G referral route wording before publication."}
+  ]
+}
