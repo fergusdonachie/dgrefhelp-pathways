@@ -1,0 +1,23 @@
+{
+  "topic": "frailty in adults",
+  "sources": [
+    {
+      "title": "NICE NG56 Multimorbidity: recommendations (frailty assessment and care approach)",
+      "url": "https://www.nice.org.uk/guidance/ng56/chapter/recommendations",
+      "tier": "Tier 1",
+      "used": true
+    },
+    {
+      "title": "NICE NG249 Falls: assessment and prevention",
+      "url": "https://www.nice.org.uk/guidance/ng249",
+      "tier": "Tier 1 related",
+      "used": true
+    },
+    {
+      "title": "British Geriatrics Society: Introduction to Frailty / Fit for Frailty context",
+      "url": "https://www.bgs.org.uk/introduction-to-frailty",
+      "tier": "Specialty context",
+      "used": true
+    }
+  ]
+}

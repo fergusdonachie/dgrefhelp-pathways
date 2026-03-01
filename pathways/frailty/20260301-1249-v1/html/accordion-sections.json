@@ -1,0 +1,22 @@
+[
+  {
+    "heading": "Assessment",
+    "html": "<p>Identify frailty in adults with multimorbidity, falls risk, frequent unplanned care use, or high treatment burden. Frailty assessment should be practical, repeatable, and linked to action.</p><ul><li>Consider PRISMA-7, gait speed assessment, or self-rated health status alongside clinical judgement.</li><li>Assess function, mobility, ADLs, cognition, mood, nutrition, hydration, continence, and social support.</li><li>Review recent stressors (infection, medication changes, falls, hospital discharge) and trajectory of decline or recovery.</li><li>Assess treatment burden, including medicine count and complexity, appointment load, and adherence barriers.</li></ul>"
+  },
+  {
+    "heading": "Primary care management",
+    "html": "<p>The default approach is proactive, person-centred, and coordinated care aimed at preserving independence and reducing avoidable harm.</p><ul><li><strong>Individualised management plan:</strong> agree goals, priorities, key risks, and named care coordinator.</li><li><strong>Medication optimisation:</strong> reconcile all medicines, reduce low-value or high-risk prescribing, simplify regimens, and monitor after changes.</li><li><strong>Falls prevention:</strong> assess falls history, postural blood pressure, medicine contributors, mobility and home risk; link with local falls services.</li><li><strong>Nutrition and hydration:</strong> identify weight loss/poor intake early and involve community dietetic or therapy support where needed.</li><li><strong>Cognition and mental health:</strong> screen for delirium risk, cognitive decline, and depression/anxiety; address reversible contributors.</li><li><strong>Review schedule:</strong> increase frequency after deterioration or medication changes; provide clear safety-net and urgent-contact advice.</li></ul>"
+  },
+  {
+    "heading": "Who to refer",
+    "html": "<p><strong>Urgent same-day referral</strong></p><ul><li>Acute delirium, suspected sepsis, major injury/fracture, or rapid functional collapse.</li><li>Unsafe home situation due to immediate carer breakdown or safeguarding concern.</li><li>Acute inability to maintain hydration/nutrition or inability to cope safely at home.</li></ul><p><strong>Routine referral</strong></p><ul><li>Progressive frailty with recurrent falls or repeated unplanned hospital use.</li><li>Complex polypharmacy or treatment-burden decisions beyond routine primary care optimisation.</li><li>Need for comprehensive geriatric assessment or coordinated MDT planning.</li></ul><p><strong>Include in referral</strong></p><ul><li>Frailty assessment method and score/clinical impression.</li><li>Functional baseline and recent trajectory.</li><li>Falls history, medicines list and recent changes, and social/carer context.</li></ul>"
+  },
+  {
+    "heading": "Who not to refer",
+    "html": "<p>Do not routinely refer people with stable mild frailty whose needs are being met in primary care and community services, with no red flags and no rapid decline.</p><p>Continue structured proactive review, medication optimisation, falls prevention, and timely escalation if risk increases.</p>"
+  },
+  {
+    "heading": "References",
+    "html": "<ul><li><a href=\"https://www.nice.org.uk/guidance/ng56/chapter/recommendations\">NICE NG56 recommendations: multimorbidity and frailty assessment/care</a></li><li><a href=\"https://www.nice.org.uk/guidance/ng249\">NICE NG249: falls assessment and prevention</a></li><li><a href=\"https://www.bgs.org.uk/introduction-to-frailty\">British Geriatrics Society: Introduction to Frailty</a></li></ul>"
+  }
+]

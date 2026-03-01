@@ -1,0 +1,17 @@
+{
+  "topic": "frailty in adults",
+  "scope": {
+    "population": "Adults, mainly older people, in community and primary care settings",
+    "setting": "Primary care / community / interface with urgent and specialist geriatric services",
+    "focus": [
+      "Case finding and frailty assessment",
+      "Detailed primary care management",
+      "Medication burden and falls risk review",
+      "Referral thresholds and care coordination"
+    ],
+    "exclusions": [
+      "Condition-specific specialist pathways not primarily frailty-led",
+      "Acute inpatient CGA protocols in full detail"
+    ]
+  }
+}
