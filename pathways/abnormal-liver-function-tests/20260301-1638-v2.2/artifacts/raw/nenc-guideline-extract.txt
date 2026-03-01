@@ -1,0 +1,675 @@
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Liver Network 
+ 
+ 
+ 
+Guidelines for the Management of Adults with 
+Asymptomatic Liver Blood Test Abnormalities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prof Stuart McPherson  
+On behalf of the North East & North Cumbria Hepatology Network 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+2 
+  
+ 
+Introduction 
+ 
+This guideline relates to adults with only vague or no symptoms or signs of liver 
+disease, found to have abnormal liver blood tests.  This guideline does not apply to 
+children. 
+ 
+It is recognised that abnormal liver blood tests are an increasingly common 
+presentation in primary care, in part due to the growing number of individuals with 
+metabolic dysfunction associated steatotic liver disease (MASLD; formerly named 
+non-alcoholic fatty liver disease [NAFLD]). 
+ 
+This guideline makes recommendations for the diagnosis and management of adults 
+with abnormal liver blood tests with little or no symptoms, and is intended for use by 
+all clinicians in the North East and North Cumbria in the diagnosis and management 
+of these patients. The interventions should be offered to all people who are likely to 
+benefit, irrespective of race, disability, gender, age, sexual orientation or religion. 
+Information should be provided to patients in an accessible format and consideration 
+should be given to mobility and communication issues, and being aware of sensitive 
+and cultural issues. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+3 
+STEP 1 – PATTERN RECOGNITION 
+ 
+What sort of abnormality do the abnormal liver blood tests suggest? 
+ 
+a. Isolated raised bilirubin – most commonly due to Gilbert’s syndrome. This is 
+a benign condition and does not need referral. It occurs in about 5% of the 
+population.   
+ 
+Repeat Liver blood tests on a fasting sample with an FBC.  The bilirubin 
+should rise further and there should be no evidence of anaemia.  If the patient 
+is anaemic haemolysis needs to be excluded (reticulocyte count, LDH). 
+ 
+b. Cholestatic pattern – Alkaline phosphatase (Alk phos) raised significantly 
+more than ALT. Remember bone causes of raised Alk phos e.g. Paget’s 
+Disease. Repeating Liver blood tests with a GGT can help confirm a liver 
+cause. 
+ 
+c. Hepatitic pattern – Most marked abnormality is a raised ALT (and AST if 
+reported), though Alk phos and/or GGT may also be raised.  These can be 
+short-lived, due to intercurrent illness or muscular injury, reverting to normal a 
+few days or weeks later.  The bulk of this guidance refers to patients with this 
+pattern of abnormality. 
+ 
+d. Isolated raised GGT (GGT is not routinely analysed in a liver enzyme panel 
+in many Trusts unless specifically requested) - GGT is the most common liver 
+enzyme abnormality in people with alcohol-related liver disease and metabolic 
+dysfunction associated steatotic liver disease (MASLD). It can also be raised 
+in other liver conditions such as drug-induced liver injury, hepatic congestion 
+secondary to heart failure, liver metastases and cholestatic liver disorders 
+(usually with raised ALP). While a particularly high level of GGT, such as 
+>1000 U/L, is frequently associated with excessive alcohol consumption, more 
+modest elevations (up to 500 U/L) are very commonly seen in patients with 
+MASLD and can be accompanied by a normal or raised ALT.
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+4 
+STEP 2 – FIRST ASSESSMENT 
+ 
+Given that the most common causes of abnormal liver blood tests are MASLD (fatty 
+liver associated with features of the metabolic syndrome), potentially harmful alcohol 
+consumption and adverse drug reactions, a careful drug/alcohol history should be 
+taken and other features of the metabolic syndrome (hypertension, diabetes, obesity 
+and abnormal lipids) should be sought.  Consider using the AUDIT or FAST 
+questionnaire for detecting hazardous or harmful drinking.  Patients should be given 
+general advice as appropriate (reduction in alcohol intake, weight reduction by diet 
+and exercise) and any drugs known to be associated with drug induced liver injury 
+should be suspended if possible.  Of particular note are NSAIDs.  These should be 
+stopped and liver blood tests repeated after 3 months. In cholestatic abnormalities 
+antibiotics, especially flucloxacillin, are relatively common cause. 
+ 
+Many other drugs that cause abnormal liver blood tests are more difficult to stop (e.g. 
+neuroleptics, anti-epileptics).  Referral to liver advice and guidance or obtaining 
+advice from the prescribing specialist may be appropriate in these circumstances.  
+Patients with high risk alcohol consumption (AUDIT ≥15) should be referred to 
+addiction services when appropriate. 
+ 
+Repeat the liver blood tests, requesting AST and γGT also, with an FBC. 
+ 
+When to repeat the liver blood tests? 
+ 
+a. Isolated raised bilirubin – fasting sample when convenient 
+b. Isolated raised Alk phos (confirmed as liver with GGT) – no delay needed 
+c. Isolated ALT – repeat in 1-3 months 
+d. Isolated GGT - repeat in 1-3 months 
+e. A raised ALT or Alk phos that is over 3x the upper limit of normal should 
+have the above done without delay at the same time as a liver screen and 
+USS (step 3) 
+f. A raised ALT or raised Alk phos, in combination with raised bilirubin should 
+be referred routinely to a liver clinic or gastroenterologist. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+5 
+Please order an USS of liver / spleen / pancreas routinely at the same 
+time. 
+ 
+The presence of unexplained clinical jaundice should lead to immediate 
+referral. 
+ 
+STEP 3 – SECOND ASSESSMENT (PERSISTENTLY ABNORMAL LIVER BLOOD 
+TESTS) 
+ 
+If the abnormalities have persisted for 1-3 months despite the above measures, then 
+a liver screen should be arranged  (see below). In some parts of the region (Durham 
+and Cumbria) intelligent liver function tests (iLFT) can be requested which is an 
+automated approach to conducting this testing: 
+ 
+a. Viral screen (HBsAg, HCVAb, HIV test) 
+b. Autoantibodies – ANA, AMA, ASMA and immunoglobulins 
+c. Coeliac screen (TTG Ab) 
+d. Ferritin and Transferrin Saturation 
+e. HbA1c and fasting lipids 
+f. USS liver, biliary tree, pancreas  - request for all patients with cholestatic 
+liver enzymes or patients aged ≥ 50 years with hepatitic or mixed pattern of 
+liver enzymes . An USS liver is not essential for patients with 
+suspected steatotic (fatty)  liver disease under 50 years who have a 
+low FIB -4 score (<1.3) as these scans do not  usually add any 
+additional information.  
+ 
+STEP 4 – DECIDE WHO TO REFER 
+ 
+The history taken and results so far should point to possible pathologies causing the 
+abnormal liver blood tests.  Most of the list below will need referral for further 
+assessment and management. 
+ 
+• Chronic viral hepatitis – history of risk behaviours, blood transfusion and positive 
+viral hepatitis serology. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+6 
+• Primary biliary cholangitis – raised Alk phos (cholestatic pattern), positive anti-
+mitochondrial antibody. 
+• Primary sclerosing cholangitis – history of inflammatory bowel disease, 
+cholestatic pattern on liver blood tests. 
+• Autoimmune hepatitis – positive autoantibodies (smooth muscle, antinuclear 
+antibodies and typically a raised IgG), might have history of other autoimmune 
+diseases,  
+• Haemochromatosis – raised ferritin and transferrin saturation (>45%). Might 
+have history of diabetes and joint pain.  
+• USS – the presence of dilated bile ducts requires further assessment and 
+URGENT hospital referral on an NCA Upper GI pathway. Any reported dilation 
+of the biliary tree is significant. 
+ 
+Many of these patients in the list below will not require referral.  Low risk patients with 
+steatotic liver disease can be managed in primary care. 
+ 
+• Alcohol-related liver disease 
+o from history, raised MCV,  raised ferritin with normal transferrin 
+saturation, steatosis on USS.  
+o Advanced alcohol -related liver disease is indicated by nodular liver, 
+splenomegaly or other si gns of portal hypertension on USS , l ow 
+platelets, low albumin or raised bilirubin 
+• Metabolic dysfunction steatotic liver disease (MASLD; formally named NAFLD)  
+o Patients likely to have raised BMI or increased waist circumference, 
+hypertension, pre-diabetes or diabetes, raised fasting triglyceride and 
+low HDL cholesterol. 
+o Not consuming more than 14 units alcohol per week for females and 21 
+units per week for males 
+o An USS may show a steatotic liver, but a ‘normal ultrasound’ does not 
+exclude mild steatosis  
+o The Liver screen is usually negative, although 10% will have low level 
+liver autoantibodies (with a normal IgG level). A raised ferritin (with 
+transferrin saturation <45%) is seen in a third of cases. IgA is raised in 
+about half of cases. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+7 
+• MetALD (people with metabolic associated steatosis who consume 
+moderately excessive alcohol) 
+o Same clinical features as above 
+o Alcohol consumption 14-40 units per week for females and 21-50 units 
+per week for males. 
+ 
+The hazardous drinker without evidence of advanced liver disease requires advice, 
+regular counselling and, where appropriate, referral to secondary care alcohol 
+specialists (AUDIT score ≥15). These patients do not require referral to liver clinics. 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+8 
+STEP 5 – RISK STRATIFICATION OF PATIENTS WITH MASLD or MetALD 
+ 
+Steatotic liver disease represents a spectrum of metabolic syndrome-associated liver 
+disease progressing from simple steatosis (fat but no inflammation or hepatocellular 
+injury), through to steatohepatitis (MASH = fat + inflammation+ hepatocellular injury) 
+and fibrosis to cirrhosis.  Estimates suggest that up to a third of the population has 
+MASLD.  Approximately 40% of patients with MASLD develop progressive fibrosis, 
+which can progress to cirrhosis in 10%. Patients with cirrhosis are at risk life 
+threatening liver related complications, such as hepatocellular carcinoma, portal 
+hypertension and liver failure. 
+ 
+Stage of liver fibrosis is the most important prognostic factor and patients with 
+moderate or severe liver fibrosis are at significant risk of liver-related complications in 
+the future.  There are algorithms based on simple blood tests and clinical parameters 
+that can accurately exclude advanced fibrosis, and these can be used to triage 
+patients who require referral to secondary care for further investigation and 
+management.  The FIB-4 score and NAFLD fibrosis score have been well validated 
+for this purpose. We recommend using the FIB-4 score as it is the most accurate 
+simple score available and is simpler than the NAFLD fibrosis score to calculate. 
+ 
+For all patients with a clinical diagnosis of MASLD or MetALD who have had other 
+causes of liver disease excluded the FIB-4 score should be calculated. 
+ 
+To calculate the FIB-4 score you need 
+– Age 
+– AST 
+– ALT 
+– Platelets 
+An online calculator for this is available at : Fibrosis-4 (FIB-4) Index for Liver Fibrosis - 
+MDCalc 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+9 
+ 
+ 
+ 
+• There are different cut-offs for patients depending on whether their age. 
+• For patients under 65 years of age a FIB-4 score < 1.3 reliably excludes 
+advanced fibrosis. These patients can be managed in primary care 
+• For patients ≥65 years old: a FIB-4 score <2.0 reliably excludes advanced 
+fibrosis.  These patients can be managed in primary care. 
+• If the FIB -4 s core is ≥ 1.3 (for under 65 year olds) or ≥2.0 for ≥65 years 
+olds patients have a significant risk of having ad vanced fibrosis. Referral 
+to a liver clinic or for fibroscan is recommended . If significant/advanced 
+fibrosis is confirmed patients will receive appropriate treatment in secondary 
+care.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+10 
+ 
+ 
+ 
+ 
+Referrals to the liver clinic will be reviewed by a consultant and some patients with 
+suspected MASLD or MetALD where it is clear that they need a fibroscan to stage 
+fibrosis will be triaged directly to a fibroscan.  This will typically be patients with a 
+modestly raised FIB -4 score. This will more rapidly triage patients who need a 
+subsequent liver clinic appointment. Direct access fibroscan is also available in some 
+parts of the region. 
+ 
+Patients whose fibroscan is < 8 kPa will be given lifestyle advice by the fibroscan 
+technician and discharged back to primary care with appropriate follow up advice. 
+Individuals with a fibroscan ≥ 8kPa will be reviewed in the liver clinic for a more 
+detailed assessment. Those with suspected cirrhosis will be offered a “soon” 
+appointment. 
+ 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+11 
+STEP 6 – MANAGE PATIENTS WITH LOWER RISK MASLD or MetALD 
+ 
+Currently the mainstay of management for patients with steatotic liver disease 
+without advanced fibrosis is lifestyle modification and optimisation of diabetes and 
+cardiovascular risk factors. 
+ 
+• A care bundle is available for the management of MASLD (appendix 5) 
+• Give patients advice about MASLD and its treatment. This leaflet from 
+LIVErNORTH provides comprehensive information about steatotic liver 
+disease. 11 Lifestyle and your liver - A guide to Steatotic Liver Disease by 
+LIVErNORTH - Issuu 
+• Lose weight if BMI >25 or raised waist circumference   
+– Aim for at least a loss of 10% of body weight. 
+– Refer to dietetics where appropriate  
+– Consider referral to specialist weight management services if patients 
+meet the criteria for bariatric surgery or GLP-1 analogues 
+– Advise exercise at least 30 minutes 3 times per week (both 
+cardiovascular and resistance exercise are beneficial even independent 
+of weight loss) 
+• Optimize control of diabetes 
+– Use metformin, GLP-1 analogue or SGLT2 inhibitor where possible 
+• Treat hypertension as per NICE guidelines 
+• Drink sensibly – within current limits (<14 units per week for males and 
+females). There is no evidence at present to recommend abstinence, except 
+for patients with cirrhosis where abstinence is recommended. 
+• Reduce other risk factors for vascular disease (https://nescn.nhs.uk/wp-
+content/uploads/2021/07/NEELI-Final-10.2.pdf)  Statins are safe in patients 
+with MASLD and should be actively prescribed as per NICE guidelines 
+• Undertake an annual vascular disease risk score as patients with MASLD are 
+more at risk from this than from direct effects on the liver. 
+• Calculate the FIB-4 score every 3 years and refer if the FIB-4 score increases 
+above the age-related cut-off. For patients >80 years old or those with 
+significant other co-morbidity further FIB-4 testing may not be appropriate as it 
+will be unlikely to change their management  
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+12 
+ 
+APPENDIX 1  
+ 
+Testing for Gilbert’s syndrome 
+ 
+A solitary abnormal raised bilirubin result is likely to be due to Gilbert’s. Repeat 
+testing should confirm that none of the other Liver blood tests are abnormal. A repeat 
+fasting sample should show a further isolated rise in bilirubin. 
+ 
+If you wish to confirm that the rise in bilirubin is unconjugated, send the sample 
+wrapped (e.g. in a small envelope) within the usual pathology bag.  This will reduce 
+light exposure (which leads to conjugation).  At low levels of bilirubin, testing for 
+conjugation is unreliable (e.g. up to 25μmol/L). 
+ 
+Confirm there is no evidence of haemolysis – reticulocytes and LDH will be normal 
+(raised retics/LDH seen in haemolysis).  There is no need to test the urine. 
+ 
+Samples required to confirm Gilbert’s: 
+ 
+1 x SST 11 (gold top) wrapped 
+1 x EDTA (lavender top) 
+ 
+ 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+13 
+APPENDIX 2 
+ 
+Samples required for full liver screen (Step 3) 
+ 
+3x SST 11 (gold top) 
+1 x Fluoride oxalate (grey top) 
+2 x EDTA (lavender top) 
+ 
+FBC 
+Liver enzymes, AST and GGT 
+HbA1c  
+lipids 
+ferritin 
+Liver autoantibodies and TTG 
+Immunoglobulins 
+HBsAg, HCVAb and HIV. 
+Transferrin saturation (if ferritin increased) 
+ 
+ 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+14 
+APPENDIX 3 
+After consideration, screening for Wilson’s disease and alpha-1-antitrypsin deficiency 
+has been left out of our recommended liver screen (Step 3).  This is due to the rarity 
+of these conditions and the significant cost of the relevant tests.  However, you may 
+want to consider these conditions in patients presenting with atypical features at a 
+young age. 
+ 
+Wilson’s disease 
+An autosomal recessive disorder of hepatic copper metabolism.  Wilson’s disease 
+most commonly presents in the teenage years and should always be considered in 
+this context particularly in the presence of neuropsychiatric features.   However, 
+Wilson’s disease can be very difficult to diagnose and there is no single diagnostic 
+test that can exclude or confirm Wilson’s disease with 100% certainty.  Suspicion 
+should be alerted in the patient with a low alkaline phosphatase level or Coomb’s 
+negative haemolytic anaemia.  A low serum caeruloplasmin level is a useful screen 
+but can be normal. 
+ 
+Alpha 1 antitrypsin deficiency (AAT) 
+AAT is a proteinase inhibitor and mainly produced in the liver.  AAT disease of the 
+liver is rare in adults.  Most commonly presenting within the first week of birth with 
+jaundice.  AAT deficiency is particularly important in the lungs, especially with a 
+history of smoking.  Be suspicious in the patient with COPD who has evidence of 
+chronic liver disease but in the absence of obvious risk factors. Heterozygous 
+carriers have an increased susceptibility to liver injury in the presence of a “second 
+hit” on the liver as with excessive alcohol consumption. However, patients should be 
+advised not to smoke and keep alcohol intake within recommended safe drinking 
+limits. 
+ 
+Coeliac disease 
+Coeliac disease can present with cryptogenic liver disease with persistent 
+“transaminitis” in up to 5 – 10% patients. This will often resolve with a gluten free diet 
+but may persist and can be associated with autoimmune liver disease.  There is a 
+reported increased association with haemochromatosis and a three-fold higher 
+incidence of coeliac disease in MASLD as compared to the general population. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+15 
+However, be aware that in the presence of chronic liver disease tissue 
+transglutaminase (TTG) antibodies can be falsely elevated. 
+ 
+Hereditary Haemochromatosis 
+ 
+Hereditary haemochromatosis is a common inherited (recessive) disorder of iron 
+absorption.  This can result in iron deposition in tissues, mainly the liver but also 
+other organs including the pancreas and heart.  The C282Y and H36D mutations 
+within the HFE gene account for > 90% cases seen in our region.  There are at least 
+4 other mutations that have been identified that account for the remaining 10% of 
+cases but the tests are not widely available for clinical use.   
+ 
+Generally speaking, we recommend HFE genotyping if the Transferrin saturation is > 
+45% in the presence of a raised serum ferritin.   
+ 
+Ferritin is an acute phase reactant and can be raised in a wide range of inflammatory 
+conditions, obesity and Type 2 diabetes.  In addition, a raised serum ferritin is often 
+seen in other liver conditions such as alcohol-related liver disease, hepatitis C and 
+non–alcoholic steatohepatitis.   
+ 
+Hereditary haemochromatosis is an important condition to diagnose as it is readily 
+treatable (venesection) and has implications for other family members.  Those 
+parents, siblings and children over the age of 20 years will require screening.   
+ 
+Some patients ask for dietary advice.  They should avoid iron – rich foods and 
+vitamin C supplements, minimize alcohol to within recommended safe drinking limits 
+and advise weight loss in patients with central obesity. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+16 
+ 
+ 
+ 
+APPENDIX 4 
+ 
+Adverse drug effects on the liver are important and should be considered when 
+assessing patients with liver function abnormalities. 
+ 
+This is not a comprehensive list but some of the commonest culprits are: 
+NSAIDs 
+ 
+Antibiotics: Flucloxacillin, Co-amoxiclav, 
+ 
+Antiepileptics: Phenytoin, Carbamazepine, Sodium Valproate 
+ 
+Antituberculous drugs: Rifampicin, Isoniazid, Ethambutol 
+ 
+NB: Statin induced hepatotoxicity is very rare, and most abnormal liver blood tests in 
+the setting of statin use are due to underlying metabolic dysfunction associated 
+steatotic liver disease. 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+17 
+APPENDIX 5 
+ 
+Care bundle: Management of patients with steatotic (fatty) liver disease in 
+primary care 
+Date seen………………………… 
+ 
+ 
+Weight (kg) Height (m) BMI BP (mmHg) 
+Overweight/       □ 
+Obesity             
+Type 2 diabetes   □ 
+Year diagnosed: …………. 
+Hypertension     □ Dyslipidaemia     □ 
+Current alcohol consumption                                                   units/week 
+ 
+If alcohol consumption is greater than 14/21 units per week for females/males then advise reduction or abstinence 
+Current FIB-4 score ……………………..                                         Last staging date: …………………… 
+ Stage with FIB-4 at diagnosis and then re-stage every 3 years or more frequently                                                                   
+Lifestyle changes  
+Ensure information leaflets on NAFLD given              Y         N 
+Change in weight since last review (+ or -)              kg                 % 
+Target weight (aim >5% weight loss if overweight and >10% if obese)              kg 
+Discuss/reinforce dietary advice              Y         N 
+If not losing weight offer referral to dietician   Y     N     N/A    decline 
+Discuss increasing activity/exercise              Y         N 
+Managing metabolic risk factors 
+Review BP  Y         N 
+Review diabetic control/ screen for diabetes  Y         N 
+Ensure on statin - If no, why not?                       Not tolerated   □    Low risk   □                                    
+(statins are recommended for patients with T2DM or a QRISK2 >10%) 
+ Y         N  
+Smoking cessation advice  Y         N     N/A 
+When to refer to hepatology 
+Consider referral if FIB-4 score >1.3 for <65 years and >2.0 for ≥ 65yrs  Y     N     N/A 
+Routine investigations:  FBC, U/E, LFT, AST, GGT, HbA1c, glucose, lipids. 
+ 
+
+ 
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+18 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+ 
+19 
+Asymptomatic Liver Blood Test Abnormalities 
+Raised ALT or GGT 
+ 
+  Raised ALT or GGT 
+≥ X 3 Normal ≤ X 3 Normal 
+FBC and AST 
+Liver screen: 
+HBsAg, HCV, HIV 
+Autoantibodies 
+Ferritin 
+Fasting Glucose or 
+HbA1c 
+Immunoglobulins 
+TTG 
+Ultrasound Scan 
+In 1-3 months repeat: 
+LFT, AST/FBC 
+Normal ALT or GGT 
+No further 
+action if no risk 
+factors for liver 
+disease 
+Refer to 
+Liver Clinic 
+Raised ALT or GGT 
+Liver screen 
+Positive 
+Liver screen 
+Refer 
+MASLD suspected 
+Calculate FIB-4 score 
+http://gihep.com/calculators/hepatolo
+gy/fibrosis-4-score/ 
+<1.3 for age <65 yrs 
+<2.0 for age ≥65 yrs 
+Lifestyle advice 
+If in doubt 
+discuss with the 
+on-call Liver 
+Consultant 
+≥1.3 for age <65 yrs 
+≥2.0 for age ≥65 yrs 
+Refer 
+
+ 
+Version History: Date: Feb 2024 Version: V3.1 Review Date: Feb 2026 
+ 
+ 
+20 
+Asymptomatic Liver Blood Test Abnormalities 
+ 
+Jaundice 
+Raised bilirubin with raised 
+ALP or ALT 
+ 
+No Jaundice 
+Immediate  
+referral to  
+Liver Clinic 
+Urgent 
+referral to 
+Liver Clinic 
+Urgent e 
+referral 
+according 
+to local 
+policy 
+Choose and 
+Book or  
+paper referral 
+Isolated raised bilirubin 
+Repeat fasting blood sample, 
+LFTs and FBC 
+No Anaemia Anaemia 
+Probable  
+Gilbert’s  
+Syndrome 
+Haemolysis  
+screen: 
+Haptoglobins 
+LDH 
+Reticulocyte 
+count 
+Isolated raised ALP 
+Repeat LFTs with γGT, AST 
+& FBC 
+Normal γGT Raised γGT 
+Consider 
+Bone: 
+Paget’s 
+Vitamin D 
+deficiency 
+Liver Screen: 
+HBsAg, HCV, HIV 
+Autoantibodies 
+Ferritin 
+Blood Glucose 
+Immunogloblulins 
+TTG 
+Ultrasound scan 

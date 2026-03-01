@@ -1,0 +1,39 @@
+{
+  "topic": "abnormal liver function tests",
+  "version": "v2",
+  "sources": [
+    {
+      "title": "NHS SPS assessing liver function and interpreting liver blood tests",
+      "url": "https://www.sps.nhs.uk/articles/assessing-liver-function-and-interpreting-liver-blood-tests/",
+      "used_for_extraction": true
+    },
+    {
+      "title": "BSG guideline on abnormal liver blood tests",
+      "url": "https://www.bsg.org.uk/getmedia/b51bdc64-7145-43ad-828b-21f473b0a918/Guidelines-on-the-management-of-abnormal-liver-blood-tests.pdf",
+      "used_for_extraction": true,
+      "extraction_mode": "pdf_fallback_pypdf"
+    },
+    {
+      "title": "NENC hepatology network guideline",
+      "url": "https://ntag.nhs.uk/wp-content/uploads/2024/08/Abnormal-Liver-blood-test-Guidelines-NENC-Hepatology-Network-V3.1-01-08-2024.pdf",
+      "used_for_extraction": true,
+      "extraction_mode": "pdf_fallback_pypdf"
+    },
+    {
+      "title": "NHS Borders Right Decisions asymptomatic abnormal LFTs in primary care",
+      "url": "https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/gastroenterology/abnormal-liver-function-tests-lfts-in-asymptomatic-patient-in-primary-care/",
+      "used_for_extraction": true
+    },
+    {
+      "title": "NHS Lothian RefHelp abnormal LFTs inc Fib4",
+      "url": "https://apps.nhslothian.scot/refhelp/guidelines/gastrointestinal/liverandbiliary/abnormallftsincfib4score/",
+      "used_for_extraction": true
+    },
+    {
+      "title": "NB Medical KISS check",
+      "url": "https://dashboard.nbmedical.com/kiss-summaries",
+      "used_for_extraction": true,
+      "notes": "Authenticated browser extraction completed for KISS: Liver Disease (Hot Topics GP Update Spring/Summer 2026), aligned with BMJ 2025 framework."
+    }
+  ]
+}
