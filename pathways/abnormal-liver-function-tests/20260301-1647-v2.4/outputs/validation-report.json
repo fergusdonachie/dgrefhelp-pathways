@@ -32,6 +32,10 @@
     {
       "level": "pass",
       "message": "Assessment now explicitly states D&G routine LFT components and required add-on tests including platelets (via FBC)."
+    },
+    {
+      "level": "pass",
+      "message": "Referral section now uses D&G four-tier model: Hospital admission (same day), USOC, Urgent, Routine."
     }
   ]
 }
