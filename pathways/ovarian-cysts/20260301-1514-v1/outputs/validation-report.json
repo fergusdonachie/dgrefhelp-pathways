@@ -1,0 +1,9 @@
+{
+  "status": "pass_with_warnings",
+  "checks": [
+    {"level": "pass", "message": "Required draft, HTML, and cms-upload-bundle artifacts generated."},
+    {"level": "pass", "message": "Accordion uses DGRefHelp canonical heading set and order."},
+    {"level": "pass", "message": "HTML uses permitted plain tags only."},
+    {"level": "warning", "message": "Local D&G urgent referral routes and imaging follow-up intervals should be inserted before publication."}
+  ]
+}

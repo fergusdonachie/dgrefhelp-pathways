@@ -1,0 +1,22 @@
+[
+  {
+    "heading": "Assessment",
+    "html": "<p>Assess for emergency complications, cancer risk pattern, and menopausal status at first contact.</p><ul><li>Urgently assess severe acute unilateral pain, peritonism, haemodynamic instability, fever, or persistent vomiting.</li><li>Elicit ovarian-cancer symptom pattern: persistent bloating, early satiety/loss of appetite, pelvic or abdominal pain, urinary urgency/frequency.</li><li>Examine for abdominal/pelvic mass and ascites.</li><li>For suspected cancer pattern, follow CA125 and ultrasound triage sequence.</li></ul>"
+  },
+  {
+    "heading": "Primary care management",
+    "html": "<p>The default approach is risk-stratified management with explicit safety-netting.</p><ul><li><strong>Cancer triage:</strong> check CA125 in women with suggestive symptoms; if CA125 is 35 IU/ml or higher, arrange ultrasound.</li><li><strong>Urgent cancer referral:</strong> if ascites or suspicious pelvic/abdominal mass is present, or ultrasound suggests ovarian cancer.</li><li><strong>Conservative management:</strong> for likely benign, simple, low-risk cysts, provide symptom control and interval review.</li><li><strong>Premenopausal women:</strong> many simple/functional cysts resolve; refer if persistent symptoms, growth, or uncertain imaging.</li><li><strong>Postmenopausal women:</strong> lower threshold for specialist risk review; simple unilateral unilocular cysts 3 cm or less are often low-risk and may not need routine follow-up.</li><li><strong>Safety-net:</strong> advise urgent re-attendance for worsening pain, distension progression, systemic illness, or reduced oral intake.</li></ul>"
+  },
+  {
+    "heading": "Who to refer",
+    "html": "<p><strong>Urgent same-day referral</strong></p><ul><li>Suspected ovarian torsion, rupture with instability, peritonitis, or sepsis.</li><li>Severe uncontrolled acute pelvic pain requiring urgent specialist assessment.</li></ul><p><strong>Urgent suspected cancer pathway referral</strong></p><ul><li>Ascites and/or pelvic or abdominal mass not clearly uterine fibroids.</li><li>Ultrasound features suspicious for ovarian malignancy.</li><li>High ongoing suspicion despite non-diagnostic first-line testing.</li></ul><p><strong>Routine referral</strong></p><ul><li>Persistent symptomatic cysts, enlarging lesions, or unresolved cysts on interval imaging.</li><li>Uncertain diagnosis or need for specialist management planning.</li></ul><p><strong>Include in referral</strong></p><ul><li>Menopausal status, symptom duration and progression.</li><li>CA125 result, ultrasound report, and key examination findings.</li><li>Pain burden, analgesic response, and safety-net actions already taken.</li></ul>"
+  },
+  {
+    "heading": "Who not to refer",
+    "html": "<p>Do not routinely refer asymptomatic or minimally symptomatic women with clearly low-risk simple cyst appearances and no concerning clinical features, when a documented conservative plan and safety-net are in place.</p><p>Continue primary care review with escalation if symptoms persist, worsen, or imaging risk profile changes.</p>"
+  },
+  {
+    "heading": "References",
+    "html": "<ul><li><a href=\"https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer#ovarian-cancer\">NICE NG12: suspected cancer referral (ovarian cancer section)</a></li><li><a href=\"https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/management-of-suspected-ovarian-masses-in-premenopausal-women-green-top-guideline-no-62/\">RCOG Green-top 62: suspected ovarian masses in premenopausal women</a></li><li><a href=\"https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/ovarian-cysts-in-postmenopausal-women-green-top-guideline-no-34/\">RCOG Green-top 34: ovarian cysts in postmenopausal women</a></li></ul>"
+  }
+]

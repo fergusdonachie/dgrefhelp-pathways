@@ -1,0 +1,18 @@
+{
+  "topic": "ovarian cysts",
+  "scope": {
+    "population": "Women aged 18+ with suspected or incidentally detected ovarian cysts/masses (non-pregnancy pathway)",
+    "setting": "Primary care triage and referral",
+    "focus": [
+      "Initial assessment and exclusion of emergency presentations",
+      "Primary care investigation and safety-netting",
+      "Cancer-risk triage and referral thresholds",
+      "Follow-up approach for likely benign cysts"
+    ],
+    "exclusions": [
+      "Pregnancy-related ovarian cyst pathway",
+      "Definitive operative/surgical protocols",
+      "Confirmed ovarian malignancy treatment"
+    ]
+  }
+}

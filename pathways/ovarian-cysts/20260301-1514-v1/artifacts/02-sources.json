@@ -1,0 +1,23 @@
+{
+  "topic": "ovarian cysts",
+  "sources": [
+    {
+      "title": "NICE NG12 suspected cancer referral (ovarian cancer section)",
+      "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer#ovarian-cancer",
+      "tier": "Tier 1",
+      "used": true
+    },
+    {
+      "title": "RCOG Green-top 62 premenopausal suspected ovarian masses",
+      "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/management-of-suspected-ovarian-masses-in-premenopausal-women-green-top-guideline-no-62/",
+      "tier": "Tier 1 specialty",
+      "used": true
+    },
+    {
+      "title": "RCOG Green-top 34 ovarian cysts in postmenopausal women",
+      "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/ovarian-cysts-in-postmenopausal-women-green-top-guideline-no-34/",
+      "tier": "Tier 1 specialty",
+      "used": true
+    }
+  ]
+}
