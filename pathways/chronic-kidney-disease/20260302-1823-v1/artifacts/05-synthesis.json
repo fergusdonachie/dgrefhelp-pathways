@@ -1,0 +1,18 @@
+{
+  "topic": "Chronic Kidney Disease (CKD) in adults",
+  "version": "v1",
+  "consensus": {
+    "default_position": "Most stable CKD can be managed in primary care using structured monitoring and renal/cardiovascular risk reduction.",
+    "key_thresholds": [
+      "Confirm CKD with persistence for >=3 months",
+      "Severe albuminuria: ACR >=70 mg/mmol",
+      "Referral support threshold: KFRE 5-year risk >5% (where applicable)",
+      "Urgent escalation for rapid decline, nephritic presentation, refractory electrolyte derangement, or suspected systemic renal disease"
+    ]
+  },
+  "summary": [
+    "Primary care first for stable CKD",
+    "Use precise thresholds and progression criteria",
+    "Escalate quickly when instability or high risk is present"
+  ]
+}

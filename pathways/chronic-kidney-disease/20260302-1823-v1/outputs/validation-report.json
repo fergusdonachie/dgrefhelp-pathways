@@ -1,0 +1,18 @@
+{
+  "topic": "Chronic Kidney Disease (CKD) in adults",
+  "version": "v1",
+  "status": "pass_with_warnings",
+  "checks": [
+    {"name": "Canonical heading set/order", "result": "pass"},
+    {"name": "D&G referral tier order", "result": "pass"},
+    {"name": "Explicit threshold-led management", "result": "pass"}
+  ],
+  "warnings": [
+    "Confirm local D&G renal service destination wording and any board-specific KFRE threshold preference before publish.",
+    "Confirm local monitoring cadence text by CKD stage table if you want fixed frequencies embedded in final version."
+  ],
+  "errors": [],
+  "info": [
+    "NB Medical authenticated check completed and documented in sources artifact."
+  ]
+}

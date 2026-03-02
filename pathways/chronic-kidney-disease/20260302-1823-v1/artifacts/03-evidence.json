@@ -1,0 +1,20 @@
+{
+  "topic": "Chronic Kidney Disease (CKD) in adults",
+  "version": "v1",
+  "evidence_points": [
+    "Diagnose CKD when reduced eGFR and/or markers of kidney damage persist for at least 3 months.",
+    "Stage CKD using both G-stage (eGFR) and A-stage (ACR).",
+    "Use CKD-EPI equation for eGFR reporting in adults.",
+    "Use urine ACR for proteinuria assessment; ACR >=3 mg/mmol is clinically significant and ACR >=70 mg/mmol is severe proteinuria.",
+    "Assess progression with eGFR trend and ACR trend, not single values alone.",
+    "Use KFRE in CKD stages G3a-G5 to support referral decisions; 5-year kidney failure risk >5% supports renal referral.",
+    "Refer urgently for suspected rapidly progressive glomerulonephritis/vasculitis, severe hyperkalaemia, or acute-on-chronic deterioration requiring same-day specialist input.",
+    "Treat cardiovascular and renal risk aggressively (BP control, RAAS blockade where indicated, SGLT2 inhibitor use when eligible, statin therapy)."
+  ],
+  "summary": [
+    "CKD requires persistence >=3 months",
+    "Staging uses eGFR plus ACR",
+    "Referral combines risk tools (KFRE), severity, and progression",
+    "Primary care treatment is risk-factor and renoprotective management"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "baseline": "none",
+  "summary": [
+    "New CKD pathway created in canonical pathways structure.",
+    "Includes persistence criteria, G/A staging, KFRE use, and explicit referral thresholds.",
+    "Applies D&G referral urgency tier order."
+  ],
+  "editor_checklist": [
+    "Confirm local fixed monitoring intervals by CKD stage for inclusion in primary care section.",
+    "Confirm local wording for urgent renal advice route vs direct admission.",
+    "Confirm local handling wording for haematuria overlap with urology USOC pathways."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Assessment",
+      "html": "<p>Confirm CKD, stage risk, and identify red flags.</p><ul><li>Confirm persistence for at least 3 months (repeat eGFR/ACR as required).</li><li>Stage using both G-stage (eGFR) and A-stage (ACR).</li><li>Check baseline bloods and urine, blood pressure, cardiovascular risk, and medication risks.</li><li>In CKD G3a-G5, calculate KFRE 5-year risk to support referral decisions.</li><li>Escalate urgently if rapid decline, nephritic/vasculitic picture, severe hyperkalaemia, or acute-on-chronic instability.</li></ul>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<p>Most stable CKD should be managed proactively in primary care.</p><ul><li>Optimise blood pressure and RAAS blockade where indicated.</li><li>Use SGLT2 inhibitor treatment when eligible under current guidance.</li><li>Treat cardiovascular risk (including statin therapy unless contraindicated).</li><li>Optimise diabetes care and support smoking cessation.</li><li>Avoid nephrotoxins and adjust medicine doses to renal function.</li></ul><p><strong>Key thresholds:</strong></p><ul><li>ACR ≥70 mg/mmol: refer.</li><li>KFRE 5-year risk &gt;5% (CKD G3a-G5): refer.</li><li>Persistent progression despite optimisation: refer.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Suspected rapidly progressive glomerulonephritis/vasculitis with systemic features.</li><li>Severe hyperkalaemia or acute deterioration needing immediate specialist care.</li><li>Acute-on-chronic kidney deterioration with clinical instability.</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>Haematuria meeting urology cancer pathway criteria (use local USOC route).</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>Rapid sustained decline in renal function.</li><li>Heavy proteinuria with concerning progression.</li><li>Suspected multisystem renal disease.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>KFRE 5-year risk &gt;5% (CKD G3a-G5).</li><li>ACR ≥70 mg/mmol.</li><li>Progressive CKD despite optimal treatment.</li><li>Resistant hypertension with CKD or diagnostic uncertainty.</li></ul><p><strong>Include in referral</strong></p><ul><li>eGFR and ACR trend with dates.</li><li>BP trend and current treatment.</li><li>Relevant blood/urine results and imaging.</li><li>Comorbidities and current medicines.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<p>Do not routinely refer stable, low-risk CKD with controlled blood pressure and no high-risk progression features. Continue structured primary care monitoring.</p>"
+    },
+    {
+      "heading": "References",
+      "html": "<ol><li><a href=\"https://www.nice.org.uk/guidance/ng203\">NICE NG203: Chronic kidney disease</a>.</li><li><a href=\"https://www.nice.org.uk/guidance/ng136\">NICE NG136: Hypertension in adults</a>.</li><li><a href=\"https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/renal/chronic-kidney-disease/\">Right Decisions NHS D&amp;G: Chronic Kidney Disease</a>.</li></ol>"
+    }
+  ]
+}
