@@ -1,7 +1,7 @@
 # Ovarian cysts in adults
 
 ## Page contents (Background)
-Most ovarian cysts are benign and settle without treatment. In premenopausal women, malignancy is uncommon (around 1 in 1000 in asymptomatic cysts in pathway sources), while risk is higher after menopause (around 3 in 1000 in ovarian masses in women over 50 in pathway sources). The important job in primary care is to pick out the small number of patients who may have:
+Ovarian cysts are common and most are benign. In premenopausal women, malignancy is uncommon (around 1 in 1000 in asymptomatic cysts in pathway sources), while risk is higher after menopause (around 3 in 1000 in ovarian masses in women over 50 in pathway sources). The key clinical task is to distinguish low-risk cysts suitable for conservative management from those linked to acute illness or possible malignancy.
 
 - an acute complication (torsion, rupture, haemorrhage), or
 - a cyst with higher risk of malignancy.
@@ -48,13 +48,14 @@ Postmenopausal risk score (RMI = Risk of Malignancy Index):
 ## Accordion: Primary care management
 ### Premenopausal women
 - Simple cyst <5 cm: no routine follow-up.
-- Simple cyst 5-7 cm: repeat ultrasound (usually 3-6 months).
+- Simple cyst 5-7 cm: repeat ultrasound at 6 months.
 - Simple cyst >7 cm, or persistent/enlarging cyst: refer to gynaecology.
 - Complex cyst: refer (urgency depends on symptoms and malignant features).
 
 ### Postmenopausal women
 - Simple unilateral unilocular cyst <=3 cm: no routine follow-up.
-- Simple cyst >3 to <5 cm with normal CA125 and no suspicious features: interval ultrasound follow-up.
+- Simple cyst >3 to <5 cm with normal CA125 and no suspicious features: repeat ultrasound at 6 months.
+- If unchanged or smaller at 12 months with no new concerning features: discharge.
 - Cyst >5 cm, persistent cyst, symptoms, raised CA125, or suspicious morphology: refer.
 - Any complex cyst: refer (urgent if malignant features/high RMI).
 
