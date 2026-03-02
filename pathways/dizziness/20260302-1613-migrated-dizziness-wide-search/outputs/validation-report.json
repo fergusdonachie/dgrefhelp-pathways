@@ -1,0 +1,19 @@
+{
+  "topic": "dizziness",
+  "version": "v1-migrated",
+  "status": "pass_with_warnings",
+  "checks": [
+    {
+      "name": "Required section headings/order",
+      "result": "pass"
+    },
+    {
+      "name": "Canonical pathways folder structure",
+      "result": "pass"
+    }
+  ],
+  "warnings": [
+    "Migrated from legacy pathway_runs artifacts; please clinically re-validate before publication."
+  ],
+  "errors": []
+}

@@ -1,0 +1,15 @@
+{
+  "topic": "fatty-liver",
+  "version": "v1-migrated",
+  "page_contents_html_path": "pathways/fatty-liver/20260302-1613-migrated-fatty-liver-staged/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/fatty-liver/20260302-1613-migrated-fatty-liver-staged/html/accordion-sections.json",
+  "section_heading_order": [
+    "Assessment",
+    "Primary care management",
+    "Who to refer",
+    "Who not to refer",
+    "References"
+  ],
+  "ready_for_editor_review": true,
+  "migrated_from": "pathway_runs/fatty-liver-staged"
+}

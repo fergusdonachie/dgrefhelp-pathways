@@ -1,0 +1,21 @@
+{
+  "topic": "Fatty liver (MASLD) in adults",
+  "version": "v1",
+  "status": "pass_with_warnings",
+  "checks": [
+    {"name": "Required section headings/order", "result": "pass"},
+    {"name": "Allowed HTML tags", "result": "pass"},
+    {"name": "Referral urgency labels present", "result": "pass"},
+    {"name": "Traceability for key thresholds", "result": "pass"},
+    {"name": "NB KISS detailed extraction", "result": "warning", "detail": "Authenticated access confirmed, but this run captured dashboard-level evidence rather than full KISS text extraction"}
+  ],
+  "errors": [],
+  "warnings": [
+    "NICE guideline currently under update; content should be rechecked before publication sign-off.",
+    "LiverRisk threshold is implemented as local policy input and should be validated against latest D&G document/version."
+  ],
+  "info": [
+    "ELF excluded per local service availability.",
+    "MASLD terminology used throughout."
+  ]
+}

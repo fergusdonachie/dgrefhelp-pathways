@@ -1,0 +1,12 @@
+{
+  "topic": "Ovarian Cysts",
+  "version": "v1-migrated",
+  "scope": {
+    "population": "Adults",
+    "settings": "Primary care referral interface pathway",
+    "note": "Migrated legacy pathway_runs artifact into canonical pathways structure."
+  },
+  "summary": [
+    "Legacy pathway migrated to canonical structure."
+  ]
+}

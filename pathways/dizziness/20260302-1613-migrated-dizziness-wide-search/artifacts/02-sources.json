@@ -1,0 +1,82 @@
+{
+  "topic": "dizziness",
+  "version": "v1-migrated",
+  "migrated_from": "pathway_runs/dizziness-wide-search",
+  "selected_sources": [
+    {
+      "id": "S1",
+      "tier": 1,
+      "publisher": "NICE",
+      "title": "Suspected neurological conditions: recognition and referral (NG127) \u2013 adults section",
+      "url": "https://www.nice.org.uk/guidance/ng127/chapter/recommendations-for-adults-aged-over-16",
+      "use": "Core urgent referral thresholds; HINTS/Hallpike/Epley recommendations"
+    },
+    {
+      "id": "S2",
+      "tier": 1,
+      "publisher": "NICE CKS",
+      "title": "CKS dizziness access page",
+      "url": "https://cks.nice.org.uk/topics/dizziness/",
+      "use": "Access/licensing check only; full CKS content not machine-extractable in this run"
+    },
+    {
+      "id": "S3",
+      "tier": 1,
+      "publisher": "Right Decisions (NHS Scotland national)",
+      "title": "Vertigo and dizziness GP factsheet",
+      "url": "https://rightdecisions.scot.nhs.uk/neurology-pathways-including-headache/gp-factsheets/vertigo-and-dizziness/",
+      "use": "Primary care-first approach; referral boundary statements"
+    },
+    {
+      "id": "S4",
+      "tier": 1,
+      "publisher": "Right Decisions NHS GGC",
+      "title": "Short lasting episodic positional rotational vertigo (BPPV)",
+      "url": "https://rightdecisions.scot.nhs.uk/ggc-primary-care/ear-nose-and-throat-ent/ear-nose-and-throat-ent-referral-guidance/ear-conditions/vertigo/short-lasting-episodic-positional-rotational-vertigo/",
+      "use": "Operational thresholds for BPPV diagnosis and routine Audiology referral"
+    },
+    {
+      "id": "S5",
+      "tier": 1,
+      "publisher": "NHS Lothian RefHelp",
+      "title": "Vertigo and dizziness \u2013 advice for initial management in primary care",
+      "url": "https://apps.nhslothian.scot/refhelp/guidelines/neurology/vertigo-and-dizziness/",
+      "use": "Territorial board pathway detail and practical referral boundary language"
+    },
+    {
+      "id": "S6",
+      "tier": 1,
+      "publisher": "NHS Borders Right Decisions",
+      "title": "Vertigo and dizziness",
+      "url": "https://www.rightdecisions.scot.nhs.uk/borders-ref-help-toolkit-in-development/neurology/vertigo-and-dizziness/",
+      "use": "Second territorial board corroboration"
+    },
+    {
+      "id": "S7",
+      "tier": 1,
+      "publisher": "NHS inform",
+      "title": "Vertigo",
+      "url": "https://www.nhsinform.scot/illnesses-and-conditions/ears-nose-and-throat/vertigo/",
+      "use": "Public-facing safety-net thresholds and symptom duration advice"
+    },
+    {
+      "id": "S8",
+      "tier": 1,
+      "publisher": "NHS inform",
+      "title": "Dizziness (lightheadedness)",
+      "url": "https://www.nhsinform.scot/illnesses-and-conditions/brain-nerves-and-spinal-cord/dizziness-lightheadedness/",
+      "use": "Differential/safety-net prompts for non-vertiginous dizziness"
+    },
+    {
+      "id": "S9",
+      "tier": 2,
+      "publisher": "Association of British Neurologists (ABN)",
+      "title": "Neurology advice and guidance FAQs (2025)",
+      "url": "https://cdn.ymaws.com/www.theabn.org/resource/resmgr/guidelines/abn_faqs_advice_and_guidance.pdf",
+      "use": "Specialty endorsement of using local dizziness pathways and NICE NG127"
+    }
+  ],
+  "summary": [
+    "Migrated from legacy pathway_runs format to canonical pathways format."
+  ]
+}

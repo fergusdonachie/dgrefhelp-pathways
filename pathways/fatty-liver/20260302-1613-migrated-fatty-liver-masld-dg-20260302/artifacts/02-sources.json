@@ -1,0 +1,25 @@
+{
+  "topic": "fatty-liver",
+  "version": "v1-migrated",
+  "migrated_from": "pathway_runs/fatty-liver-masld-dg-20260302",
+  "selected_sources": [
+    {
+      "title": "NICE NG49 Non-alcoholic fatty liver disease: assessment and management",
+      "url": "https://www.nice.org.uk/guidance/ng49",
+      "role": "National baseline guidance for identification and management principles"
+    },
+    {
+      "title": "Right Decisions (NHS Borders) Abnormal LFTs in asymptomatic patient in primary care",
+      "url": "https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/gastroenterology/abnormal-liver-function-tests-lfts-in-asymptomatic-patient-in-primary-care/",
+      "role": "Scottish regional referral and primary care management model including FIB-4 age-specific thresholds"
+    },
+    {
+      "title": "NB Medical dashboard content (KISS/hot topics context)",
+      "url": "https://dashboard.nbmedical.com/",
+      "role": "Supplementary primary-care educational context"
+    }
+  ],
+  "summary": [
+    "Migrated from legacy pathway_runs format to canonical pathways format."
+  ]
+}

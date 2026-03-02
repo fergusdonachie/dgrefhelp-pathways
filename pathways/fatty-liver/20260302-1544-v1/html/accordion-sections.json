@@ -1,0 +1,24 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Assessment",
+      "html": "<p>Assess adults with suspected MASLD for fibrosis risk and alternative liver disease causes.</p><ul><li>History: alcohol intake, metabolic risk factors, medicines.</li><li>Tests: LFTs, FBC/platelets, HbA1c, lipids, and relevant liver aetiology screen if indicated.</li><li>Calculate FIB-4 and LiverRisk.</li><li>Apply referral thresholds: FIB-4 &gt;1.3 if age &lt;65; FIB-4 &gt;2.0 if age ≥65; LiverRisk &gt;10.</li></ul>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<p>The default approach is active primary care management.</p><ul><li>Deliver structured weight-loss support and exercise advice.</li><li>Optimise diabetes, blood pressure and lipid control.</li><li>Advise alcohol minimisation/abstinence where liver injury is present.</li><li>Do not routinely stop or avoid statins solely for mild stable LFT elevation in fatty liver.</li><li>Use evidence-based obesity/diabetes medicines (including GLP-1 pathway options where indicated) under local formulary rules.</li><li>Reassess LFTs and fibrosis risk periodically (typically 1–3 yearly by risk profile).</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Suspected decompensated liver disease (e.g. jaundice with synthetic dysfunction, ascites, encephalopathy, GI bleeding).</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>Features suspicious of hepatocellular carcinoma/hepatobiliary malignancy.</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>Marked or rapidly worsening liver derangement with concern for advanced chronic liver disease.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>FIB-4 &gt;1.3 (age &lt;65) or FIB-4 &gt;2.0 (age ≥65).</li><li>LiverRisk &gt;10.</li><li>Persistent unexplained abnormal LFTs or diagnostic uncertainty.</li></ul><p><strong>Include in referral</strong></p><ul><li>Alcohol history, LFT trend, metabolic comorbidities.</li><li>FIB-4 and LiverRisk values with dates.</li><li>Imaging and treatments already started.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<p>Do not routinely refer stable adults with likely MASLD who are below all referral thresholds and have no red-flag features.</p><ul><li>Continue active primary care management.</li><li>Repeat risk assessment at clinically appropriate interval.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ol><li><a href=\"https://www.nice.org.uk/guidance/ng49\">NICE NG49: Non-alcoholic fatty liver disease (assessment and management)</a>.</li><li><a href=\"https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/gastroenterology/abnormal-liver-function-tests-lfts-in-asymptomatic-patient-in-primary-care/\">Right Decisions NHS Borders: Abnormal liver function tests in asymptomatic patient in primary care</a>.</li><li><a href=\"https://dashboard.nbmedical.com/\">NB Medical Dashboard (authenticated educational context check)</a>.</li></ol>"
+    }
+  ]
+}

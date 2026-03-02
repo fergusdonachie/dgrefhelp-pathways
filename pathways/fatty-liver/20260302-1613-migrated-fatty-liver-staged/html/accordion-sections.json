@@ -1,0 +1,24 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Assessment",
+      "html": "<ul><li>See review draft for full assessment detail.</li></ul>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<ul><li>See review draft for management steps.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<ul><li>Use threshold-led referral as in review draft.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<ul><li>Do not routinely refer low-risk patients meeting conservative-management criteria in the review draft.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<p>See sources artifact and review-pack references.</p>"
+    }
+  ]
+}

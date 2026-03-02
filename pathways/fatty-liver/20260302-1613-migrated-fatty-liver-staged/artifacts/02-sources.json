@@ -1,0 +1,9 @@
+{
+  "topic": "fatty-liver",
+  "version": "v1-migrated",
+  "migrated_from": "pathway_runs/fatty-liver-staged",
+  "selected_sources": [],
+  "summary": [
+    "Migrated from legacy pathway_runs format to canonical pathways format."
+  ]
+}

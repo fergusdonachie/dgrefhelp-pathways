@@ -1,0 +1,30 @@
+{
+  "topic": "Fatty liver (MASLD) in adults",
+  "version": "v1",
+  "scope": {
+    "population": "Adults aged 18+",
+    "settings": "Primary care and gastroenterology/hepatology referral interface in NHS Dumfries & Galloway",
+    "terminology": "MASLD/MASH",
+    "exclusions": [
+      "Children and young people",
+      "Pregnancy-specific liver disease",
+      "Known decompensated cirrhosis pathways"
+    ],
+    "local_rules": {
+      "no_elf_access": true,
+      "risk_tools": ["FIB-4", "LiverRisk"],
+      "referral_thresholds": [
+        "FIB-4 >1.3 if age <65",
+        "FIB-4 >2.0 if age >=65",
+        "LiverRisk score >10"
+      ]
+    }
+  },
+  "summary": [
+    "Adults-only MASLD pathway",
+    "Primary care-first model with explicit referral thresholds",
+    "No ELF available locally",
+    "Use FIB-4 and LiverRisk as triage tools",
+    "Include medication and cardiometabolic risk management"
+  ]
+}
