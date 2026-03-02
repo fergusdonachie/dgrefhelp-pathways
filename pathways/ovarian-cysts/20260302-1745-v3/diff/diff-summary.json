@@ -1,0 +1,13 @@
+{
+  "baseline": "pathways/ovarian-cysts/20260302-1730-v2",
+  "summary": [
+    "Language simplified and de-academised.",
+    "Primary care management split into clear premenopausal and postmenopausal subsections.",
+    "RMI now explicitly explained with calculation components and action threshold.",
+    "Layout changed to reduce unnecessary bullets and improve quick-read flow for GPs."
+  ],
+  "editor_checklist": [
+    "Confirm whether to keep the RMI formula detail inline or move to a short callout box.",
+    "Confirm local wording for repeat-scan interval (3 months vs 3-6 months)."
+  ]
+}

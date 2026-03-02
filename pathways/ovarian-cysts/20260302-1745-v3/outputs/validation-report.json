@@ -1,0 +1,19 @@
+{
+  "topic": "Ovarian cysts in adults",
+  "version": "v3",
+  "status": "pass",
+  "checks": [
+    {"name": "Canonical heading set/order", "result": "pass"},
+    {"name": "D&G referral tier order", "result": "pass"},
+    {"name": "Assessment includes exam, bloods, imaging", "result": "pass"},
+    {"name": "Primary care management split pre/post-menopausal", "result": "pass"},
+    {"name": "RMI explained clearly", "result": "pass"}
+  ],
+  "warnings": [
+    "Confirm local preference for exact interval scan timing default wording before final publish."
+  ],
+  "errors": [],
+  "info": [
+    "Language simplified and less formal as requested."
+  ]
+}
