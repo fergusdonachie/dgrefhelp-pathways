@@ -1,0 +1,14 @@
+{
+  "baseline": "pathways/ovarian-cysts/20260301-1514-v1",
+  "summary": [
+    "Background section rewritten to focus on benign-vs-dangerous framing, presentation, and incidental detection.",
+    "Assessment section rebuilt as practical GP workflow including exam, bloods, and imaging.",
+    "Primary care management rewritten to directive if/then thresholds by cyst type and menopausal status.",
+    "Who to refer section aligned to explicit D&G tier order and labels."
+  ],
+  "editor_checklist": [
+    "Confirm local preference for exact interval scan timing wording (3 vs 6 months default).",
+    "Confirm any D&G-specific wording for USOC destination naming.",
+    "Confirm whether to keep explicit CA125 advice in premenopausal complex cyst bullet at this level of detail."
+  ]
+}

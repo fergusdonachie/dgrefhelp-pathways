@@ -1,0 +1,16 @@
+{
+  "topic": "Ovarian cysts in adults",
+  "version": "v2",
+  "scope": {
+    "population": "Adults",
+    "focus": "Primary care assessment, risk stratification, management and referral thresholds for ovarian cysts",
+    "key_source": "RCOG Green-top 34 (with Dec 2025 update)",
+    "care_boundary": "Primary care to gynaecology/gynae-oncology interface"
+  },
+  "summary": [
+    "Rewritten to new skill style",
+    "Background now presentation-focused and clinically direct",
+    "Assessment and primary-care sections now explicit workflow and if/then actions",
+    "D&G referral tier order applied"
+  ]
+}

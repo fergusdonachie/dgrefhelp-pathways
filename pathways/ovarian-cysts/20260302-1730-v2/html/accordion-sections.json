@@ -1,0 +1,24 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Assessment",
+      "html": "<ul><li>Confirm menopausal status at first assessment.</li><li>Take focused symptom history including acute severe pain (torsion/rupture risk), bloating/fullness, appetite change and urinary symptoms.</li><li>Perform abdominal and (where appropriate) pelvic examination, checking for mass, tenderness/peritonism, distension and ascites features.</li><li>Request transvaginal ultrasound first line (or transabdominal if TVUSS not possible) and classify morphology/size.</li><li>Postmenopausal: check CA125 for any ovarian mass and calculate RMI.</li><li>Premenopausal: reserve CA125 for complex/suspicious masses; do not use routinely for clearly simple cysts.</li></ul>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<ul><li>If emergency features are present, arrange same-day hospital assessment.</li><li>Premenopausal simple cyst &lt;5 cm: no routine follow-up.</li><li>Premenopausal simple cyst 5-7 cm: interval ultrasound follow-up (typically 3-6 months).</li><li>Premenopausal cyst &gt;7 cm, persistent or enlarging: refer to gynaecology.</li><li>Postmenopausal simple unilateral unilocular cyst ≤3 cm: no routine follow-up.</li><li>Postmenopausal simple cyst &gt;3 to &lt;5 cm with normal CA125 and no suspicious features: conservative management with interval follow-up.</li><li>Postmenopausal cyst &gt;5 cm, persistent/symptomatic, abnormal CA125 or suspicious morphology: refer.</li><li>Any complex cyst: refer based on urgency criteria.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Suspected ovarian torsion.</li><li>Suspected ruptured/haemorrhagic cyst with acute abdomen.</li><li>Haemodynamic instability, sepsis concern, or uncontrolled acute pain.</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>Postmenopausal RMI &gt;200.</li><li>Suspicious malignant USS features (solid areas/papillary projections, ascites, bilateral complex mass, metastatic features).</li><li>Clinical picture strongly suspicious for ovarian malignancy.</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>Significant symptomatic complex cyst not yet meeting USOC threshold.</li><li>Concerning persistent symptoms requiring rapid specialist review.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>Premenopausal simple cyst &gt;7 cm, or persistent/enlarging cyst.</li><li>Postmenopausal cyst &gt;5 cm or persistent cyst requiring specialist management.</li><li>Persistent symptoms with indeterminate non-USOC imaging.</li></ul><p><strong>Include in referral</strong></p><ul><li>Menopausal status and symptom timeline.</li><li>Ultrasound morphology, size and laterality.</li><li>CA125 and RMI (postmenopausal).</li><li>Relevant family history and prior imaging trajectory.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<ul><li>Premenopausal simple cysts &lt;5 cm in otherwise well patients.</li><li>Postmenopausal simple unilateral unilocular cysts ≤3 cm with no concerning features.</li><li>Selected postmenopausal simple cysts &gt;3 to &lt;5 cm with normal CA125 and stable interval imaging.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ol><li><a href=\"https://www.rcog.org.uk/media/4v3ncfib/gtg_34.pdf\">RCOG Green-top Guideline No.34: Ovarian cysts in postmenopausal women</a>.</li><li><a href=\"https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/ovarian-cysts-in-postmenopausal-women-green-top-guideline-no-34/\">RCOG Green-top 34 update page (Dec 2025 amendment)</a>.</li><li><a href=\"https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/maternity-gynaecology-guidelines/gynaecology/ovarian-cystsmasses-management/\">Right Decisions NHS Borders: Ovarian cysts/masses management</a>.</li></ol>"
+    }
+  ]
+}

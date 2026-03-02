@@ -1,0 +1,33 @@
+{
+  "topic": "Ovarian cysts in adults",
+  "version": "v2",
+  "selected_sources": [
+    {
+      "title": "RCOG Green-top Guideline No.34: Ovarian cysts in postmenopausal women",
+      "url": "https://www.rcog.org.uk/media/4v3ncfib/gtg_34.pdf"
+    },
+    {
+      "title": "RCOG update page (Dec 2025 amendment)",
+      "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/ovarian-cysts-in-postmenopausal-women-green-top-guideline-no-34/"
+    },
+    {
+      "title": "Right Decisions NHS Borders ovarian cysts/masses management",
+      "url": "https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/maternity-gynaecology-guidelines/gynaecology/ovarian-cystsmasses-management/"
+    }
+  ],
+  "nbmedical_kiss_check": {
+    "topic": "ovarian cysts",
+    "status": "none_relevant",
+    "notes": "Authenticated NB search completed. Results were mostly PCOS and adjacent women’s-health topics; no directly relevant ovarian-cyst management KISS summary identified.",
+    "kiss_candidates": [],
+    "summary": [
+      "NB Medical checked",
+      "No directly relevant ovarian-cyst KISS result identified"
+    ]
+  },
+  "summary": [
+    "RCOG GTG34 is primary guidance source",
+    "Dec 2025 <=3 cm postmenopausal simple-cyst update incorporated",
+    "NB Medical checked and documented"
+  ]
+}

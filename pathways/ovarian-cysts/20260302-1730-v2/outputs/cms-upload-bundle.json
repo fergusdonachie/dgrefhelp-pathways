@@ -1,0 +1,14 @@
+{
+  "topic": "Ovarian cysts in adults",
+  "version": "v2",
+  "page_contents_html_path": "pathways/ovarian-cysts/20260302-1730-v2/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/ovarian-cysts/20260302-1730-v2/html/accordion-sections.json",
+  "section_heading_order": [
+    "Assessment",
+    "Primary care management",
+    "Who to refer",
+    "Who not to refer",
+    "References"
+  ],
+  "ready_for_editor_review": true
+}

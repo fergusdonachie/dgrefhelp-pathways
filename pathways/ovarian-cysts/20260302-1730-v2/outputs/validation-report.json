@@ -1,0 +1,19 @@
+{
+  "topic": "Ovarian cysts in adults",
+  "version": "v2",
+  "status": "pass_with_warnings",
+  "checks": [
+    {"name": "Required section headings/order", "result": "pass"},
+    {"name": "D&G referral tier wording/order", "result": "pass"},
+    {"name": "Assessment includes exam+bloods+imaging", "result": "pass"},
+    {"name": "Primary care section uses if/then threshold actions", "result": "pass"}
+  ],
+  "warnings": [
+    "Confirm local service-specific wording for interval scan cadence and referral destination names before publication.",
+    "NB Medical check found no directly relevant ovarian-cyst KISS summary; pathway relies on RCOG and Right Decisions sources."
+  ],
+  "errors": [],
+  "info": [
+    "Background rewritten to presentation-focused, non-template style as requested."
+  ]
+}
