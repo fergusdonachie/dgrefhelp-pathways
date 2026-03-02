@@ -1,0 +1,24 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Assessment",
+      "html": "<p>Confirm CKD, stage risk, and identify urgent pathology.</p><ul><li>Confirm persistence for at least 3 months using repeat eGFR and ACR.</li><li>Stage by G-stage (eGFR) and A-stage (ACR).</li><li>Check baseline bloods/urine, blood pressure, cardiovascular risk, and medicine risks.</li><li>Use KFRE (Kidney Failure Risk Equation) in CKD G3a-G5 to estimate 5-year kidney failure risk.</li><li>Escalate urgently for rapid decline, nephritic/vasculitic picture, severe hyperkalaemia, or unstable acute-on-chronic deterioration.</li></ul><p><strong>Definitions:</strong> ACR A1 &lt;3, A2 3-30, A3 &gt;30 mg/mmol. G-stage by eGFR: G1 >=90, G2 60-89, G3a 45-59, G3b 30-44, G4 15-29, G5 &lt;15.</p>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<p>Manage most stable CKD in primary care with structured risk reduction.</p><p><strong>For all stages:</strong></p><ul><li>Optimise BP and cardiovascular risk; start atorvastatin unless contraindicated.</li><li>Avoid nephrotoxins and adjust medicine doses to renal function.</li><li>Use ACEI/ARB (RAAS blockade) where indicated for albuminuric CKD; titrate to maximum tolerated dose and monitor renal function/potassium after changes.</li></ul><p><strong>SGLT2 indications:</strong></p><ul><li>CKD with diabetes: use dapagliflozin as renoprotective treatment in line with local/NICE pathway.</li><li>CKD without diabetes: consider dapagliflozin 10 mg daily when ACR &gt;22 mg/mmol (if suitable and not contraindicated), usually alongside ACEI/ARB.</li></ul><p><strong>Follow-up by stage/risk:</strong></p><ul><li>G1-G2 with A1: annual review if stable.</li><li>G1-G2 with A2/A3: at least annual, more frequent if progression.</li><li>G3a-G3b: if ACR ≤30 annual; if ACR &gt;30, 6-monthly.</li><li>G4-G5: specialist/shared care with closer monitoring.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Suspected rapidly progressive glomerulonephritis/vasculitis.</li><li>Severe hyperkalaemia or unstable acute-on-chronic kidney deterioration.</li><li>Clinically unwell patient with acute renal decline.</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>Haematuria meeting urology USOC criteria.</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>Rapid sustained eGFR decline.</li><li>Heavy/progressive proteinuria with concern.</li><li>Suspected multisystem renal disease.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>KFRE 5-year risk &gt;5% (CKD G3a-G5).</li><li>ACR >=70 mg/mmol.</li><li>Progressive CKD despite optimal management.</li><li>Resistant hypertension with CKD or diagnostic uncertainty.</li></ul><p><strong>Include in referral</strong></p><ul><li>eGFR/ACR trends with dates.</li><li>BP trend and treatment.</li><li>Relevant blood/urine results and medication list.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<p>Do not routinely refer stable low-risk CKD with controlled blood pressure and no high-risk progression features. Continue structured primary care monitoring.</p>"
+    },
+    {
+      "heading": "References",
+      "html": "<ol><li><a href=\"https://www.nice.org.uk/guidance/ng203\">NICE NG203: Chronic kidney disease</a>.</li><li><a href=\"https://www.nice.org.uk/guidance/ng136\">NICE NG136: Hypertension in adults</a>.</li><li><a href=\"https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/renal/chronic-kidney-disease/\">Right Decisions NHS D&amp;G: Chronic Kidney Disease</a>.</li></ol>"
+    }
+  ]
+}

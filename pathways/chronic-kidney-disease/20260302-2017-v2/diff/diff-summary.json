@@ -1,0 +1,13 @@
+{
+  "baseline": "pathways/chronic-kidney-disease/20260302-1823-v1",
+  "summary": [
+    "Language simplified and made less academic.",
+    "Added explicit definitions for G-stage, A-stage, KFRE, and RAAS blockade.",
+    "Added stage-based primary care actions and monitoring frequencies.",
+    "Added explicit SGLT2 indication wording rather than generic guidance reference."
+  ],
+  "editor_checklist": [
+    "Confirm local D&G consensus wording for SGLT2 use in non-diabetic CKD.",
+    "Confirm if you want a fixed CKD monitoring table included as a separate visual block."
+  ]
+}

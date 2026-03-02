@@ -1,0 +1,36 @@
+{
+  "topic": "Chronic Kidney Disease (CKD) in adults",
+  "version": "v1",
+  "selected_sources": [
+    {
+      "title": "NICE NG203: Chronic kidney disease: assessment and management",
+      "url": "https://www.nice.org.uk/guidance/ng203"
+    },
+    {
+      "title": "Right Decisions NHS Dumfries & Galloway: Chronic Kidney Disease",
+      "url": "https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/renal/chronic-kidney-disease/"
+    },
+    {
+      "title": "NICE NG136: Hypertension in adults",
+      "url": "https://www.nice.org.uk/guidance/ng136"
+    }
+  ],
+  "nbmedical_kiss_check": {
+    "topic": "chronic kidney disease",
+    "status": "done",
+    "notes": "Authenticated NB Medical search found CKD-relevant topic entries (including Chronic Kidney Disease topics).",
+    "kiss_candidates": [
+      {
+        "title": "Topic: Chronic Kidney Disease",
+        "url": "https://dashboard.nbmedical.com/books/b0d8a7ba-f713-42c5-98fa-3a296857743f/chapter/ca335d20-2268-427d-8b83-1b6c6a7dad23?topicId=b1e9b13f-e832-4a03-804d-e68cd1c4f842",
+        "last_updated": "",
+        "relevance_tags": ["CKD", "primary care"],
+        "notes": "Used as supplementary educational context."
+      }
+    ],
+    "summary": [
+      "NB Medical checked",
+      "CKD-relevant NB topic identified"
+    ]
+  }
+}

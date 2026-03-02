@@ -1,0 +1,18 @@
+{
+  "topic": "Chronic Kidney Disease (CKD) in adults",
+  "version": "v2",
+  "status": "pass",
+  "checks": [
+    {"name": "Canonical heading set/order", "result": "pass"},
+    {"name": "Plain-language acronym explanations", "result": "pass"},
+    {"name": "Stage-based primary-care actions", "result": "pass"},
+    {"name": "SGLT2 indication criteria stated", "result": "pass"}
+  ],
+  "warnings": [
+    "Confirm local board preference on exact SGLT2 wording in non-diabetic CKD where ACR threshold criteria evolve over time."
+  ],
+  "errors": [],
+  "info": [
+    "Rewritten for GP quick-read style with explicit definitions and practical actions."
+  ]
+}

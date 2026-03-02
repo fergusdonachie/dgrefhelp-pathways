@@ -1,0 +1,18 @@
+{
+  "topic": "Chronic Kidney Disease (CKD) in adults",
+  "version": "v1",
+  "scope": {
+    "population": "Adults",
+    "focus": "Primary care diagnosis, staging, monitoring, treatment, and referral thresholds",
+    "setting": "Primary care to renal referral interface",
+    "exclusions": [
+      "Acute kidney injury (separate pathway)",
+      "Dialysis and transplant management"
+    ]
+  },
+  "summary": [
+    "Built as a practical GP CKD pathway",
+    "Includes staging, KFRE use, and referral thresholds",
+    "Uses D&G/Right Decisions referral framing"
+  ]
+}
