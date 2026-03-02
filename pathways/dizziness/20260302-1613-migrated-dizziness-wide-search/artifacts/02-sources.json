@@ -78,5 +78,37 @@
   ],
   "summary": [
     "Migrated from legacy pathway_runs format to canonical pathways format."
-  ]
+  ],
+  "nbmedical_kiss_check": {
+    "topic": "dizziness",
+    "status": "done",
+    "notes": "Authenticated NB Medical KISS search performed via dashboard search for \"dizziness\". Relevant topic entries found (Vertigo/Acute Vertigo), but surfaced as topic chapter links rather than dedicated /books/summaries KISS records in this query.",
+    "kiss_candidates": [
+      {
+        "title": "Topic: Vertigo",
+        "url": "https://dashboard.nbmedical.com/books/b0d8a7ba-f713-42c5-98fa-3a296857743f/chapter/f711640b-2a29-4816-9115-2587c59fc45e?topicId=dddb80da-2a55-4e6e-b4fa-5d67afa363ad",
+        "last_updated": "",
+        "relevance_tags": [
+          "dizziness",
+          "vertigo"
+        ],
+        "notes": "Primary-care relevant vertigo topic."
+      },
+      {
+        "title": "Topic: Acute Vertigo",
+        "url": "https://dashboard.nbmedical.com/books/b8f05135-7f2b-4c81-8c0a-7b5102f321c8/chapter/11879ba5-bac4-44a9-ab56-8f9a00215641?topicId=8e08fa21-e788-4849-a6bd-5bbe7a368609",
+        "last_updated": "",
+        "relevance_tags": [
+          "dizziness",
+          "acute vertigo"
+        ],
+        "notes": "Urgent-care relevant acute vertigo topic."
+      }
+    ],
+    "summary": [
+      "NB Medical checked with authenticated session.",
+      "Dizziness-relevant NB topics identified (vertigo/acute vertigo).",
+      "No direct /books/summaries KISS URL captured in this search view."
+    ]
+  }
 }

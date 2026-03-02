@@ -15,5 +15,8 @@
   "warnings": [
     "Migrated from legacy pathway_runs artifacts; please clinically re-validate before publication."
   ],
-  "errors": []
+  "errors": [],
+  "info": [
+    "NB Medical KISS check completed for dizziness (relevant vertigo topics identified)."
+  ]
 }

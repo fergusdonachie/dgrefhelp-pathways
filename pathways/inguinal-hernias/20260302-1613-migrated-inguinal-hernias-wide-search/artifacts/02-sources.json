@@ -94,5 +94,15 @@
   ],
   "summary": [
     "Migrated from legacy pathway_runs format to canonical pathways format."
-  ]
+  ],
+  "nbmedical_kiss_check": {
+    "topic": "inguinal hernias",
+    "status": "none_relevant",
+    "notes": "Authenticated NB Medical KISS search performed for \"inguinal hernia\". Returned testicular/scrotal swelling and acute testicular pain topics; no clearly relevant inguinal-hernia KISS summary/topic identified.",
+    "kiss_candidates": [],
+    "summary": [
+      "NB Medical checked with authenticated session.",
+      "No directly relevant inguinal hernia KISS result identified."
+    ]
+  }
 }
