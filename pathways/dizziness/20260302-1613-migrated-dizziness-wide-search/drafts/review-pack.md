@@ -1,58 +1,46 @@
-# DGRefHelp Review Pack: Dizziness (Adult Primary Care Referral Pathway)
+# Dizziness in adults — DGRefHelp review draft (refined)
 
-## 1) Draft threshold-led pathway text
-
-### Who this pathway covers
-Adults presenting in primary care with dizziness, vertigo, imbalance, or light-headedness.
-
-### Core management principle
-**Exclude stroke/central causes first.** If red flags are absent and presentation is peripheral/positional, manage in primary care first.
-
-### Immediate same-day emergency referral (stroke/acute pathway)
-Refer immediately if any of the following are present:
-- Sudden-onset dizziness/vertigo with focal neurological deficit.
-- Acute vestibular syndrome not explained by BPPV/postural hypotension and no trained HINTS assessor available.
-- Central-pattern concerning features (for example new severe gait unsteadiness, direction-changing/vertical nystagmus, new deafness with acute vestibular syndrome).
-- Associated major neurological symptoms: diplopia, dysarthria/speech disturbance, unilateral weakness/numbness, reduced consciousness, severe new headache.
-
-### Primary care assessment essentials
-- Clarify symptom type: true vertigo vs presyncope/light-headedness vs disequilibrium.
-- Define timing, triggers, and recurrence pattern.
-- Full focused neuro exam and gait assessment.
+## Assessment
+- Classify symptom type early: true vertigo, presyncope/light-headedness, or disequilibrium.
+- Define time course and trigger pattern (single acute attack, recurrent episodic, persistent).
+- Examine for central neurological signs and gait disturbance.
 - Check otology features (hearing loss, tinnitus, aural fullness).
-- Review medications and orthostatic contributors.
-- Perform Hallpike if trained and clinically indicated.
+- Check postural blood pressure and medication contributors.
+- Perform Hallpike test when clinically indicated and operator is trained.
 
-### Primary care first-line management
-- If Hallpike-positive BPPV: perform canalith repositioning (Epley).
-- Provide falls and activity safety advice; encourage gradual mobilisation.
-- Use vestibular suppressants only short-term in acute severe symptoms (avoid prolonged use).
-- Reassess if poor progress or diagnostic uncertainty.
+## Primary care management
+- If posterior-canal BPPV is confirmed, treat with canalith repositioning (e.g. Epley).
+- Use vestibular suppressants only short term for severe acute symptoms; avoid prolonged prescribing.
+- Give falls and activity safety advice and encourage graded mobilisation.
+- Review response; if symptoms persist or diagnosis remains uncertain, escalate.
 
-### Routine referral thresholds
-- BPPV not improving after appropriate manoeuvre attempts -> routine Audiology/vestibular physiotherapy/ENT (local pathway).
-- Persistent vertigo/balance symptoms beyond ~6 weeks despite primary care management.
-- Suspected vestibular migraine/Meniere-type recurrent episodes not controlled in primary care.
+## Who to refer
+### Hospital admission (same day)
+- Acute dizziness/vertigo with focal neurological deficit.
+- Acute vestibular syndrome with concern for central cause.
+- Severe unsteadiness, persistent vomiting/dehydration, reduced consciousness, or severe new headache.
 
-### When not to refer routinely
-- Isolated low-risk dizziness/vertigo without focal neurology and with clear peripheral diagnosis responding to treatment.
+### Urgent suspicion of cancer (USOC)
+- No routine USOC indication in isolated dizziness pathway; use cancer pathways if separate red-flag findings indicate this.
 
-### Safety-net advice
-Advise urgent reassessment/emergency help for any new focal neurological deficit, worsening imbalance with falls risk, persistent vomiting/dehydration, new hearing loss, visual/speech disturbance, or severe new headache.
+### Urgent (non-cancer outpatient)
+- High-risk atypical presentations needing rapid specialist assessment where stroke pathway not triggered but central cause remains possible.
 
----
+### Routine (outpatient)
+- BPPV not improving after appropriate repositioning manoeuvres.
+- Persistent vertigo/balance symptoms beyond around 6 weeks despite first-line care.
+- Recurrent suspected vestibular migraine or Menière-type symptoms not controlled in primary care.
 
-## 2) Evidence confidence note
-**Evidence Confidence: Moderate-High**
-- High-confidence referral thresholds from NICE NG127.
-- Consistent Scottish implementation signals from Right Decisions and territorial board pathways (NHS Lothian, NHS Borders, NHS GGC).
-- Limitation: CKS full text unavailable to extract programmatically in this run; no dedicated current SIGN dizziness guideline identified.
+### Include in referral
+- Symptom pattern, duration, trigger profile and functional impact.
+- Neurological and otological examination findings.
+- Hallpike result and treatment delivered.
+- Medication review and orthostatic BP findings.
 
-## 3) Key source list used in draft
-- NICE NG127 adults dizziness/vertigo section.
-- Right Decisions Scotland GP fact sheet (vertigo/dizziness).
-- NHS GGC Right Decisions BPPV referral guidance.
-- NHS Lothian RefHelp vertigo pathway.
-- NHS Borders Right Decisions vertigo pathway.
-- NHS inform vertigo and dizziness pages.
-- ABN 2025 A&G FAQ (specialty corroboration of pathway usage).
+## Who not to refer
+- Isolated low-risk peripheral dizziness/vertigo that is responding to primary-care treatment and has no neurological red flags.
+
+## References
+1. NICE NG127 (suspected neurological conditions) dizziness/vertigo-related thresholds.
+2. Right Decisions and territorial board dizziness/vertigo pathways (NHS Borders, NHS Lothian, NHS GGC).
+3. NHS inform dizziness/vertigo patient information.

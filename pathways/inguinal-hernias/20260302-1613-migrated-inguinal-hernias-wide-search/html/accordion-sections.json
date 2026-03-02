@@ -2,23 +2,23 @@
   "accordion_sections": [
     {
       "heading": "Assessment",
-      "html": "<ul><li>See review-pack for detailed assessment.</li></ul>"
+      "html": "<ul><li>Confirm likely groin hernia clinically and document side/site.</li><li>Assess reducibility and current pain severity.</li><li>Screen for emergency features: severe persistent pain, tender irreducible hernia, vomiting, and obstructive symptoms.</li><li>Record symptom burden, progression, and functional impact.</li><li>Consider differential diagnoses when presentation is atypical.</li></ul>"
     },
     {
       "heading": "Primary care management",
-      "html": "<ul><li>See review draft for management steps.</li></ul>"
+      "html": "<ul><li>Offer watchful waiting in selected low-risk reducible minimally symptomatic hernia (typically men) with shared decision-making.</li><li>Provide analgesia and activity advice.</li><li>Do not request routine ultrasound for clinically obvious uncomplicated inguinal hernia.</li><li>Use imaging selectively where diagnosis is uncertain or alternative pathology is suspected.</li><li>Provide clear safety-net advice for worsening pain, loss of reducibility, or obstructive features.</li></ul>"
     },
     {
       "heading": "Who to refer",
-      "html": "<ul><li>Use threshold-led referral as in review draft.</li></ul>"
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Suspected strangulation or bowel obstruction.</li><li>Severe persistent pain with tender irreducible hernia, vomiting, abdominal distension, or systemic deterioration.</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>No routine USOC trigger in uncomplicated hernia pathway; use cancer pathway if separate suspicious features are present.</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>All suspected groin hernias in women.</li><li>Irreducible or partially reducible hernia without current emergency features.</li><li>Rapidly progressive symptoms or recurrent painful incarceration episodes.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>Symptomatic reducible inguinal hernia (commonly men).</li><li>Diagnostic uncertainty requiring specialist review.</li></ul><p><strong>Include in referral</strong></p><ul><li>Side/site, reducibility, pain pattern, symptom duration and functional impact.</li><li>Any episodes suggesting incarceration/obstruction.</li><li>Comorbidity/frailty and patient treatment preference.</li></ul>"
     },
     {
       "heading": "Who not to refer",
-      "html": "<ul><li>Do not routinely refer low-risk patients meeting conservative-management criteria in the review draft.</li></ul>"
+      "html": "<ul><li>Do not routinely refer minimally symptomatic reducible inguinal hernia (typically men) where watchful waiting has been agreed and safety-netting is in place.</li></ul>"
     },
     {
       "heading": "References",
-      "html": "<p>See sources artifact and review-pack references.</p>"
+      "html": "<ol><li>Right Decisions/territorial board groin hernia pathways used in source run.</li><li>NICE/CKS inguinal hernia primary care thresholds (sign-off recheck advised).</li><li>RCS/ASGBI/BHS hernia guidance and commissioning-support documents.</li></ol>"
     }
   ]
 }

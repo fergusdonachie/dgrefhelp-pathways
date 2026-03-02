@@ -2,23 +2,23 @@
   "accordion_sections": [
     {
       "heading": "Assessment",
-      "html": "<ul><li>Classify dizziness phenotype (vertigo vs presyncope vs disequilibrium).</li><li>Establish onset, duration, triggers, recurrence pattern.</li><li>Perform focused neurological and gait examination.</li><li>Assess hearing/tinnitus/aural symptoms.</li><li>Review medications and orthostatic factors.</li><li>Perform Hallpike where indicated and trained.</li></ul>"
+      "html": "<ul><li>Classify dizziness phenotype: vertigo, presyncope/light-headedness, or disequilibrium.</li><li>Define onset, duration, triggers and recurrence pattern.</li><li>Perform focused neurological and gait examination for central signs.</li><li>Assess hearing loss, tinnitus and aural fullness.</li><li>Review medicines and check postural blood pressure where appropriate.</li><li>Perform Hallpike test when indicated and trained.</li></ul>"
     },
     {
       "heading": "Primary care management",
-      "html": "<ul><li>Hallpike-positive BPPV: perform Epley/canalith repositioning.</li><li>Use vestibular suppressants short-term only in acute severe phase.</li><li>Provide safety advice and encourage graded mobilisation.</li><li>Arrange reassessment if not improving or diagnosis remains uncertain.</li></ul>"
+      "html": "<ul><li>Treat confirmed posterior-canal BPPV with canalith repositioning (e.g. Epley).</li><li>Use vestibular suppressants short term only in severe acute symptoms.</li><li>Provide falls and activity safety advice and encourage graded mobilisation.</li><li>Arrange timely reassessment if symptoms do not improve or diagnosis is uncertain.</li></ul>"
     },
     {
       "heading": "Who to refer",
-      "html": "<ul><li>Immediate same-day emergency referral: Sudden-onset dizziness/vertigo with focal neurological deficit.</li><li>Immediate same-day emergency referral: Acute vestibular syndrome not explained by BPPV/postural hypotension and no trained HINTS assessor available.</li><li>Immediate same-day emergency referral: Concerning central features (e.g., central-pattern nystagmus, new severe gait unsteadiness, acute new deafness with vestibular syndrome).</li><li>Immediate same-day emergency referral: Associated major neurological symptoms (diplopia, dysarthria/speech change, unilateral weakness/numbness, reduced consciousness, severe new headache).</li><li>Routine referral thresholds: BPPV persisting after appropriate repositioning manoeuvres.</li><li>Routine referral thresholds: Persistent dizziness/vertigo beyond ~6 weeks despite first-line care.</li></ul>"
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Acute dizziness/vertigo with focal neurological deficit.</li><li>Acute vestibular syndrome with concern for central cause.</li><li>Severe new gait ataxia, reduced consciousness, persistent vomiting/dehydration, or severe new headache.</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>No routine USOC trigger in isolated dizziness; use cancer pathway if separate red-flag features are present.</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>High-risk atypical presentations requiring rapid specialist assessment where central pathology remains possible.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>BPPV persisting despite appropriate repositioning manoeuvres.</li><li>Persistent dizziness/vertigo beyond around 6 weeks despite first-line care.</li><li>Recurrent vestibular migraine or Menière-type episodes not controlled in primary care.</li></ul><p><strong>Include in referral</strong></p><ul><li>Symptom profile, trigger pattern, and functional impact.</li><li>Neurological/otological findings, Hallpike result, and treatment already given.</li><li>Medication review and orthostatic BP findings.</li></ul>"
     },
     {
       "heading": "Who not to refer",
-      "html": "<ul><li>Do not routinely refer low-risk patients meeting conservative-management criteria in the review draft.</li></ul>"
+      "html": "<ul><li>Do not routinely refer low-risk peripheral dizziness/vertigo that is improving with primary-care treatment and has no neurological red flags.</li></ul>"
     },
     {
       "heading": "References",
-      "html": "<p>See sources artifact and review-pack references.</p>"
+      "html": "<ol><li>NICE NG127 dizziness/vertigo-related thresholds.</li><li>Right Decisions and territorial board dizziness pathways (NHS Borders, NHS Lothian, NHS GGC).</li><li>NHS inform dizziness/vertigo information.</li></ol>"
     }
   ]
 }
