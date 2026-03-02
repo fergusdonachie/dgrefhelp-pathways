@@ -1,7 +1,7 @@
 # Ovarian cysts in adults
 
 ## Page contents (Background)
-Most ovarian cysts are benign and settle without treatment. The important job in primary care is to pick out the small number of patients who may have:
+Most ovarian cysts are benign and settle without treatment. In premenopausal women, malignancy is uncommon (around 1 in 1000 in asymptomatic cysts in pathway sources), while risk is higher after menopause (around 3 in 1000 in ovarian masses in women over 50 in pathway sources). The important job in primary care is to pick out the small number of patients who may have:
 
 - an acute complication (torsion, rupture, haemorrhage), or
 - a cyst with higher risk of malignancy.
@@ -34,12 +34,16 @@ Investigations:
   - Postmenopausal: CA125 for any ovarian mass.
   - Premenopausal: CA125 for complex/suspicious masses (not routine for clearly simple cysts).
 
-Postmenopausal risk score (RMI):
-- RMI = U x M x CA125
-- U (ultrasound score): 0 if no malignant features, 1 if one feature, 3 if two or more features
-- M (menopausal score): 1 premenopausal, 3 postmenopausal
-- CA125 = numeric blood result
-- RMI >200 = higher malignancy risk (urgent cancer pathway)
+Postmenopausal risk score (RMI = Risk of Malignancy Index):
+- Used in postmenopausal women with an ovarian mass to estimate malignancy risk.
+- Formula: RMI = U x M x CA125.
+- U (ultrasound score) is based on these features: multilocular cyst, solid areas, metastases, ascites, bilateral lesions.
+  - U = 0 if no features
+  - U = 1 if one feature
+  - U = 3 if two or more features
+- M (menopausal score): 1 premenopausal, 3 postmenopausal.
+- CA125 = blood result (IU/ml).
+- RMI >200 = higher malignancy risk (urgent cancer pathway).
 
 ## Accordion: Primary care management
 ### Premenopausal women
