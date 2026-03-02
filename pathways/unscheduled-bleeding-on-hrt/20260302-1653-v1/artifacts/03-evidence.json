@@ -1,0 +1,18 @@
+{
+  "topic": "Unscheduled bleeding on HRT",
+  "version": "v1",
+  "evidence_points": [
+    "In low-risk women, unscheduled bleeding within 6 months of starting HRT (or within 3 months of dose/preparation change) can be managed with HRT/progestogen adjustments for a total of 6 months.",
+    "If bleeding first presents after 6 months from HRT initiation, or persists >3 months after regimen change, offer urgent transvaginal ultrasound (within 6 weeks).",
+    "Immediate urgent TVUS is advised when bleeding is heavy/prolonged or there are risk factors for endometrial cancer.",
+    "On TVUS, fully visualised uniform endometrium of <=4 mm on continuous combined HRT or <=7 mm on sequential HRT is generally low risk; continue adjustment pathway with reassessment.",
+    "Thicker endometrium than these thresholds should prompt urgent endometrial assessment on a cancer-suspicion pathway.",
+    "Ensure adequate monthly progestogen exposure in women with a uterus; sequential regimens should include minimum progestogen days per cycle and transition plan to continuous combined regimen at appropriate age/duration."
+  ],
+  "summary": [
+    "6-month adjustment-first window for low-risk presentations",
+    "Urgent TVUS threshold: delayed-onset bleeding, persistent bleeding after change, heavy/prolonged bleeding, or risk factors",
+    "Endometrial thresholds differ by regimen (<=4 mm ccHRT, <=7 mm sHRT)",
+    "Escalate thickened endometrium or concerning findings to urgent cancer pathway"
+  ]
+}

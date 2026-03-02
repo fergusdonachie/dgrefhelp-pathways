@@ -1,0 +1,14 @@
+{
+  "topic": "Unscheduled bleeding on HRT",
+  "version": "v1",
+  "page_contents_html_path": "pathways/unscheduled-bleeding-on-hrt/20260302-1653-v1/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/unscheduled-bleeding-on-hrt/20260302-1653-v1/html/accordion-sections.json",
+  "section_heading_order": [
+    "Assessment",
+    "Primary care management",
+    "Who to refer",
+    "Who not to refer",
+    "References"
+  ],
+  "ready_for_editor_review": true
+}

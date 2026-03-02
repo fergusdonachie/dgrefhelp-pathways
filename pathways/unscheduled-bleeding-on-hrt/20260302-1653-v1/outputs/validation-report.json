@@ -1,0 +1,19 @@
+{
+  "topic": "Unscheduled bleeding on HRT",
+  "version": "v1",
+  "status": "pass_with_warnings",
+  "checks": [
+    {"name": "Required section headings/order", "result": "pass"},
+    {"name": "Allowed HTML tags", "result": "pass"},
+    {"name": "D&G urgency labels present", "result": "pass"},
+    {"name": "Threshold traceability", "result": "pass"}
+  ],
+  "warnings": [
+    "Primary BMS PDF was validated via local text extraction (pypdf); confirm final wording against source PDF at clinical sign-off.",
+    "Local USOC routing wording should be aligned to D&G gynaecology/endometrial cancer process before publish."
+  ],
+  "errors": [],
+  "info": [
+    "Includes BMS 2024 threshold set: 6-month adjustment window, urgent TVUS triggers, and regimen-specific endometrial thickness reassurance thresholds."
+  ]
+}

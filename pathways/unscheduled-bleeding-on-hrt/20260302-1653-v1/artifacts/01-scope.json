@@ -1,0 +1,19 @@
+{
+  "topic": "Unscheduled bleeding on HRT",
+  "version": "v1",
+  "scope": {
+    "population": "Adults using systemic HRT with a uterus",
+    "setting": "Primary care to gynaecology referral interface",
+    "focus": "Assessment, HRT adjustment window, investigation thresholds, and referral urgency",
+    "exclusions": [
+      "Pregnancy-related bleeding pathways",
+      "Bleeding not temporally related to HRT use",
+      "Confirmed gynaecological malignancy management"
+    ]
+  },
+  "summary": [
+    "Built around BMS Nov 2024 unscheduled bleeding on HRT guideline",
+    "Uses explicit 6-month adjustment window before investigation in low-risk groups",
+    "Includes urgent TVUS and USC trigger points"
+  ]
+}

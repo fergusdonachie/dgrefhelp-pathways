@@ -1,0 +1,13 @@
+{
+  "baseline": "none",
+  "summary": [
+    "New pathway created for unscheduled bleeding on HRT.",
+    "Built primarily from BMS Nov 2024 guidance with NICE context.",
+    "Implements explicit management-versus-investigation timing thresholds."
+  ],
+  "editor_checklist": [
+    "Confirm local D&G service endpoint names for urgent TVUS and USOC referral.",
+    "Confirm whether to include explicit ccHRT/sHRT endometrial thickness cut-offs in public-facing page copy or keep in clinician notes.",
+    "Confirm local follow-up interval wording after HRT adjustment and post-imaging reassurance."
+  ]
+}

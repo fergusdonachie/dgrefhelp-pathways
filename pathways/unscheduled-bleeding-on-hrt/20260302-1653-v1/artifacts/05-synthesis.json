@@ -1,0 +1,17 @@
+{
+  "topic": "Unscheduled bleeding on HRT",
+  "version": "v1",
+  "consensus": {
+    "default_position": "Use structured primary-care assessment and optimise HRT/progestogen first in low-risk early bleeding, with clear triggers for urgent ultrasound and cancer-pathway escalation.",
+    "key_thresholds": [
+      "Adjustment window: up to 6 months total if bleeding starts within 6 months of starting HRT or persists up to 3 months after regimen change (low risk)",
+      "Urgent TVUS (within 6 weeks): first bleed >6 months after starting HRT; persistent bleed >3 months post-change; heavy/prolonged bleeding; or additional risk factors",
+      "Endometrial thickness low-risk reassurance threshold: <=4 mm (continuous combined HRT), <=7 mm (sequential HRT) when fully visualised and uniform"
+    ]
+  },
+  "summary": [
+    "Primary care can manage selected early/low-risk bleeding with regimen optimisation",
+    "Use explicit imaging triggers and endometrial thickness cut-offs",
+    "Escalate promptly for cancer-risk features"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Assessment",
+      "html": "<ul><li>Confirm HRT regimen type (continuous combined or sequential), dose, route, and start/change dates.</li><li>Characterise bleeding onset, frequency, heaviness and duration.</li><li>Assess endometrial cancer risk factors and exclude non-endometrial bleeding sources where indicated.</li><li>Check progestogen adequacy and adherence in all women with a uterus.</li></ul>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<ul><li>For low-risk women, optimise HRT/progestogen for up to 6 months if bleeding starts within 6 months of HRT initiation or persists up to 3 months after regimen change.</li><li>Ensure adequate progestogen exposure and correct regimen use.</li><li>Adjust dose/preparation as needed and provide clear safety-net advice.</li><li>Escalate earlier if bleeding is heavy/prolonged or worsening.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<p><strong>Hospital admission (same day)</strong></p><ul><li>Haemodynamic instability, severe acute blood loss, or other emergency features.</li></ul><p><strong>Urgent suspicion of cancer (USOC)</strong></p><ul><li>Clinical/imaging concern for endometrial malignancy.</li><li>Thickened endometrium above reassurance thresholds with concerning context.</li></ul><p><strong>Urgent (non-cancer outpatient)</strong></p><ul><li>Urgent TVUS (within 6 weeks) if first bleed occurs >6 months after starting HRT.</li><li>Urgent TVUS if bleeding persists >3 months after HRT regimen change.</li><li>Urgent TVUS for heavy/prolonged bleeding or additional endometrial-cancer risk factors.</li></ul><p><strong>Routine (outpatient)</strong></p><ul><li>Persistent unscheduled bleeding despite 6 months of structured regimen adjustment in low-risk women.</li><li>Diagnostic uncertainty requiring gynaecology review.</li></ul><p><strong>Include in referral</strong></p><ul><li>HRT details (type, dose, route, start/change dates), bleeding pattern, risk factors, and prior investigation results including TVUS.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<ul><li>Do not routinely refer low-risk early unscheduled bleeding that is within the expected adjustment window and improving after appropriate HRT/progestogen optimisation.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ol><li><a href=\"https://thebms.org.uk/wp-content/uploads/2024/12/01-BMS-GUIDELINE-Management-of-unscheduled-bleeding-HRT-NOVEMBER2024-A.pdf\">BMS Guideline: Management of unscheduled bleeding on HRT (Nov 2024)</a>.</li><li><a href=\"https://www.nice.org.uk/guidance/ng23\">NICE NG23 Menopause</a>.</li><li><a href=\"https://www.nice.org.uk/guidance/ng12\">NICE NG12 Suspected cancer</a>.</li></ol>"
+    }
+  ]
+}

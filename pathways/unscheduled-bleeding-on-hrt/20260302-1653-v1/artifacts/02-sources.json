@@ -1,0 +1,26 @@
+{
+  "topic": "Unscheduled bleeding on HRT",
+  "version": "v1",
+  "selected_sources": [
+    {
+      "title": "British Menopause Society Guideline: Management of unscheduled bleeding on HRT (Nov 2024)",
+      "url": "https://thebms.org.uk/wp-content/uploads/2024/12/01-BMS-GUIDELINE-Management-of-unscheduled-bleeding-HRT-NOVEMBER2024-A.pdf",
+      "role": "Primary source for management and investigation thresholds"
+    },
+    {
+      "title": "NICE NG23 Menopause: identification and management",
+      "url": "https://www.nice.org.uk/guidance/ng23",
+      "role": "National menopause/HRT prescribing context"
+    },
+    {
+      "title": "NICE NG12 Suspected cancer: recognition and referral",
+      "url": "https://www.nice.org.uk/guidance/ng12",
+      "role": "USOC framework for suspected endometrial malignancy"
+    }
+  ],
+  "summary": [
+    "BMS 2024 used as core decision framework",
+    "NICE NG23 included for HRT governance context",
+    "NICE NG12 included for urgent cancer referral context"
+  ]
+}
