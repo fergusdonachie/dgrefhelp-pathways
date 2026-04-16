@@ -1,0 +1,12 @@
+{
+  "topic": "peripheral-vascular-disease",
+  "nb_medical_check": {"status": "blocked", "notes": "Web egress unavailable in build environment"},
+  "sources": [
+    {"rank": 1, "tier": "Local", "title": "NHS D&G Arterial Insufficiency Referral Criteria", "publisher": "NHS D&G Vascular Service", "url": "local document", "coverage_tags": ["referral", "management"]},
+    {"rank": 2, "tier": "Tier1", "title": "SIGN 89: Diagnosis and Management of PAD", "publisher": "SIGN", "url": "https://www.sign.ac.uk/our-guidelines/diagnosis-and-management-of-peripheral-arterial-disease/", "coverage_tags": ["assessment", "management", "referral"]},
+    {"rank": 3, "tier": "Tier1", "title": "NICE NG237: Peripheral Arterial Disease", "publisher": "NICE", "url": "https://www.nice.org.uk/guidance/ng237", "coverage_tags": ["assessment", "management", "referral", "medicines"]},
+    {"rank": 4, "tier": "Tier1", "title": "NICE TA223: Naftidrofuryl oxalate for intermittent claudication", "publisher": "NICE", "url": "https://www.nice.org.uk/guidance/ta223", "coverage_tags": ["medicines"]},
+    {"rank": 5, "tier": "Tier1", "title": "NICE CKS: Peripheral Arterial Disease", "publisher": "NICE CKS", "url": "https://cks.nice.org.uk/topics/peripheral-arterial-disease/", "coverage_tags": ["assessment", "management"]}
+  ],
+  "summary": ["D&G local criteria used as primary for referral thresholds", "NICE/SIGN used for clinical management and investigation", "NB Medical not checked"]
+}
