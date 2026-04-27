@@ -25,6 +25,12 @@
       "type": "supplied_pdf",
       "path": "/Users/fergusdonachie/Downloads/JBDS_08_Management_of_Hyperglycaemia_and_Steroid_(Glucocorticoid)_Therapy_with_QR_code_January_2023.pdf",
       "notes": "Used for outpatient/community monitoring principles and tapering safety; primarily an inpatient guideline."
+    },
+    {
+      "title": "Steroid-induced hyperglycaemia in primary care",
+      "type": "primary_care_review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4606815/",
+      "notes": "Used to support a risk-based primary care monitoring approach for people without known diabetes."
     }
   ]
 }
