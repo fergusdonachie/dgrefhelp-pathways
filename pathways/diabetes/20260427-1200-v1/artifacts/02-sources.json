@@ -13,7 +13,8 @@
     {
       "title": "Weight Management in Diabetes.docx",
       "type": "supplied_document",
-      "path": "/Users/fergusdonachie/Downloads/Weight Management in Diabetes.docx"
+      "path": "/Users/fergusdonachie/Downloads/Weight Management in Diabetes.docx",
+      "notes": "Supplied document pointed to Lothian RefHelp diabetes remission and pre-diabetes pages; used as the prompt to build a local D&G section."
     },
     {
       "title": "Hyperglycaemia & Steroids",
@@ -31,6 +32,42 @@
       "type": "primary_care_review",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4606815/",
       "notes": "Used to support a risk-based primary care monitoring approach for people without known diabetes."
+    },
+    {
+      "title": "Type 2 diabetes weight management programmes",
+      "type": "dgrefhelp_page",
+      "url": "https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/diabetes/type-2-diabetes-adults/type-2-diabetes-weight-management-programmes/",
+      "notes": "Used for local D&G weight management options, eligibility and format."
+    },
+    {
+      "title": "Management for the first 12 months",
+      "type": "dgrefhelp_page",
+      "url": "https://rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/diabetes/type-2-diabetes-adults/management-for-the-first-12-months/",
+      "notes": "Used for DESMOND / weight management referral timing in first-year Type 2 Diabetes management."
+    },
+    {
+      "title": "Dumfries and Galloway DESMOND centre information",
+      "type": "programme_page",
+      "url": "https://www.desmond.nhs.uk/centre-posts/dumfries-and-galloway",
+      "notes": "Used for local DESMOND, MyDESMOND and Let's Prevent availability."
+    },
+    {
+      "title": "Support for type 2 diabetes remission",
+      "type": "diabetes_uk_page",
+      "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/remission/support-for-type-2-diabetes-remission",
+      "notes": "Used for remission programme framing and common Scotland eligibility criteria."
+    },
+    {
+      "title": "National Digital Type 2 Diabetes Remission Programme",
+      "type": "ania_page",
+      "url": "https://www.nhscfsd.co.uk/our-work/innovation/accelerated-national-innovation-adoption-ania-pathway/what-we-are-doing/innovations-approved-for-adoption/national-digital-type-2-diabetes-remission/implementing-the-national-digital-type-2-diabetes-remission-programme/",
+      "notes": "Used for ANIA national implementation and Primary Care referral route."
+    },
+    {
+      "title": "National Digital Type 2 Diabetes Remission Data Protection Privacy Notice",
+      "type": "ania_page",
+      "url": "https://www.nhscfsd.co.uk/our-work/innovation/accelerated-national-innovation-adoption-ania-pathway/what-we-are-doing/innovations-approved-for-adoption/national-digital-type-2-diabetes-remission/national-digital-type-2-diabetes-remission-data-protection-privacy-notice/",
+      "notes": "Used for Counterweight provider and programme scale/remission expectation."
     }
   ]
 }
