@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "title": "Email from Gavin",
+      "type": "author_email",
+      "notes": "Provided requested diabetes landing page order and pending section list."
+    },
+    {
+      "title": "Diabetes Referral Guidelines.docx",
+      "type": "supplied_document",
+      "path": "/Users/fergusdonachie/Downloads/Diabetes Referral Guidelines.docx"
+    },
+    {
+      "title": "Weight Management in Diabetes.docx",
+      "type": "supplied_document",
+      "path": "/Users/fergusdonachie/Downloads/Weight Management in Diabetes.docx"
+    }
+  ]
+}

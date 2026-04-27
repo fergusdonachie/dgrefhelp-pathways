@@ -1,0 +1,29 @@
+{
+  "topic": "Diabetes",
+  "page_type": "service_information",
+  "version": "v1",
+  "notes": "Draft diabetes landing page assembled from supplied email, Diabetes Referral Guidelines.docx, and Weight Management in Diabetes.docx. Patient Initiated Follow Up / Annual Screening, Type 2 Diabetes (Adults), Diabetic Foot, and Steroid Induced Hyperglycaemia need final source content before publication.",
+  "page_contents_html_path": "pathways/diabetes/20260427-1200-v1/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/diabetes/20260427-1200-v1/html/accordion-sections.json",
+  "section_heading_order": [
+    "Diabetes Referral Guidelines",
+    "Patient Initiated Follow Up and Annual Screening",
+    "Type 2 Diabetes (Adults)",
+    "Diabetic Foot",
+    "Weight Management in Diabetes",
+    "Steroid Induced Hyperglycaemia",
+    "Let's Prevent"
+  ],
+  "source_documents": [
+    "Email from Gavin",
+    "Diabetes Referral Guidelines.docx",
+    "Weight Management in Diabetes.docx"
+  ],
+  "ready_for_editor_review": true,
+  "publication_gaps": [
+    "Patient Initiated Follow Up and Annual Screening proposed Word document was not available in supplied files.",
+    "Detailed Type 2 Diabetes (Adults) content was not available in supplied files.",
+    "Diabetic Foot content is awaiting update from Dr Louise Overend.",
+    "Steroid Induced Hyperglycaemia source content from Clinical Handbook was not available in supplied files."
+  ]
+}
