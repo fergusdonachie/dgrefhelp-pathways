@@ -1,0 +1,17 @@
+{
+  "topic": "musculoskeletal-masqueraders",
+  "version": "v1",
+  "page_contents_html_path": "pathways/musculoskeletal-masqueraders/20260501-v1/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/musculoskeletal-masqueraders/20260501-v1/html/accordion-sections.json",
+  "section_heading_order": [
+    "Background",
+    "Assessment",
+    "Primary care management",
+    "Who to refer",
+    "Who not to refer",
+    "Summary table",
+    "References"
+  ],
+  "ready_for_editor_review": true,
+  "source_document": "resources/MSK_masqueraders 5 final draft.docx"
+}
