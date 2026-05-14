@@ -1,0 +1,56 @@
+{
+  "topic": "Monoclonal Gammopathy of Undetermined Significance (MGUS)",
+  "run_id": "20260514-1200-v1",
+  "sources": [
+    {
+      "id": 1,
+      "title": "NHS Tayside Right Decisions — MGUS, Myeloma and AL Amyloidosis Guidelines",
+      "publisher": "NHS Tayside / Right Decisions NHS Scotland",
+      "url": null,
+      "notes": "Regional NHS Scotland clinical guideline covering MGUS diagnosis, risk stratification, and monitoring"
+    },
+    {
+      "id": 2,
+      "title": "NHS Highland Right Decisions — MGUS Guidelines",
+      "publisher": "NHS Highland / Right Decisions NHS Scotland",
+      "url": null,
+      "notes": "Regional NHS Scotland guideline for MGUS management in primary and secondary care"
+    },
+    {
+      "id": 3,
+      "title": "Scottish Cancer Referral Guidelines — Haematological Cancers",
+      "publisher": "NHS Scotland",
+      "url": "https://www.cancerreferral.scot.nhs.uk/haematological-cancers",
+      "notes": "National referral criteria for haematological malignancy including myeloma and related disorders; covers USC / 2WW thresholds"
+    },
+    {
+      "id": 4,
+      "title": "Investigation and management of monoclonal gammopathy of undetermined significance",
+      "publisher": "British Journal of Haematology (BJH)",
+      "year": 2023,
+      "authors": "Cavenagh J et al.",
+      "url": null,
+      "notes": "Current BJH guidelines on MGUS investigation, risk stratification using Mayo/IMWG model, and management"
+    },
+    {
+      "id": 5,
+      "title": "International Myeloma Working Group consensus statement and guidelines regarding the current status of smoldering multiple myeloma",
+      "publisher": "Blood",
+      "year": 2010,
+      "authors": "Rajkumar SV et al.",
+      "url": null,
+      "notes": "IMWG consensus defining MGUS diagnostic criteria and Mayo Clinic risk stratification model (0–3 risk factors)"
+    }
+  ],
+  "sources_not_found": [
+    {
+      "note": "No NICE CKS page exists for MGUS as of May 2026",
+      "action": "NHS Scotland sources used as primary reference"
+    },
+    {
+      "note": "No D&G (Dumfries and Galloway) local MGUS criteria document identified",
+      "action": "NHS Scotland regional guidelines applied"
+    }
+  ],
+  "recommended_additional_check": "NB Medical KISS — check for MGUS primary care guidance before publishing"
+}
