@@ -1,0 +1,40 @@
+{
+  "run_id": "20260514-1400-v2",
+  "topic": "Paraprotein / monoclonal gammopathy",
+  "sources": [
+    {
+      "id": "src-01",
+      "title": "NHS Tayside Right Decisions: MGUS / Myeloma / AL Amyloidosis",
+      "type": "local_guideline",
+      "notes": "Regional NHS Scotland pathway; informs referral thresholds and monitoring schedule"
+    },
+    {
+      "id": "src-02",
+      "title": "NHS Highland Right Decisions: MGUS Guidelines",
+      "type": "local_guideline",
+      "notes": "Regional NHS Scotland pathway; consistent with Tayside approach"
+    },
+    {
+      "id": "src-03",
+      "title": "Scottish Cancer Referral Guidelines — Haematological Cancers",
+      "type": "national_guideline",
+      "url": "https://www.cancerreferral.scot.nhs.uk/haematological-cancers",
+      "notes": "National USC / 2WW referral criteria for Scotland"
+    },
+    {
+      "id": "src-04",
+      "title": "British Journal of Haematology: Investigation and management of monoclonal gammopathy of undetermined significance (2023)",
+      "type": "society_guideline",
+      "publisher": "British Society for Haematology",
+      "notes": "Current UK BSH guideline; informs workup, risk stratification, monitoring intervals"
+    },
+    {
+      "id": "src-05",
+      "title": "IMWG Consensus Recommendations: MGUS and smouldering myeloma — risk factors and monitoring strategies",
+      "type": "international_consensus",
+      "publisher": "International Myeloma Working Group",
+      "notes": "Source of Mayo Clinic / IMWG 3-factor risk stratification model and 20-year progression estimates"
+    }
+  ],
+  "notes": "All clinical content provided directly in run specification. No web search or WebFetch used in this run per task constraints."
+}
