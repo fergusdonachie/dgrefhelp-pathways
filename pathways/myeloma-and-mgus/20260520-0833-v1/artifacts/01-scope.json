@@ -1,0 +1,35 @@
+{
+  "topic": "Myeloma and MGUS",
+  "topic_slug": "myeloma-and-mgus",
+  "version": "v1",
+  "audience": [
+    "Primary care clinicians in NHS Dumfries and Galloway"
+  ],
+  "settings": [
+    "Primary care",
+    "Referral interface with haematology",
+    "Emergency admission thresholds"
+  ],
+  "in_scope": [
+    "Recognition and initial assessment of suspected myeloma",
+    "Interpretation of common abnormal blood/urine findings suggestive of plasma cell dyscrasia",
+    "Primary care baseline investigations before referral where safe",
+    "Immediate admission red flags and urgency tiers for referral",
+    "MGUS diagnosis follow-up framework in primary care and re-referral triggers"
+  ],
+  "out_of_scope": [
+    "Specialist chemotherapy regimens",
+    "Stem cell transplant eligibility pathways",
+    "Detailed inpatient management of hypercalcaemia, sepsis, spinal cord compression"
+  ],
+  "core_questions": [
+    "When should same-day admission be arranged?",
+    "Which patients need USOC vs urgent non-cancer outpatient referral?",
+    "How should MGUS be monitored in primary care and when should follow-up interval change?"
+  ],
+  "summary": [
+    "Single combined pathway for myeloma suspicion and established MGUS follow-up.",
+    "Prioritises red flags, referral urgency, and practical GP investigation sequence.",
+    "Uses D&G urgency labels and explicit re-referral triggers."
+  ]
+}

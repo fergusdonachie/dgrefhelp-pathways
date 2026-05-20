@@ -1,0 +1,97 @@
+{
+  "topic": "Myeloma and MGUS",
+  "status": "warn",
+  "artifact_checks": [
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/01-scope.json",
+      "status": "pass"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/02-sources.json",
+      "status": "warn"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/03-evidence.json",
+      "status": "pass"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/04-conflict-table.json",
+      "status": "pass"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/05-synthesis.json",
+      "status": "warn"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/06-layout.json",
+      "status": "pass"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/07-bnf-links.json",
+      "status": "pass"
+    },
+    {
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/08-rendered-html-blocks.json",
+      "status": "pass"
+    }
+  ],
+  "html_checks": [
+    {
+      "check": "canonical headings",
+      "status": "pass"
+    },
+    {
+      "check": "allowed tags",
+      "status": "pass"
+    },
+    {
+      "check": "content-only HTML",
+      "status": "pass"
+    },
+    {
+      "check": "plain mode no inline styles",
+      "status": "pass"
+    }
+  ],
+  "traceability_checks": [
+    {
+      "check": "threshold statements carry evidence refs in synthesis",
+      "status": "pass"
+    },
+    {
+      "check": "known source limitations surfaced",
+      "status": "warn"
+    }
+  ],
+  "findings": [
+    {
+      "severity": "warning",
+      "code": "NB_CHECK_BLOCKED",
+      "message": "NB Medical KISS authenticated browser check not available in this runtime session.",
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/02-sources.json",
+      "path": "nb_medical_check.status",
+      "example": "blocked"
+    },
+    {
+      "severity": "warning",
+      "code": "SOURCE_LIMITED_BSH",
+      "message": "BSH/UKMS full paper extraction was limited; local haematology should confirm MGUS thresholds before publication.",
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/artifacts/05-synthesis.json",
+      "path": "evidence_notes",
+      "example": ""
+    },
+    {
+      "severity": "info",
+      "code": "EDITOR_CONFIRM_ROUTE",
+      "message": "Confirm D&G urgent non-cancer haematology route and MGUS monitoring interval before CMS upload.",
+      "artifact_path": "pathways/myeloma-and-mgus/20260520-0833-v1/drafts/review-pack.md",
+      "path": "",
+      "example": ""
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 2,
+    "infos": 1
+  }
+}

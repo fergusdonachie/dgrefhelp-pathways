@@ -1,0 +1,166 @@
+{
+  "topic": "Myeloma and MGUS",
+  "generated_at": "2026-05-20T09:27:00+01:00",
+  "background": {
+    "statements": [
+      {
+        "id": "BG1",
+        "text": "MGUS is common, usually asymptomatic, and not cancer, but it can progress to myeloma or related lymphoplasmacytic malignancy.",
+        "evidence_refs": ["SRC1-E5", "SRC5-E1"]
+      },
+      {
+        "id": "BG2",
+        "text": "Myeloma is often difficult to identify early because symptoms can be vague; do not miss CRAB features or malignant spinal cord compression.",
+        "evidence_refs": ["SRC1-E1", "SRC1-E3", "SRC1-E4"]
+      }
+    ]
+  },
+  "assessment": {
+    "history": [
+      {
+        "id": "ASM-H1",
+        "text": "Ask about unexplained bony back pain or other bone pain, unexplained fracture, fatigue, recurrent infection, polyuria, polydipsia, confusion, pruritus without rash, neuropathy, and weight loss.",
+        "evidence_refs": ["SRC1-E1", "SRC5-E3"]
+      }
+    ],
+    "examination": [
+      {
+        "id": "ASM-E1",
+        "text": "Check hydration, pallor, bone tenderness, neurological symptoms/signs, gait, power, sensation, reflexes, and bladder or bowel disturbance when back pain is present.",
+        "evidence_refs": ["SRC1-E4"]
+      }
+    ],
+    "tests": [
+      {
+        "id": "ASM-T1",
+        "text": "Initial tests: FBC, U&E/eGFR, calcium, ESR or plasma viscosity, LFT, serum immunoglobulins, serum protein electrophoresis, and sFLC; request urine Bence Jones protein if sFLC is not available.",
+        "evidence_refs": ["SRC1-E1", "SRC1-E2", "SRC2-E1", "SRC3-E1", "SRC3-E2"]
+      },
+      {
+        "id": "ASM-T2",
+        "text": "If serum protein electrophoresis is abnormal, serum immunofixation is needed to confirm paraprotein.",
+        "evidence_refs": ["SRC2-E2"]
+      },
+      {
+        "id": "ASM-T3",
+        "text": "Do not rely on one negative paraprotein, light-chain, or urine test alone to exclude myeloma if symptoms remain concerning.",
+        "evidence_refs": ["SRC2-E3"]
+      }
+    ],
+    "red_flags": [
+      {
+        "id": "ASM-R1",
+        "text": "Suspected myeloma with malignant spinal cord compression symptoms/signs or acute kidney injury requires same-day hospital assessment.",
+        "urgency": "Hospital admission (same day)",
+        "evidence_refs": ["SRC1-E4"]
+      },
+      {
+        "id": "ASM-R2",
+        "text": "Myeloma-suggestive tests plus any CRAB feature require urgent suspicion of cancer referral.",
+        "urgency": "Urgent suspicion of cancer (USOC)",
+        "evidence_refs": ["SRC1-E3"]
+      }
+    ]
+  },
+  "primary_care_management": {
+    "statements": [
+      {
+        "id": "PCM1",
+        "text": "Treat MGUS as a monitoring diagnosis, not a treatment diagnosis. Give safety-net advice to report new bone pain, fractures, fatigue, recurrent infections, neuropathy, weight loss, polyuria/polydipsia, or symptoms of anaemia.",
+        "evidence_refs": ["SRC5-E1", "SRC5-E3"]
+      },
+      {
+        "id": "PCM2",
+        "text": "For newly identified low-risk MGUS, repeat FBC, U&E/eGFR, calcium, paraprotein/serum protein electrophoresis, quantitative immunoglobulins, and sFLC at 3 to 6 months to establish stability, then usually annually if stable pending local haematology agreement.",
+        "evidence_refs": ["SRC4-E1", "SRC4-E2", "SRC5-E2"]
+      },
+      {
+        "id": "PCM3",
+        "text": "Low-risk MGUS means IgG paraprotein <15 g/L, normal sFLC ratio, no CRAB features, no concerning symptoms, and stable results.",
+        "evidence_refs": ["SRC4-E1"]
+      },
+      {
+        "id": "PCM4",
+        "text": "Consider stopping routine surveillance for low-risk MGUS in people over 80 years or with life expectancy under 5 years after shared decision-making and local haematology agreement.",
+        "evidence_refs": ["SRC4-E4"]
+      },
+      {
+        "id": "PCM5",
+        "text": "If myeloma tests are normal but symptoms remain unexplained and concerning, repeat baseline tests and safety-net; consider specialist advice or an alternative diagnostic route.",
+        "evidence_refs": ["SRC1-E1", "SRC2-E3"]
+      }
+    ]
+  },
+  "who_to_refer": {
+    "hospital_admission_same_day": [
+      {
+        "id": "REF-H1",
+        "text": "Suspected myeloma with symptoms/signs of malignant spinal cord compression.",
+        "evidence_refs": ["SRC1-E4"]
+      },
+      {
+        "id": "REF-H2",
+        "text": "Blood tests or imaging suggestive of myeloma with acute kidney injury.",
+        "evidence_refs": ["SRC1-E4"]
+      }
+    ],
+    "usoc": [
+      {
+        "id": "REF-U1",
+        "text": "Raised paraprotein concentration, paraprotein band, abnormal sFLC, or urinary Bence Jones protein plus one or more CRAB features: raised calcium, renal impairment, anaemia, or bone pain.",
+        "evidence_refs": ["SRC1-E3"]
+      }
+    ],
+    "urgent": [
+      {
+        "id": "REF-N1",
+        "text": "MGUS with IgG paraprotein >15 g/L, IgA or IgM paraprotein >10 g/L, sFLC ratio outside 0.1 to 7, or paraprotein rise >25% and >5 g/L from baseline.",
+        "evidence_refs": ["SRC4-E3"]
+      },
+      {
+        "id": "REF-N2",
+        "text": "Any MGUS or paraprotein result with new CRAB symptoms, recurrent infections, neuropathy, suspected AL amyloidosis, or otherwise unexplained clinical deterioration.",
+        "evidence_refs": ["SRC1-E3", "SRC5-E3"]
+      }
+    ],
+    "routine": [
+      {
+        "id": "REF-R1",
+        "text": "Raised paraprotein without CRAB features where MGUS risk thresholds are met or monitoring suitability is uncertain.",
+        "evidence_refs": ["SRC1-E5", "SRC4-E3"]
+      }
+    ],
+    "include_in_referral": [
+      "Symptoms and duration, especially bone pain, fractures, infection, neuropathy, weight loss, renal symptoms, and MSCC symptoms if present.",
+      "FBC, U&E/eGFR, calcium, ESR or plasma viscosity, LFT, serum immunoglobulins, serum protein electrophoresis, sFLC, urine Bence Jones protein if done, and trend over time.",
+      "Medication list, relevant comorbidity, frailty, and whether the patient is suitable for investigation or active treatment."
+    ]
+  },
+  "who_not_to_refer": [
+    {
+      "id": "DNR1",
+      "text": "Do not refer stable low-risk MGUS as USOC when there are no CRAB features, no concerning symptoms, and no significant laboratory change.",
+      "evidence_refs": ["SRC1-E5", "SRC4-E1"]
+    },
+    {
+      "id": "DNR2",
+      "text": "Do not treat MGUS in primary care; it is monitored, not treated.",
+      "evidence_refs": ["SRC5-E1"]
+    }
+  ],
+  "medicines": [],
+  "drug_mentions": [],
+  "evidence_notes": [
+    "NB Medical KISS check is blocked and should be added in a future update pass.",
+    "BSH/UKMS full paper PDF extraction was limited; MGUS thresholds should be checked by local D&G haematology before publication.",
+    "MGUS monitoring interval differs by source. Draft uses a conservative 3 to 6 month stability check, then annual monitoring if stable pending local agreement."
+  ],
+  "traceability": [
+    {"pathway_statement_id": "BG1", "evidence_refs": ["SRC1-E5", "SRC5-E1"], "consensus": "consensus"},
+    {"pathway_statement_id": "ASM-T1", "evidence_refs": ["SRC1-E1", "SRC1-E2", "SRC2-E1", "SRC3-E1", "SRC3-E2"], "consensus": "consensus"},
+    {"pathway_statement_id": "REF-H1", "evidence_refs": ["SRC1-E4"], "consensus": "consensus"},
+    {"pathway_statement_id": "REF-U1", "evidence_refs": ["SRC1-E3"], "consensus": "consensus"},
+    {"pathway_statement_id": "PCM2", "evidence_refs": ["SRC4-E1", "SRC4-E2", "SRC5-E2"], "consensus": "variation"},
+    {"pathway_statement_id": "REF-N1", "evidence_refs": ["SRC4-E3"], "consensus": "uncertain"}
+  ]
+}

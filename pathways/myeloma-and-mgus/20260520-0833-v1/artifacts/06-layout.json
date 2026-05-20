@@ -1,0 +1,9 @@
+{
+  "render_mode": "plain",
+  "plain_style_profile": "unstyled",
+  "page_contents_strategy": "background_only",
+  "allowed_components": [],
+  "sections_needing_enhanced": [],
+  "sections_allowing_callouts": [],
+  "rationale": "The pathway is threshold-led but can be represented clearly with plain HTML lists under the fixed DGRefHelp accordion headings. No enhanced components or styled callouts are required."
+}

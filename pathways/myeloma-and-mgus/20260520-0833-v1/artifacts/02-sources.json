@@ -1,0 +1,102 @@
+{
+  "topic": "Myeloma and MGUS",
+  "nb_medical_check": {
+    "status": "blocked",
+    "notes": "NB Medical KISS authenticated browser check not available in this runtime session.",
+    "kiss_candidates": []
+  },
+  "sources": [
+    {
+      "rank": 1,
+      "tier": "Tier1",
+      "category": "NICE",
+      "title": "Suspected cancer: recognition and referral (NG12)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng12",
+      "last_updated": "2026-04-15",
+      "coverage_tags": [
+        "assessment",
+        "referral",
+        "red_flags",
+        "investigations"
+      ],
+      "notes": [
+        "Includes myeloma suspicion/referral criteria and test recommendations."
+      ]
+    },
+    {
+      "rank": 2,
+      "tier": "Tier1",
+      "category": "NICE",
+      "title": "Myeloma: diagnosis and management (NG35)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng35",
+      "last_updated": "",
+      "coverage_tags": [
+        "management",
+        "investigations",
+        "referral"
+      ],
+      "notes": [
+        "Secondary care focused; useful for diagnostic framework and disease-defining features."
+      ]
+    },
+    {
+      "rank": 3,
+      "tier": "Tier2",
+      "category": "UK_specialty",
+      "title": "Investigation and management of monoclonal gammopathy of undetermined significance",
+      "publisher": "British Society for Haematology",
+      "url": "https://b-s-h.org.uk/guidelines/guidelines/investigation-and-management-of-monoclonal-gammopathy-of-undermined-significance",
+      "last_updated": "2023-05-19",
+      "coverage_tags": [
+        "management",
+        "referral",
+        "monitoring",
+        "medicines"
+      ],
+      "notes": [
+        "Good practice paper with MGUS risk stratification and follow-up recommendations."
+      ]
+    },
+    {
+      "rank": 4,
+      "tier": "Tier2",
+      "category": "UK_specialty",
+      "title": "Myeloma, MGUS and related conditions: a guide for GPs",
+      "publisher": "Myeloma UK",
+      "url": "https://www.myeloma.org.uk/wp-content/uploads/2023/08/Myeloma-MGUS-and-Related-Conditions-A-Guide-for-GPs.pdf",
+      "last_updated": "2023-08-01",
+      "coverage_tags": [
+        "assessment",
+        "management",
+        "referral",
+        "monitoring"
+      ],
+      "notes": [
+        "Primary-care practical thresholds and referral framing."
+      ]
+    },
+    {
+      "rank": 5,
+      "tier": "Tier1",
+      "category": "NHS_Scotland",
+      "title": "Scottish Referral Guidelines for Suspected Cancer",
+      "publisher": "NHS Scotland",
+      "url": "https://www.cancerreferral.scot.nhs.uk/",
+      "last_updated": "",
+      "coverage_tags": [
+        "referral",
+        "red_flags"
+      ],
+      "notes": [
+        "Urgent suspicion of cancer referral framework and expectation on timelines."
+      ]
+    }
+  ],
+  "summary": [
+    "Core shortlist includes NICE NG12/NG35 plus BSH MGUS and GP-focused Myeloma UK guidance.",
+    "NB Medical KISS check marked blocked and flagged for later completion if browser session available.",
+    "Scottish referral framework included for urgency tier alignment."
+  ]
+}

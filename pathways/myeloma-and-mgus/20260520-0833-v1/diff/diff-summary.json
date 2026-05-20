@@ -1,0 +1,14 @@
+{
+  "topic": "Myeloma and MGUS",
+  "status": "no_baseline",
+  "baseline_checked": "pathways/_mirrors/dgrefhelp/latest/",
+  "summary": [
+    "No existing DGRefHelp mirror or prior pathway file for myeloma/MGUS was found in the baseline mirror directory.",
+    "This run should be treated as a new pathway draft rather than an update comparison."
+  ],
+  "editor_checklist": [
+    "Confirm local D&G route for urgent non-cancer haematology advice/referral.",
+    "Confirm MGUS monitoring interval and thresholds with haematology.",
+    "Decide whether NB Medical KISS should be incorporated before publication."
+  ]
+}

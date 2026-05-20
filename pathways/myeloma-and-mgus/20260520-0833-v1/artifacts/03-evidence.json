@@ -1,0 +1,390 @@
+{
+  "topic": "Myeloma and MGUS",
+  "extracted_at": "2026-05-20T09:24:00+01:00",
+  "sources": [
+    {
+      "source_id": "SRC1",
+      "source_url": "https://www.rightdecisions.scot.nhs.uk/scottish-referral-guidelines-srgs-for-suspected-cancer/haematological-cancers/",
+      "source_title": "Scottish Referral Guidelines for Suspected Cancer: haematological cancers",
+      "publisher": "Right Decisions / NHS Scotland",
+      "last_updated": "",
+      "access": {
+        "status": "body",
+        "notes": "Web body text extracted successfully."
+      },
+      "extracted": {
+        "background": [
+          "Myeloma commonly presents with bone pain, anaemia symptoms, renal impairment symptoms, and hypercalcaemia symptoms.",
+          "MGUS is not cancer and is a common incidental finding in older people; the SRG cites progression to myeloma or related lymphoplasmacytic malignancy at around 1% per year."
+        ],
+        "assessment": {
+          "history": [
+            "Ask specifically about unexplained bone pain, particularly bony back pain, pathological or fragility fracture, fatigue, polyuria, polydipsia, peripheral neuropathy, and recurrent infection."
+          ],
+          "examination": [
+            "Assess for signs of anaemia, dehydration, confusion, bone tenderness, neurological deficit, and features suggesting malignant spinal cord compression."
+          ],
+          "tests": [
+            "For possible myeloma, particularly age 60 years or over, request FBC, plasma viscosity or ESR, renal function, and calcium.",
+            "If initial blood tests are suspicious or concern persists, request serum immunoglobulins, serum protein electrophoresis, serum free light chains, or urinary Bence Jones proteins if sFLC is not available."
+          ],
+          "red_flags": [
+            {
+              "urgency": "emergency",
+              "statement": "Blood tests or imaging suggestive of myeloma with symptoms or signs of malignant spinal cord compression or acute kidney injury require same-day emergency referral."
+            },
+            {
+              "urgency": "usoc",
+              "statement": "Test results suggestive of myeloma, including raised paraprotein concentrations, paraprotein bands, abnormal sFLC or urinary Bence Jones proteins, plus at least one CRAB feature require urgent suspicion of cancer referral."
+            }
+          ]
+        },
+        "primary_care_management": [
+          "If blood tests are normal, myeloma is unlikely; investigate other causes while safety-netting and repeating baseline tests if symptoms remain concerning and unexplained.",
+          "Do not refer raised paraprotein alone as USC when there are no additional USC features; follow local non-USC or primary-care management guidance."
+        ],
+        "referral": {
+          "usoc": [
+            "Raised paraprotein concentration, paraprotein band, abnormal sFLC or urinary Bence Jones protein with one or more CRAB criteria."
+          ],
+          "urgent": [],
+          "routine": [
+            "Raised paraprotein without CRAB features should follow local non-USC haematology or primary-care management pathways."
+          ]
+        },
+        "do_not_refer": [
+          "Do not use USC for lymphocytosis or raised paraprotein without the additional features in the referral criteria."
+        ],
+        "medicines": [],
+        "scope_gaps": []
+      },
+      "evidence_index": [
+        {
+          "evidence_ref": "SRC1-E1",
+          "section": "assessment.tests",
+          "statement": "Initial myeloma tests: FBC, plasma viscosity or ESR, renal function, calcium.",
+          "thresholds": ["Age 60 years or over strengthens suspicion but does not exclude younger adults"],
+          "population": "Adults with unexplained features suggestive of myeloma",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC1-E2",
+          "section": "assessment.tests",
+          "statement": "Further tests include serum immunoglobulins, serum protein electrophoresis, serum free light chains, or urinary Bence Jones proteins if sFLC unavailable.",
+          "thresholds": ["Suspicious initial blood tests or ongoing clinical concern"],
+          "population": "Adults with possible myeloma",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC1-E3",
+          "section": "referral.usoc",
+          "statement": "USC referral for results suggestive of myeloma plus one or more CRAB criteria.",
+          "thresholds": ["Raised Calcium", "Renal impairment", "Anaemia", "Bone pain"],
+          "population": "Adults with suspected myeloma",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC1-E4",
+          "section": "referral.emergency",
+          "statement": "Same-day emergency referral for myeloma-suggestive tests or imaging with malignant spinal cord compression features or acute kidney injury.",
+          "thresholds": ["MSCC symptoms/signs", "Acute kidney injury"],
+          "population": "Adults with suspected myeloma",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC1-E5",
+          "section": "do_not_refer",
+          "statement": "Raised paraprotein without USC features should not be referred as USC.",
+          "thresholds": [],
+          "population": "Adults with raised paraprotein",
+          "uncertainty": "Local non-USC pathway threshold still needs D&G haematology confirmation."
+        }
+      ]
+    },
+    {
+      "source_id": "SRC2",
+      "source_url": "https://www.nice.org.uk/guidance/ng35/chapter/Recommendations",
+      "source_title": "Myeloma: diagnosis and management (NG35)",
+      "publisher": "NICE",
+      "last_updated": "",
+      "access": {
+        "status": "body",
+        "notes": "Relevant recommendation text extracted; guideline is mainly secondary-care focused."
+      },
+      "extracted": {
+        "background": [],
+        "assessment": {
+          "history": [],
+          "examination": [],
+          "tests": [
+            "Use serum protein electrophoresis and serum-free light-chain assay to confirm paraprotein indicating possible myeloma or MGUS.",
+            "If serum protein electrophoresis is abnormal, use serum immunofixation to confirm the paraprotein.",
+            "Do not use serum protein electrophoresis, serum immunofixation, serum-free light-chain assay, or urine electrophoresis alone to exclude myeloma."
+          ],
+          "red_flags": []
+        },
+        "primary_care_management": [
+          "People with myeloma should be advised how to identify and report new symptoms, especially pain and spinal cord compression symptoms."
+        ],
+        "referral": {
+          "usoc": [],
+          "urgent": [],
+          "routine": []
+        },
+        "do_not_refer": [],
+        "medicines": [
+          "Specialist myeloma treatment and bone disease medicines are outside primary-care initiation scope."
+        ],
+        "scope_gaps": [
+          "NG35 does not provide primary-care MGUS follow-up thresholds."
+        ]
+      },
+      "evidence_index": [
+        {
+          "evidence_ref": "SRC2-E1",
+          "section": "assessment.tests",
+          "statement": "Serum protein electrophoresis plus serum-free light-chain assay confirms paraprotein indicating possible myeloma or MGUS.",
+          "thresholds": [],
+          "population": "People with suspected myeloma or MGUS",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC2-E2",
+          "section": "assessment.tests",
+          "statement": "Abnormal serum protein electrophoresis should be followed by serum immunofixation.",
+          "thresholds": ["Abnormal serum protein electrophoresis"],
+          "population": "People with suspected myeloma or MGUS",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC2-E3",
+          "section": "assessment.tests",
+          "statement": "Do not use a single negative paraprotein or light-chain test alone to exclude myeloma.",
+          "thresholds": [],
+          "population": "People with suspected myeloma",
+          "uncertainty": ""
+        }
+      ]
+    },
+    {
+      "source_id": "SRC3",
+      "source_url": "https://www.nice.org.uk/guidance/ng12",
+      "source_title": "Suspected cancer: recognition and referral (NG12)",
+      "publisher": "NICE",
+      "last_updated": "2026-04-15",
+      "access": {
+        "status": "body",
+        "notes": "NICE page extraction was broad/truncated; myeloma-specific content cross-checked against NICE-linked Myeloma UK HCP NG12 update summary and NICE NG35 test recommendations."
+      },
+      "extracted": {
+        "background": [],
+        "assessment": {
+          "history": [
+            "Persistent bone pain or unexplained fracture in people aged 60 and over should prompt initial myeloma blood tests."
+          ],
+          "examination": [],
+          "tests": [
+            "The April 2025 NG12 update amended myeloma blood-test recommendations and added serum protein electrophoresis into the initial diagnostic approach.",
+            "Offer FBC, calcium, and either plasma viscosity or ESR in people aged 60 and over with persistent bone pain or unexplained fracture.",
+            "If raised plasma viscosity or ESR is consistent with possible myeloma, arrange urgent protein electrophoresis and Bence Jones protein testing; sFLC may be used where available."
+          ],
+          "red_flags": []
+        },
+        "primary_care_management": [],
+        "referral": {
+          "usoc": [],
+          "urgent": [],
+          "routine": []
+        },
+        "do_not_refer": [],
+        "medicines": [],
+        "scope_gaps": [
+          "Direct NICE NG12 myeloma subsection was not cleanly isolated by the web extractor."
+        ]
+      },
+      "evidence_index": [
+        {
+          "evidence_ref": "SRC3-E1",
+          "section": "assessment.tests",
+          "statement": "For age 60 and over with persistent bone pain or unexplained fracture, initial tests include FBC, calcium, and plasma viscosity or ESR.",
+          "thresholds": ["Age >=60", "Persistent bone pain", "Unexplained fracture"],
+          "population": "Adults with symptoms suggestive of myeloma",
+          "uncertainty": "Direct NG12 page extraction was broad; statement is supported by NICE-linked update summary."
+        },
+        {
+          "evidence_ref": "SRC3-E2",
+          "section": "assessment.tests",
+          "statement": "If inflammatory marker results support possible myeloma, urgent protein electrophoresis and Bence Jones protein or sFLC testing should follow.",
+          "thresholds": ["Raised plasma viscosity or ESR consistent with possible myeloma"],
+          "population": "Adults with possible myeloma",
+          "uncertainty": "Direct NG12 page extraction was broad; statement is supported by NICE-linked update summary."
+        }
+      ]
+    },
+    {
+      "source_id": "SRC4",
+      "source_url": "https://b-s-h.org.uk/guidelines/guidelines/investigation-and-management-of-monoclonal-gammopathy-of-undermined-significance",
+      "source_title": "Investigation and management of monoclonal gammopathy of undetermined significance",
+      "publisher": "British Society for Haematology / UK Myeloma Society",
+      "last_updated": "2023-05-19",
+      "access": {
+        "status": "body",
+        "notes": "BSH landing page extracted but full paper PDF text extraction was limited. Thresholds cross-checked with Myeloma UK HCP summary and web-indexed excerpts; mark for local haematology confirmation."
+      },
+      "extracted": {
+        "background": [
+          "MGUS is defined by monoclonal protein without organ damage typical of myeloma or related malignancy.",
+          "Risk stratification should guide monitoring intensity and whether secondary-care assessment is needed."
+        ],
+        "assessment": {
+          "history": [
+            "Ask about myeloma/MGCS symptoms: bone pain, fractures, fatigue, recurrent infection, neuropathy, renal symptoms, weight loss, and symptoms of AL amyloidosis where relevant."
+          ],
+          "examination": [],
+          "tests": [
+            "For MGUS monitoring, use paraprotein trend, FBC, renal function, calcium, and sFLC where indicated."
+          ],
+          "red_flags": []
+        },
+        "primary_care_management": [
+          "Low-risk IgG MGUS with paraprotein <15 g/L and normal sFLC ratio may be monitored in primary care after initial stability check, depending on local policy.",
+          "Repeat monitoring around 6 months after diagnosis to establish stability, then reduce frequency if stable.",
+          "Consider stopping routine surveillance for low-risk MGUS in people over 80 years or with life expectancy under 5 years after shared decision-making."
+        ],
+        "referral": {
+          "usoc": [],
+          "urgent": [
+            "Refer for haematology assessment if IgG paraprotein is >15 g/L, IgA or IgM paraprotein is >10 g/L, sFLC ratio is outside 0.1 to 7, or paraprotein rises by >25% and >5 g/L from baseline."
+          ],
+          "routine": [
+            "Stable low-risk MGUS can usually remain under primary-care monitoring if no symptoms, no CRAB features, and no significant paraprotein or sFLC change."
+          ]
+        },
+        "do_not_refer": [
+          "Do not refer stable low-risk MGUS urgently in the absence of symptoms, CRAB features, significant paraprotein rise, or markedly abnormal sFLC ratio."
+        ],
+        "medicines": [],
+        "scope_gaps": [
+          "D&G local haematology should confirm exact primary-care monitoring interval and non-urgent referral route."
+        ]
+      },
+      "evidence_index": [
+        {
+          "evidence_ref": "SRC4-E1",
+          "section": "primary_care_management",
+          "statement": "Low-risk IgG MGUS is IgG paraprotein <15 g/L with normal sFLC ratio and can be monitored in primary care after stability check.",
+          "thresholds": ["IgG paraprotein <15 g/L", "Normal sFLC ratio"],
+          "population": "Adults with MGUS and no myeloma-defining features",
+          "uncertainty": "Full paper PDF extraction limited; confirm with local haematology before publication."
+        },
+        {
+          "evidence_ref": "SRC4-E2",
+          "section": "primary_care_management",
+          "statement": "Initial MGUS monitoring is around 6 months after diagnosis, then less frequent if stable.",
+          "thresholds": ["6 months after diagnosis"],
+          "population": "Adults with newly diagnosed MGUS",
+          "uncertainty": "Monitoring interval varies across sources."
+        },
+        {
+          "evidence_ref": "SRC4-E3",
+          "section": "referral.urgent",
+          "statement": "Refer if IgG paraprotein >15 g/L, IgA or IgM paraprotein >10 g/L, sFLC ratio outside 0.1 to 7, or paraprotein rises by >25% and >5 g/L.",
+          "thresholds": ["IgG >15 g/L", "IgA >10 g/L", "IgM >10 g/L", "sFLC ratio outside 0.1 to 7", "Paraprotein rise >25% and >5 g/L"],
+          "population": "Adults with MGUS",
+          "uncertainty": "Full paper PDF extraction limited; confirm with local haematology before publication."
+        },
+        {
+          "evidence_ref": "SRC4-E4",
+          "section": "primary_care_management",
+          "statement": "Consider stopping routine low-risk MGUS surveillance in people over 80 years or life expectancy under 5 years after shared decision-making.",
+          "thresholds": ["Age >80 years", "Life expectancy <5 years"],
+          "population": "Adults with low-risk MGUS",
+          "uncertainty": "Requires local policy agreement."
+        }
+      ]
+    },
+    {
+      "source_id": "SRC5",
+      "source_url": "https://www.myeloma.org.uk/understanding-myeloma/related-conditions/mgus/",
+      "source_title": "MGUS",
+      "publisher": "Myeloma UK",
+      "last_updated": "",
+      "access": {
+        "status": "body",
+        "notes": "Patient-facing MGUS page extracted successfully; GP guide PDF extraction was unavailable in this runtime."
+      },
+      "extracted": {
+        "background": [
+          "MGUS is not cancer, usually has no symptoms, and does not require treatment.",
+          "Myeloma UK describes MGUS as affecting about 1 in 30 people over 50, 1 in 20 over 70, and nearly 1 in 10 over 85.",
+          "Over 10 years, about 10% of people with MGUS develop myeloma."
+        ],
+        "assessment": {
+          "history": [
+            "Patients should report fatigue, pain, recurrent or frequent infections, and fractures."
+          ],
+          "examination": [],
+          "tests": [
+            "MGUS monitoring looks at trends in blood results and symptoms."
+          ],
+          "red_flags": []
+        },
+        "primary_care_management": [
+          "MGUS is actively monitored, not treated.",
+          "Monitoring is commonly every 3 to 4 months for the first year after diagnosis, then every 6 to 12 months if no symptoms develop."
+        ],
+        "referral": {
+          "usoc": [],
+          "urgent": [],
+          "routine": []
+        },
+        "do_not_refer": [],
+        "medicines": [],
+        "scope_gaps": []
+      },
+      "evidence_index": [
+        {
+          "evidence_ref": "SRC5-E1",
+          "section": "background",
+          "statement": "MGUS is not cancer, usually asymptomatic, and does not require treatment.",
+          "thresholds": [],
+          "population": "People with MGUS",
+          "uncertainty": ""
+        },
+        {
+          "evidence_ref": "SRC5-E2",
+          "section": "primary_care_management",
+          "statement": "MGUS checks are commonly every 3 to 4 months for the first year, then every 6 to 12 months if stable and asymptomatic.",
+          "thresholds": ["Every 3 to 4 months for first year", "Every 6 to 12 months if stable"],
+          "population": "People with MGUS",
+          "uncertainty": "Patient-facing source; BSH/UKMS suggests less intensive follow-up for low-risk MGUS in some cases."
+        },
+        {
+          "evidence_ref": "SRC5-E3",
+          "section": "assessment.history",
+          "statement": "Patients should report fatigue, pain, recurrent or frequent infections, and fractures.",
+          "thresholds": [],
+          "population": "People with MGUS",
+          "uncertainty": ""
+        }
+      ]
+    }
+  ],
+  "access_limitations": [
+    {
+      "source": "NB Medical KISS",
+      "status": "blocked",
+      "notes": "Authenticated browser check unavailable in this runtime."
+    },
+    {
+      "source": "Myeloma UK GP guide PDF",
+      "status": "limited",
+      "notes": "Native PDF extraction unavailable; used Myeloma UK web pages and HCP summaries instead."
+    },
+    {
+      "source": "BSH/UKMS full paper PDF",
+      "status": "limited",
+      "notes": "Landing page available but full paper PDF text extraction poor; thresholds need local confirmation before publication."
+    }
+  ]
+}

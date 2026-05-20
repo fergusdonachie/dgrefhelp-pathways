@@ -1,0 +1,15 @@
+{
+  "topic": "Myeloma and MGUS",
+  "review_pack": "pathways/myeloma-and-mgus/20260520-0833-v1/drafts/review-pack.md",
+  "status": "ready_for_clinician_review_with_warnings",
+  "warnings": [
+    "NB Medical KISS check blocked.",
+    "BSH/UKMS full paper PDF extraction limited; MGUS thresholds need local haematology confirmation.",
+    "MGUS monitoring interval needs local D&G agreement."
+  ],
+  "key_review_points": [
+    "Confirm MGUS monitoring interval.",
+    "Confirm urgent non-cancer haematology route for MGUS risk thresholds.",
+    "Decide whether to wait for NB Medical update before CMS publication."
+  ]
+}

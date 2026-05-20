@@ -1,0 +1,56 @@
+{
+  "topic": "Myeloma and MGUS",
+  "generated_at": "2026-05-20T09:25:00+01:00",
+  "conflicts": [
+    {
+      "question": "How often should MGUS be monitored in primary care?",
+      "source_positions": [
+        {
+          "evidence_refs": ["SRC4-E2"],
+          "position": "Repeat at around 6 months after diagnosis, then reduce frequency if stable; low-risk patients may move to long interval monitoring or no routine follow-up in selected older/frail patients."
+        },
+        {
+          "evidence_refs": ["SRC5-E2"],
+          "position": "Check every 3 to 4 months for the first year, then every 6 to 12 months if no symptoms develop."
+        }
+      ],
+      "resolution": "Use a conservative primary-care review approach: repeat at 3 to 6 months to confirm stability, then annually if stable unless local haematology approves longer intervals. Record that local D&G haematology should confirm whether low-risk patients can move to 2 to 3 yearly or symptom-triggered review.",
+      "publication_note": "Needs local agreement before upload."
+    },
+    {
+      "question": "Should raised paraprotein alone be a cancer referral?",
+      "source_positions": [
+        {
+          "evidence_refs": ["SRC1-E5"],
+          "position": "Raised paraprotein without CRAB or other USC features should not be referred as USC."
+        },
+        {
+          "evidence_refs": ["SRC4-E3"],
+          "position": "Certain paraprotein level/sFLC thresholds should trigger haematology assessment even without CRAB features."
+        }
+      ],
+      "resolution": "Separate urgency: do not use USOC for isolated paraprotein without CRAB, but refer by routine or urgent non-cancer haematology route when MGUS risk thresholds or changing results are present.",
+      "publication_note": "Local route name and urgency should be confirmed."
+    },
+    {
+      "question": "Can normal blood tests exclude myeloma?",
+      "source_positions": [
+        {
+          "evidence_refs": ["SRC1-E1", "SRC1-E2"],
+          "position": "Normal initial blood tests make myeloma unlikely in primary-care assessment."
+        },
+        {
+          "evidence_refs": ["SRC2-E3"],
+          "position": "No single serum or urine paraprotein/light-chain test alone should exclude myeloma."
+        }
+      ],
+      "resolution": "State that a normal combined initial assessment makes myeloma less likely, but persistent concerning symptoms need safety-netting, repeat testing, and specialist discussion/referral if clinical concern remains.",
+      "publication_note": "No blocker."
+    }
+  ],
+  "summary": [
+    "Main conflict is MGUS monitoring intensity.",
+    "Referral wording should distinguish USOC cancer referral from non-cancer haematology advice/referral.",
+    "Direct BSH full-paper extraction was limited, so threshold statements require editor/local haematology confirmation."
+  ]
+}
