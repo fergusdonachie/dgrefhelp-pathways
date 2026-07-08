@@ -1,0 +1,26 @@
+[
+  {
+    "heading": "Background",
+    "html": "<p>Ankle arthritis is usually post-traumatic (unlike hip/knee); hindfoot and midfoot arthritis are often degenerative or post-injury; hallux rigidus (first MTPJ arthritis) is the commonest arthritic condition of the foot. Surgical options — cheilectomy, fusion, joint replacement — are effective for the right patient, but conservative measures genuinely work and should be exhausted first.</p><div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Charcot foot masquerades as arthritis.</strong> A red, warm, swollen foot (± minimal pain) in a patient with diabetes or peripheral neuropathy is Charcot neuroarthropathy until excluded — same-day referral via the diabetes foot pathway, offload immediately. Do not wait for X-ray changes.</p></div>"
+  },
+  {
+    "heading": "Assessment",
+    "html": "<ul><li><strong>Localise the pain:</strong> first MTPJ (hallux rigidus), midfoot (arch collapse, dorsal exostoses), hindfoot/ankle (post-injury, stiffness on uneven ground).</li><li><strong>Function:</strong> walking distance, work demands, footwear tolerance.</li><li><strong>Examination:</strong> range of movement, deformity, tenderness, gait; check neurovascular status and skin.</li><li><strong>Imaging: weight-bearing X-rays</strong> of the affected region — non-weight-bearing films underestimate deformity and joint loss.</li><li><strong>Risk factors:</strong> diabetes (Charcot, healing risk), smoking (fusion non-union risk), inflammatory arthritis (consider rheumatology).</li></ul>"
+  },
+  {
+    "heading": "Primary care management",
+    "html": "<ul><li><strong>Footwear</strong> — the highest-yield intervention: stiff-soled or rocker-bottom shoes reduce painful joint movement; wide/deep toe box for hallux rigidus.</li><li><strong>Orthotics / insoles</strong> — via Single Access Point (030 3333 3001) triage to orthotist/podiatry.</li><li><strong>Activity modification</strong> and weight management.</li><li><strong>Analgesia:</strong> topical or oral NSAID (e.g. <a href=\"https://bnf.nice.org.uk/drugs/naproxen/\" target=\"_blank\">Naproxen</a>) as per usual cautions.</li><li><strong>Intra-articular corticosteroid injection</strong> (usually image-guided for foot/ankle joints) can give useful symptomatic relief and help localise the symptomatic joint.</li><li>Inflammatory features (multiple joints, prolonged morning stiffness, boggy swelling) → rheumatology, not orthopaedics.</li></ul>"
+  },
+  {
+    "heading": "Who to refer",
+    "html": "<div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Same day</strong></p><ul><li>Suspected Charcot foot — diabetes foot pathway, immediate offloading</li><li>Hot swollen joint with suspicion of infection — see hot swollen joint pathway</li></ul></div><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p><strong>Routine orthopaedic referral</strong> — all of:</p><ul><li>Arthritis confirmed on weight-bearing X-ray, correlating with the symptomatic site</li><li>Persistent significant pain or disability despite an adequate trial (typically ≥3–6 months) of footwear modification, orthotics and analgesia</li><li>Patient willing to consider surgical options (and accepts the trade-offs — e.g. fusion stiffness)</li></ul></div><p><strong>Include in referral:</strong> weight-bearing X-ray report, conservative measures tried and duration, diabetes/smoking status, functional impact, patient's view on surgery.</p>"
+  },
+  {
+    "heading": "Who not to refer",
+    "html": "<ul><li>Patients who have not tried footwear modification and orthotics — SAP/MSK first; many avoid surgery altogether.</li><li>Radiographic arthritis with manageable symptoms.</li><li>Patients unwilling to consider surgery — continue conservative care.</li><li>Suspected inflammatory arthritis — rheumatology.</li><li>Flexible flat foot and forefoot problems without arthritis — existing foot &amp; ankle pathways apply.</li></ul>"
+  },
+  {
+    "heading": "References",
+    "html": "<ul><li><a href=\"https://cks.nice.org.uk/topics/osteoarthritis/\" target=\"_blank\">NICE CKS: Osteoarthritis</a></li><li><a href=\"https://www.bofas.org.uk/\" target=\"_blank\">British Orthopaedic Foot &amp; Ankle Society (BOFAS) — patient and referrer information</a></li><li><a href=\"https://www.nice.org.uk/guidance/ng19\" target=\"_blank\">NICE NG19: Diabetic foot problems</a> (Charcot)</li></ul>"
+  }
+]

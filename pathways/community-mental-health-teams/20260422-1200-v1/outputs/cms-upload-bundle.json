@@ -1,0 +1,17 @@
+{
+  "topic": "Community Mental Health Teams (CMHTs) — NHS Dumfries & Galloway",
+  "page_type": "service_information",
+  "version": "v1",
+  "notes": "Service / referral information page (not a topic-based clinical pathway). Standard accordion headings (Primary care assessment / Primary care management) replaced with service-appropriate headings: Referral routes, Who to refer, Who not to refer, Contact details, Related pathways and references.",
+  "page_contents_html_path": "pathways/community-mental-health-teams/20260422-1200-v1/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/community-mental-health-teams/20260422-1200-v1/html/accordion-sections.json",
+  "section_heading_order": [
+    "Referral routes",
+    "Who to refer",
+    "Who not to refer",
+    "Contact details",
+    "Related pathways and references"
+  ],
+  "source_document": "DGRefHelp CMHT Info.docx (supplied by author)",
+  "ready_for_editor_review": true
+}

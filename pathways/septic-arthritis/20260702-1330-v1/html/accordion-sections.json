@@ -1,0 +1,26 @@
+[
+  {
+    "heading": "Background",
+    "html": "<p>An acute red, hot, swollen joint should be treated as <strong>septic arthritis until proven otherwise</strong>. Delayed treatment risks rapid joint destruction and significant mortality. The commonest alternative diagnoses are crystal arthropathy (gout / pseudogout) and a flare of osteoarthritis.</p><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p><strong>Prosthetic joints are different.</strong> Any suspicion of infection in a prosthetic joint is managed by orthopaedics from the outset — diagnosis and treatment decisions (including aspiration and antibiotics) are made in secondary care.</p></div>"
+  },
+  {
+    "heading": "Assessment",
+    "html": "<p>Two questions determine the pathway:</p><p><strong>1. Is there a prosthetic joint in situ, or a penetrating wound overlying the joint?</strong> If yes → same-day orthopaedic discussion (see Who to Refer). Do not investigate further in the community.</p><p><strong>2. In a native joint without a penetrating wound, are any red flags present?</strong></p><div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Red flags — same-day orthopaedic discussion</strong></p><ul><li>Extreme pain on joint movement</li><li>Systemically unwell (with or without temperature)</li><li>Pyrexia</li><li>Unable to weight bear</li></ul></div><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>Features supporting primary care management with early review</strong></p><ul><li>Good range of joint movement</li><li>Able to weight bear</li><li>No pyrexia</li><li>History of gout or osteoarthritis</li></ul></div>"
+  },
+  {
+    "heading": "Primary care management",
+    "html": "<p>Only for the patient with <strong>no red flags</strong>: good range of movement, weight bearing, apyrexial, with a history of gout or osteoarthritis.</p><ul><li><strong>Bloods:</strong> FBC, CRP, ESR</li><li><strong>Analgesia</strong> — consider NSAIDs if no contraindication</li><li><strong>Review in 24 hours</strong></li></ul><p><strong>At the 24-hour review:</strong></p><div style=\"background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>Worsening</strong></p><ul><li>Discuss with <strong>orthopaedics</strong> if the picture is infective</li><li>Discuss with <strong>rheumatology</strong> if the picture is inflammatory</li></ul></div><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p><strong>Improving</strong></p><ul><li>Continue management and review at <strong>4–6 weeks</strong></li></ul></div><p>If at any point red flags develop, move to same-day orthopaedic discussion.</p>"
+  },
+  {
+    "heading": "Who to refer",
+    "html": "<div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Same-day discussion with orthopaedics on call</strong></p><ul><li><strong>Prosthetic joint in situ</strong> with a red, hot, swollen joint</li><li><strong>Penetrating wound overlying the joint</strong> (wound washout is best performed in theatre)</li><li>Native joint with any red flag: extreme pain on movement, systemic upset (with or without temperature), pyrexia, unable to weight bear</li></ul><p><strong>Do not aspirate a prosthetic joint. Do not start antibiotics where there is a prosthetic joint</strong> — both compromise the definitive diagnosis and management in theatre.</p></div><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>After 24-hour review — if worsening</strong></p><ul><li>Discuss with <strong>orthopaedics</strong> if infective features predominate</li><li>Discuss with <strong>rheumatology</strong> if inflammatory features predominate</li></ul></div>"
+  },
+  {
+    "heading": "Who not to refer",
+    "html": "<p>Patients suitable for primary care management with early review rather than referral:</p><ul><li>Native joint, no penetrating wound, and <strong>no red flags</strong> — good range of movement, able to weight bear, apyrexial — particularly with a history of gout or osteoarthritis. Manage with bloods, analgesia and 24-hour review.</li><li>Patients <strong>improving at the 24-hour review</strong> — continue primary care management and review at 4–6 weeks.</li></ul><p>Keep the threshold for discussion low: if the presentation is not following the expected course of a crystal or osteoarthritis flare, discuss the same day.</p>"
+  },
+  {
+    "heading": "References",
+    "html": "<ul><li>Coakley G, et al. BSR &amp; BHPR, BOA, RCGP and BSAC guidelines for management of the hot swollen joint in adults. <em>Rheumatology</em> 2006;45(8):1039–41.</li><li><a href=\"https://cks.nice.org.uk/topics/gout/\" target=\"_blank\">NICE CKS: Gout</a></li><li>Content adapted from the NHS D&amp;G orthopaedics hot swollen joint flowchart (DGRefHelp).</li></ul>"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "topic": "bone and soft tissue lumps — suspected sarcoma referral",
+  "page_contents_html": "<p><strong>Bone and soft tissue lumps: assessment and suspected sarcoma referral</strong></p><p>Sarcomas are rare but the cost of a missed one is high. The rule of thumb: any soft tissue lump that is <strong>&gt;5 cm, deep to fascia, growing, painful or recurrent</strong> needs urgent ultrasound; unexplained non-mechanical bone pain needs an X-ray.</p><ul><li><strong>Suspicious soft tissue lump → urgent ultrasound</strong>; suspicious/uncertain scan → urgent suspicion-of-cancer referral to the sarcoma service.</li><li><strong>X-ray suggesting bone tumour → urgent discussion/referral</strong> — do not biopsy outside the specialist centre.</li><li>Small, superficial, soft, stable lumps (typical lipomata) and classic wrist ganglia can be managed in primary care.</li></ul><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>DRAFT for departmental review.</strong> Content based on national guidance (NICE / SIGN / BOA); local routes, thresholds and contact points to be confirmed with the orthopaedic department before publication.</p></div>",
+  "accordion_sections": [
+    {
+      "heading": "Background",
+      "html": "<p>Soft tissue sarcomas (~3,300/year UK) and bone sarcomas (~600/year) are rare, and most lumps GPs see are benign (lipomata, ganglia, sebaceous cysts). Outcomes depend on size at diagnosis, and inadvertent excision or biopsy outside a sarcoma centre worsens prognosis — the aim in primary care is recognition and routing, not removal.</p><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p>Bone sarcomas peak in adolescents and young adults — persistent unexplained bone pain in a teenager deserves an X-ray, and a normal X-ray does not fully exclude it if pain persists.</p></div>"
+    },
+    {
+      "heading": "Assessment",
+      "html": "<p><strong>Soft tissue lump — features raising suspicion:</strong></p><ul><li>Size <strong>&gt;5 cm</strong> (golf ball)</li><li><strong>Deep to fascia</strong> / fixed</li><li><strong>Increasing in size</strong> (the single most important feature)</li><li>Painful</li><li>Recurrence after previous excision</li></ul><p><strong>Bone — features raising suspicion:</strong> non-mechanical or night bone pain, persistent unexplained pain (especially adolescents/young adults), swelling or palpable bony mass, pathological fracture.</p>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<ul><li><strong>Any suspicious soft tissue lump → urgent ultrasound</strong> (request as urgent, noting ?sarcoma).</li><li><strong>Unexplained bone pain → X-ray.</strong> If X-ray is abnormal or pain persists despite a normal film, escalate — do not simply reassure on a single normal X-ray.</li><li><strong>Do not excise or biopsy suspicious lumps in primary care</strong> (including 'lipomata' &gt;5 cm or deep) — unplanned excision compromises definitive treatment.</li><li>Clinically obvious benign lesions (small, superficial, soft, mobile, stable): safety-net with instructions to return if growing, painful or changing.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Urgent suspicion of cancer (sarcoma pathway)</strong></p><ul><li>Ultrasound suspicious of sarcoma, or uncertain and clinical concern persists</li><li>Soft tissue lump &gt;5 cm, deep, growing, painful or recurrent — refer in parallel with imaging if concern is high</li><li>X-ray suggesting possible bone sarcoma (destruction, periosteal reaction, soft tissue extension) — urgent referral/discussion; biopsy only at the specialist centre</li><li>Pathological fracture</li></ul></div><p><strong>Include in referral:</strong> duration and growth rate, size and depth, pain, previous excisions with histology, imaging reports, relevant history (radiotherapy, neurofibromatosis, retinoblastoma).</p>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<ul><li>Small (&lt;5 cm), superficial, soft, mobile, stable, painless lumps with benign characteristics — safety-net and review.</li><li>Classic wrist/hand ganglia — see the hand ganglion pathway.</li><li>Clinically typical sebaceous cysts and skin lesions — dermatology/minor surgery routes as appropriate.</li><li>Longstanding (&gt;1 year), completely stable, asymptomatic lumps with benign imaging.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ul><li><a href=\"https://www.cancerreferral.scot.nhs.uk/\" target=\"_blank\">Scottish Referral Guidelines for Suspected Cancer — bone and soft tissue sarcoma</a></li><li><a href=\"https://www.nice.org.uk/guidance/ng12\" target=\"_blank\">NICE NG12: Suspected cancer recognition and referral</a></li><li><a href=\"https://sarcoma.org.uk/\" target=\"_blank\">Sarcoma UK</a></li></ul>"
+    }
+  ],
+  "artifact_paths": {
+    "page_contents_html": "pathways/bone-and-soft-tissue-lumps/20260702-1400-v1/html/page-contents.html",
+    "accordion_sections_json": "pathways/bone-and-soft-tissue-lumps/20260702-1400-v1/html/accordion-sections.json",
+    "cms_upload_bundle_json": "pathways/bone-and-soft-tissue-lumps/20260702-1400-v1/outputs/cms-upload-bundle.json"
+  }
+}

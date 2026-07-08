@@ -1,0 +1,35 @@
+{
+  "topic": "elbow pain in adults (tennis/golfer's elbow, olecranon bursitis, cubital tunnel)",
+  "page_contents_html": "<p><strong>Elbow pain in adults: assessment, management and referral</strong></p><p>Most elbow pain is self-limiting tendinopathy managed in primary care. The key decisions are spotting the hot elbow that needs same-day discussion, and the ulnar nerve lesion that needs timely referral.</p><ul><li><strong>Lateral/medial epicondylitis:</strong> self-limiting in most within 12 months — education, load modification, exercise. <strong>Avoid corticosteroid injection</strong> — worse long-term outcomes.</li><li><strong>Olecranon bursitis:</strong> usually conservative; hot/red with fever → same-day discussion.</li><li><strong>Cubital tunnel:</strong> night splinting/positioning first; motor weakness or wasting → refer with nerve conduction studies.</li></ul><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>DRAFT for departmental review.</strong> Content based on national guidance (NICE / SIGN / BOA); local routes, thresholds and contact points to be confirmed with the orthopaedic department before publication.</p></div>",
+  "accordion_sections": [
+    {
+      "heading": "Background",
+      "html": "<p>The common presentations are lateral epicondylitis (tennis elbow), medial epicondylitis (golfer's elbow), olecranon bursitis and cubital tunnel syndrome (ulnar nerve compression at the elbow). Around 90% of epicondylitis settles within a year with conservative management. True elbow joint arthritis is uncommon and usually post-traumatic or inflammatory.</p>"
+    },
+    {
+      "heading": "Assessment",
+      "html": "<ul><li><strong>Lateral epicondylitis:</strong> pain over lateral epicondyle, worse on resisted wrist/finger extension and gripping.</li><li><strong>Medial epicondylitis:</strong> pain over medial epicondyle, worse on resisted wrist flexion/pronation.</li><li><strong>Olecranon bursitis:</strong> fluctuant swelling over the olecranon; joint movement typically preserved (unlike septic arthritis).</li><li><strong>Cubital tunnel:</strong> tingling/numbness of ring and little fingers, worse with prolonged elbow flexion (phone use, sleeping); check for weakness of grip/pinch and first dorsal interosseous or hypothenar wasting.</li><li><strong>Locking or true mechanical block</strong> suggests loose bodies or joint pathology — examine for fixed flexion and X-ray.</li></ul><div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Red flags — same-day discussion</strong></p><ul><li>Hot, red elbow or bursa with fever or systemic upset (septic bursitis / septic arthritis — see hot swollen joint pathway)</li><li>Significant trauma with deformity or inability to move the elbow</li><li>Rapidly progressive neurological deficit</li></ul></div>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<p><strong>Epicondylitis (lateral and medial):</strong></p><ul><li>Explain the natural history — most settle within 12 months; this alone reduces re-attendance.</li><li>Modify load (grip size, lifting technique, workstation); relative rest, not immobilisation.</li><li>Progressive loading exercises — self-directed (NHS Inform) or physiotherapy via Single Access Point (030 3333 3001).</li><li>Analgesia: topical NSAID (e.g. <a href=\"https://bnf.nice.org.uk/drugs/ibuprofen/\" target=\"_blank\">topical Ibuprofen</a>) or short course of oral NSAID.</li><li>Counterforce brace/strap may help symptoms during activity.</li><li><strong>Avoid corticosteroid injection</strong> — short-term relief but worse outcomes at 6–12 months and higher recurrence.</li></ul><p><strong>Olecranon bursitis (non-septic):</strong> avoid pressure/leaning, NSAIDs, compression; aspiration only if diagnostic doubt — recurrence after aspiration is common. Do not inject steroid routinely (infection and skin atrophy risk).</p><p><strong>Cubital tunnel:</strong> avoid prolonged/repetitive elbow flexion and direct pressure; night extension positioning (towel splint); review at 6–12 weeks.</p>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\"><p><strong>Same day</strong></p><ul><li>Suspected septic bursitis or septic arthritis (hot, red, fever) — discuss with orthopaedics on call</li><li>Acute trauma with suspected fracture/dislocation — ED</li></ul></div><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>Urgent (SCI Gateway)</strong></p><ul><li>Cubital tunnel with <strong>motor weakness or muscle wasting</strong> — refer with nerve conduction studies requested; delay risks permanent deficit</li></ul></div><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p><strong>Routine</strong></p><ul><li>Epicondylitis with significant symptoms despite 6–12 months of conservative management including a completed loading programme</li><li>Cubital tunnel with persistent sensory symptoms despite 3 months of conservative management</li><li>Mechanical locking / loose bodies on X-ray</li><li>Recurrent troublesome bursitis</li></ul></div><p><strong>Include in referral:</strong> duration, conservative measures tried (and for how long), occupational demands, neurological findings, and X-ray/NCS results where done.</p>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<ul><li>Epicondylitis of less than 6 months' duration without a completed conservative programme — most will settle.</li><li>Simple non-septic olecranon bursitis — manage conservatively.</li><li>Cubital tunnel with intermittent positional symptoms only, improving with positioning advice.</li><li>Asymptomatic radiographic changes.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ul><li><a href=\"https://cks.nice.org.uk/topics/tennis-elbow/\" target=\"_blank\">NICE CKS: Tennis elbow</a></li><li><a href=\"https://cks.nice.org.uk/topics/olecranon-bursitis/\" target=\"_blank\">NICE CKS: Olecranon bursitis</a></li><li>Coombes BK et al. Effect of corticosteroid injection vs physiotherapy in lateral epicondylalgia. <em>JAMA</em> 2013;309(5):461–9.</li></ul>"
+    }
+  ],
+  "artifact_paths": {
+    "page_contents_html": "pathways/elbow-pain/20260702-1400-v1/html/page-contents.html",
+    "accordion_sections_json": "pathways/elbow-pain/20260702-1400-v1/html/accordion-sections.json",
+    "cms_upload_bundle_json": "pathways/elbow-pain/20260702-1400-v1/outputs/cms-upload-bundle.json"
+  }
+}
