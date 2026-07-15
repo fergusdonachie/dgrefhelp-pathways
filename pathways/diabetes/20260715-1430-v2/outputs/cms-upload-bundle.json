@@ -1,0 +1,37 @@
+{
+  "topic": "Diabetes",
+  "page_type": "service_information",
+  "version": "v2",
+  "notes": "Draft diabetes landing page assembled from supplied email, Diabetes Referral Guidelines.docx, Weight Management in Diabetes.docx, local Clinical Handbook steroid hyperglycaemia content, and JBDS 08 steroid hyperglycaemia guidance. Patient Initiated Follow Up / Annual Screening, Type 2 Diabetes (Adults), and Diabetic Foot need final source content before publication. v2 adds a Type 2 Diabetes Remission Programme (Counterweight) quick reference section built from the Counterweight NHS Scotland referrer toolkit (2026 documents), placed after Weight Management in Diabetes.",
+  "page_contents_html_path": "pathways/diabetes/20260715-1430-v2/html/page-contents.html",
+  "accordion_sections_json_path": "pathways/diabetes/20260715-1430-v2/html/accordion-sections.json",
+  "section_heading_order": [
+    "Diabetes Referral Guidelines",
+    "Patient Initiated Follow Up and Annual Screening",
+    "Type 2 Diabetes (Adults)",
+    "Diabetic Foot",
+    "Weight Management in Diabetes",
+    "Type 2 Diabetes Remission Programme (Counterweight)",
+    "Steroid Induced Hyperglycaemia",
+    "Let's Prevent"
+  ],
+  "source_documents": [
+    "Email from Gavin",
+    "Diabetes Referral Guidelines.docx",
+    "Weight Management in Diabetes.docx",
+    "NHS D&G Clinical Handbook: Hyperglycaemia & Steroids",
+    "JBDS 08 Management of Hyperglycaemia and Steroid Therapy, January 2023",
+    "Steroid-induced hyperglycaemia in primary care, 2015",
+    "DGRefHelp Type 2 Diabetes weight management programmes",
+    "DESMOND Dumfries and Galloway",
+    "Diabetes UK Type 2 Diabetes remission support",
+    "ANIA National Digital Type 2 Diabetes Remission Programme",
+    "Counterweight NHS Scotland referrer toolkit (referral criteria, medical management guidelines 2026, how to refer)"
+  ],
+  "ready_for_editor_review": true,
+  "publication_gaps": [
+    "Patient Initiated Follow Up and Annual Screening proposed Word document was not available in supplied files.",
+    "Detailed Type 2 Diabetes (Adults) content was not available in supplied files.",
+    "Diabetic Foot content is awaiting update from Dr Louise Overend."
+  ]
+}

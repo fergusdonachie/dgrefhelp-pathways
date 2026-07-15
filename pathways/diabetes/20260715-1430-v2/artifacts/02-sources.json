@@ -1,0 +1,97 @@
+{
+  "sources": [
+    {
+      "title": "Email from Gavin",
+      "type": "author_email",
+      "notes": "Provided requested diabetes landing page order and pending section list."
+    },
+    {
+      "title": "Diabetes Referral Guidelines.docx",
+      "type": "supplied_document",
+      "path": "/Users/fergusdonachie/Downloads/Diabetes Referral Guidelines.docx"
+    },
+    {
+      "title": "Weight Management in Diabetes.docx",
+      "type": "supplied_document",
+      "path": "/Users/fergusdonachie/Downloads/Weight Management in Diabetes.docx",
+      "notes": "Supplied document pointed to Lothian RefHelp diabetes remission and pre-diabetes pages; used as the prompt to build a local D&G section."
+    },
+    {
+      "title": "Hyperglycaemia & Steroids",
+      "type": "clinical_handbook_article",
+      "notes": "Home | Articles | Diabetes and Endocrinology | Hyperglycaemia & Steroids. Last updated 5 October 2020. Page created 22 October 2019 by Fiona Green. Due for review 22 October 2020."
+    },
+    {
+      "title": "JBDS 08 Management of Hyperglycaemia and Steroid (Glucocorticoid) Therapy",
+      "type": "supplied_pdf",
+      "path": "/Users/fergusdonachie/Downloads/JBDS_08_Management_of_Hyperglycaemia_and_Steroid_(Glucocorticoid)_Therapy_with_QR_code_January_2023.pdf",
+      "notes": "Used for outpatient/community monitoring principles and tapering safety; primarily an inpatient guideline."
+    },
+    {
+      "title": "Steroid-induced hyperglycaemia in primary care",
+      "type": "primary_care_review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4606815/",
+      "notes": "Used to support a risk-based primary care monitoring approach for people without known diabetes."
+    },
+    {
+      "title": "Type 2 diabetes weight management programmes",
+      "type": "dgrefhelp_page",
+      "url": "https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/diabetes/type-2-diabetes-adults/type-2-diabetes-weight-management-programmes/",
+      "notes": "Used for local D&G weight management options, eligibility and format."
+    },
+    {
+      "title": "Management for the first 12 months",
+      "type": "dgrefhelp_page",
+      "url": "https://rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/diabetes/type-2-diabetes-adults/management-for-the-first-12-months/",
+      "notes": "Used for DESMOND / weight management referral timing in first-year Type 2 Diabetes management."
+    },
+    {
+      "title": "Dumfries and Galloway DESMOND centre information",
+      "type": "programme_page",
+      "url": "https://www.desmond.nhs.uk/centre-posts/dumfries-and-galloway",
+      "notes": "Used for local DESMOND, MyDESMOND and Let's Prevent availability."
+    },
+    {
+      "title": "Support for type 2 diabetes remission",
+      "type": "diabetes_uk_page",
+      "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/remission/support-for-type-2-diabetes-remission",
+      "notes": "Used for remission programme framing and common Scotland eligibility criteria."
+    },
+    {
+      "title": "National Digital Type 2 Diabetes Remission Programme",
+      "type": "ania_page",
+      "url": "https://www.nhscfsd.co.uk/our-work/innovation/accelerated-national-innovation-adoption-ania-pathway/what-we-are-doing/innovations-approved-for-adoption/national-digital-type-2-diabetes-remission/implementing-the-national-digital-type-2-diabetes-remission-programme/",
+      "notes": "Used for ANIA national implementation and Primary Care referral route."
+    },
+    {
+      "title": "National Digital Type 2 Diabetes Remission Data Protection Privacy Notice",
+      "type": "ania_page",
+      "url": "https://www.nhscfsd.co.uk/our-work/innovation/accelerated-national-innovation-adoption-ania-pathway/what-we-are-doing/innovations-approved-for-adoption/national-digital-type-2-diabetes-remission/national-digital-type-2-diabetes-remission-data-protection-privacy-notice/",
+      "notes": "Used for Counterweight provider and programme scale/remission expectation."
+    },
+    {
+      "title": "Counterweight NHS Scotland referrers page — National Digital Type 2 Diabetes Remission Programme",
+      "type": "provider_page",
+      "url": "https://www.counterweight.org/pages/nhs-scotland-referrers-type-2-diabetes-programme",
+      "notes": "Referrer toolkit landing page: programme structure, phases, support and equipment."
+    },
+    {
+      "title": "NDDP Referral Criteria (Scotland)",
+      "type": "provider_pdf",
+      "url": "https://cdn.shopify.com/s/files/1/0025/9742/1105/files/Scotland_NDDP_Referral_Criteria.pdf",
+      "notes": "Full inclusion and exclusion criteria used for the remission programme quick reference section."
+    },
+    {
+      "title": "Counterweight NHS Scotland Medical Management Guidelines 2026",
+      "type": "provider_pdf",
+      "url": "https://cdn.shopify.com/s/files/1/0025/9742/1105/files/NHS_Scotland_NDDP_Counterweight_Type_2_Diabetes_Remission_Medical_Management_Guidelines_2026.pdf",
+      "notes": "Day-1 TDR medication changes for glucose-lowering and antihypertensive drugs, and in-programme monitoring thresholds."
+    },
+    {
+      "title": "Counterweight How to Make a Referral (SCI Gateway)",
+      "type": "provider_pdf",
+      "url": "https://cdn.shopify.com/s/files/1/0025/9742/1105/files/NHS_Scotland_Counterweight_How_to_make_a_referral.pdf",
+      "notes": "SCI Gateway route and mandatory referral fields. Menu labels to be sanity-checked against live SCI Gateway."
+    }
+  ]
+}
