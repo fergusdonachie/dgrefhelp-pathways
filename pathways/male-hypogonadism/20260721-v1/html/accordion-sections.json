@@ -1,10 +1,6 @@
 [
   {
-    "heading": "Background",
-    "html": "<p>Male hypogonadism requires <strong>both</strong> symptoms <strong>and</strong> biochemical testosterone deficiency; neither alone is sufficient to diagnose it or to refer. Typical symptoms are reduced libido, erectile dysfunction, and loss of spontaneous or early-morning erections. Some men instead present with a low-impact (osteoporotic) fracture or an unexplained normocytic anaemia.</p><p>Testosterone <strong>&lt;7 nmol/L</strong> more often reflects a secondary (gonadal or pituitary) cause; <strong>7–11 nmol/L</strong> more often reflects non-gonadal illness or late-onset hypogonadism associated with increasing age and obesity.</p>"
-  },
-  {
-    "heading": "Investigation",
+    "heading": "Assessment",
     "html": "<p><strong>Do not test during an acute, reversible illness or when symptoms are vague</strong> — testosterone falls transiently and the result will mislead. Test when the patient is well.</p><p><strong>First test — total testosterone.</strong> Brown tube, taken 0800–0900h; reference range 10–30 nmol/L. Interpret against three bands:</p><div style=\"background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>&lt;7 nmol/L — androgen deficiency likely</strong></p></div><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>7–11 nmol/L — equivocal</strong></p></div><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p><strong>&gt;11 nmol/L — androgen deficiency unlikely.</strong> Referral not indicated; consider another cause for the symptoms.</p></div><p>For a result <strong>&lt;7 or 7–11 nmol/L</strong> with no co-existing illness, repeat in 4 weeks — fasted, 0800–0900h — with bioavailable testosterone, LH/FSH, prolactin, TSH and ferritin. The confirmatory panel is the same for both bands; only the subsequent action differs (see <strong>Who to refer</strong>).</p>"
   },
   {
