@@ -33,8 +33,9 @@ A child or young person can be referred up to their 18th birthday when all of th
 
 ## Referral routes
 
-- **Family self-referral:** [NDAS Microsoft Form](https://forms.cloud.microsoft/e/b2C5h4X86M)
-- **Professional referral:** letter or Request for Assistance (RFA) form. NDAS then provides access to the screening forms to the family.
+- **Route:** direct the family to complete the [NDAS Microsoft Form](https://forms.cloud.microsoft/e/b2C5h4X86M).
+- A separate professional referral is not required.
+- Referrals sent by letter or SCI Gateway are accepted, but there is no advantage to these routes: NDAS will direct the family to complete the same Microsoft Form.
 
 ## What happens next
 
@@ -43,11 +44,8 @@ NDAS aims to review the screening information and share a decision with the fami
 - If diagnostic assessment is recommended, an acknowledgement letter is sent and the child or young person is added to the waiting list.
 - If diagnostic assessment is not recommended, a letter explains the decision and recommends other services that may be more appropriate.
 
-## Editor action
-
-The supplied update does not state where a professional should send a letter or RFA form. Confirm and add the destination before publication. Do not infer an email, postal address or SCI Gateway route.
-
 ## Sources
 
 1. *NDAS Referral Update June 26*. NHS Dumfries & Galloway; Joanne Service; 29 June 2026. Supplied PDF.
 2. [NHS Dumfries & Galloway - Paediatrics & Child Health](https://www.nhsdg.co.uk/work-with-us-portal-divisions-women-children-sexual-health/) - corroborates the local service age range.
+3. Referral-route clarification from DGRefHelp clinical editor, 29 July 2026.

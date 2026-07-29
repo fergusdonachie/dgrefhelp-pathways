@@ -13,6 +13,12 @@
       "type": "official_service_page",
       "url": "https://www.nhsdg.co.uk/work-with-us-portal-divisions-women-children-sexual-health/",
       "notes": "Corroborates that the local neurodevelopmental assessment and diagnostic service works with children up to age 18."
+    },
+    {
+      "title": "Referral route clarification from DGRefHelp clinical editor",
+      "type": "local_service_clarification",
+      "date": "29 July 2026",
+      "notes": "Families should be directed to the NDAS Microsoft Form. Referrals sent by letter or SCI Gateway are accepted but offer no alternative pathway because the family is directed to the same form."
     }
   ]
 }

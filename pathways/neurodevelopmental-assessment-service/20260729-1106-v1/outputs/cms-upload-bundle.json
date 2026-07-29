@@ -2,7 +2,7 @@
   "topic": "Neurodevelopmental Assessment Service (NDAS) - NHS Dumfries & Galloway",
   "page_type": "service_information",
   "version": "v1",
-  "notes": "Service and referral information page based primarily on the supplied NDAS Referral Update. Standard DGRefHelp headings retained where relevant, with service-specific How to refer and What happens next sections.",
+  "notes": "Service and referral information page based on the supplied NDAS Referral Update and subsequent referral-route clarification from the DGRefHelp clinical editor. Standard DGRefHelp headings retained where relevant, with service-specific How to refer and What happens next sections.",
   "page_contents_html_path": "pathways/neurodevelopmental-assessment-service/20260729-1106-v1/html/page-contents.html",
   "accordion_sections_json_path": "pathways/neurodevelopmental-assessment-service/20260729-1106-v1/html/accordion-sections.json",
   "section_heading_order": [
@@ -15,9 +15,6 @@
     "What happens next",
     "References"
   ],
-  "source_document": "NDAS Referral Update June 26.pdf (supplied by author)",
-  "editor_actions": [
-    "Confirm the destination and method for professional letter/RFA referrals before publication."
-  ],
+  "source_document": "NDAS Referral Update June 26.pdf (supplied by author), with referral-route clarification from DGRefHelp clinical editor",
   "ready_for_editor_review": true
 }
