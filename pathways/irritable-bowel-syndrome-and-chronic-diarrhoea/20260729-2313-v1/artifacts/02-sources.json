@@ -1,0 +1,50 @@
+{
+  "topic": "Irritable bowel syndrome and chronic diarrhoea",
+  "version": "20260729-2313-v1",
+  "derived_from_drafts": [
+    "pathways/irritable-bowel-syndrome/20260729-1756-v2",
+    "pathways/chronic-diarrhoea-investigation/20260729-1756-v1"
+  ],
+  "selected_sources": [
+    {
+      "title": "CfSD/MPPP Irritable bowel syndrome pathway",
+      "publisher": "NHS Scotland Right Decisions",
+      "url": "https://www.rightdecisions.scot.nhs.uk/gastroenterology-pathways/irritable-bowel-syndrome-ibs/",
+      "date": "January 2025",
+      "use": "National diagnostic flow, staged care and selective faecal calprotectin use"
+    },
+    {
+      "title": "Chronic diarrhoea investigation",
+      "publisher": "DGRefHelp, NHS Dumfries & Galloway",
+      "url": "https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/gastroenterology/chronic-diarrhoea-investigation/",
+      "use": "Existing local assessment, investigations and referral context"
+    },
+    {
+      "title": "Irritable bowel syndrome in adults: diagnosis and management (CG61)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations",
+      "use": "Positive diagnosis and primary-care management"
+    },
+    {
+      "title": "Faecal calprotectin diagnostic tests for inflammatory diseases of the bowel (HTG320)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/htg320/chapter/recommendations",
+      "use": "Selective IBD-versus-IBS testing when cancer is not suspected"
+    },
+    {
+      "title": "BSG guidelines on IBS and chronic diarrhoea",
+      "publisher": "BSG / Gut",
+      "urls": [
+        "https://gut.bmj.com/content/70/7/1214",
+        "https://gut.bmj.com/content/67/8/1380"
+      ],
+      "use": "IBS diagnosis, selective calprotectin use and specialist chronic diarrhoea assessment"
+    },
+    {
+      "title": "Local gastroenterology request",
+      "publisher": "NHS Dumfries & Galloway gastroenterology/microbiology",
+      "date": "29 July 2026",
+      "use": "HIV testing in primary care and reduction of inappropriate faecal calprotectin requests"
+    }
+  ]
+}
