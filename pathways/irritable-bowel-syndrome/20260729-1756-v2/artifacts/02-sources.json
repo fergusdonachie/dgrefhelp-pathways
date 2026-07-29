@@ -1,0 +1,44 @@
+{
+  "topic": "Irritable bowel syndrome",
+  "version": "20260729-1756-v2",
+  "selected_sources": [
+    {
+      "title": "CfSD/MPPP Irritable bowel syndrome pathway",
+      "publisher": "NHS Scotland Right Decisions",
+      "url": "https://www.rightdecisions.scot.nhs.uk/gastroenterology-pathways/irritable-bowel-syndrome-ibs/",
+      "date": "January 2025",
+      "use": "National diagnostic flow, red flags, staged care and selective faecal calprotectin use"
+    },
+    {
+      "title": "Irritable bowel syndrome in adults: diagnosis and management (CG61)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations",
+      "use": "Primary care diagnosis, lifestyle, diet, medicines and psychological therapy"
+    },
+    {
+      "title": "British Society of Gastroenterology guidelines on the management of irritable bowel syndrome",
+      "publisher": "BSG / Gut",
+      "url": "https://gut.bmj.com/content/70/7/1214",
+      "date": "2021",
+      "use": "Positive diagnosis and selective faecal calprotectin in patients under 45 with diarrhoea"
+    },
+    {
+      "title": "Faecal calprotectin diagnostic tests for inflammatory diseases of the bowel (HTG320)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/htg320/chapter/recommendations",
+      "use": "Calprotectin as a differential test when IBD versus IBS is being considered and cancer is not suspected"
+    },
+    {
+      "title": "Suspected cancer: recognition and referral (NG12)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng12",
+      "use": "qFIT and ovarian cancer considerations"
+    },
+    {
+      "title": "Local gastroenterology request",
+      "publisher": "NHS Dumfries & Galloway gastroenterology/microbiology",
+      "date": "29 July 2026",
+      "use": "Reduce inappropriate primary-care faecal calprotectin requesting"
+    }
+  ]
+}

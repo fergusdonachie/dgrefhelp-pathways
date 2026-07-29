@@ -1,0 +1,38 @@
+{
+  "topic": "Chronic diarrhoea investigation",
+  "topic_slug": "chronic-diarrhoea-investigation",
+  "run_id": "20260729-1756-v1",
+  "page_contents_html": "<h2>Chronic diarrhoea investigation</h2>\n<p>Assess persistent loose stool systematically in primary care, looking for cancer, inflammation, infection, medication effects and malabsorption before referral.</p>\n<div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\">\n<h2>Local update: include HIV serology in the initial GP blood panel</h2>\n<p>HIV testing should be completed in primary care alongside the other first-line blood tests rather than deferred to secondary assessment. Discuss the test and obtain consent in the usual way.</p>\n</div>\n<p>Use faecal calprotectin selectively after qFIT when inflammatory bowel disease remains a realistic differential; it is not a screening test for every patient with diarrhoea.</p>",
+  "accordion_sections": [
+    {
+      "heading": "Primary care assessment",
+      "html": "<h3>History and examination</h3>\n<ul>\n<li>Duration, stool frequency and form, nocturnal symptoms, urgency, incontinence, blood or mucus</li>\n<li>Weight loss, fever, abdominal pain, recent antibiotics, travel and infection exposure</li>\n<li>Family history of colorectal cancer, inflammatory bowel disease or coeliac disease</li>\n<li>Diet, alcohol, previous bowel or gallbladder surgery, pancreatitis and radiotherapy</li>\n<li>Review medicines that can cause diarrhoea, including laxatives, metformin, PPIs, NSAIDs, SSRIs and magnesium-containing products</li>\n</ul>\n<p>Examine for dehydration, weight loss, anaemia, abdominal mass, perianal disease and faecal impaction/overflow. Perform rectal examination where clinically indicated.</p>\n\n<h3>Initial GP investigations</h3>\n<p><strong>Blood tests:</strong></p>\n<ul>\n<li>FBC</li>\n<li>CRP</li>\n<li>TFT</li>\n<li>Coeliac serology: tissue transglutaminase antibody with total IgA</li>\n<li><strong>HIV serology</strong></li>\n</ul>\n<p><strong>Stool tests:</strong></p>\n<ul>\n<li>qFIT in line with the current lower gastrointestinal symptoms pathway</li>\n<li>Stool culture and other infection testing when clinically indicated</li>\n<li>Ova, cysts and parasites when exposure or travel history makes this relevant</li>\n<li>Faecal calprotectin only when qFIT is negative, symptoms persist and inflammatory bowel disease remains a realistic differential</li>\n</ul>\n<p>If coeliac serology is positive, refer for gastroenterology assessment and confirmation. Advise the patient to continue eating gluten until assessment is complete.</p>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<ul>\n<li>Treat dehydration and correct clinically important nutritional or electrolyte disturbance.</li>\n<li>Stop or adjust a possible causative medicine where safe, then review the response.</li>\n<li>Treat an identified infective or other cause according to the relevant pathway.</li>\n<li>Use the colorectal pathway when cancer is suspected and the gastroenterology pathway when inflammatory bowel disease is suspected.</li>\n<li>When assessment is satisfactory and symptoms fit IBS-D, provide IBS management and consider dietetic input rather than routinely requesting further tests.</li>\n</ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<div style=\"background-color: #fbe9e6; padding: 0px 10px; border: 3px solid #d9291c;\">\n<h2>Urgent assessment</h2>\n<p>Use the current suspected-cancer or acute pathway for rectal bleeding, unexplained iron-deficiency anaemia, abdominal or rectal mass, significant unintentional weight loss, a concerning qFIT result, severe dehydration or acute systemic illness.</p>\n</div>\n<h3>Refer to gastroenterology</h3>\n<ul>\n<li>Suspected inflammatory bowel disease</li>\n<li>Positive coeliac serology</li>\n<li>Persistent chronic diarrhoea with diagnostic uncertainty after the initial assessment</li>\n<li>Evidence of malabsorption, pancreatic disease or another condition requiring specialist investigation</li>\n<li>A clearly raised faecal calprotectin, or a persistently borderline result with compatible symptoms, using current local laboratory guidance</li>\n</ul>\n<p>Include symptom duration and pattern, weight trend, medication review, relevant examination, qFIT, faecal calprotectin if indicated, stool microbiology and all blood results including HIV serology.</p>\n\n<h3>Consider dietetics</h3>\n<p>For patients aged under 40 with satisfactory assessment and IBS-D symptoms, consider gastroenterology dietetic input in line with the current local pathway.</p>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<p>Specialist medical referral is usually unnecessary when:</p>\n<ul>\n<li>A reversible medicine or dietary cause has been identified and symptoms settle after intervention</li>\n<li>Symptoms meet IBS-D criteria, there are no alarm features, initial investigations are satisfactory and symptoms can be managed in primary care or with dietetic support</li>\n<li>There is a short-lived infective illness that is resolving and does not require specialist care</li>\n</ul>\n<p>Do not request faecal calprotectin repeatedly without a clinical question or use it in place of qFIT when colorectal cancer is a concern.</p>"
+    },
+    {
+      "heading": "Further investigation usually arranged or directed by secondary care",
+      "html": "<ul>\n<li><strong>Malabsorption:</strong> iron, B12, folate, calcium, albumin and faecal elastase as indicated</li>\n<li><strong>Immunodeficiency:</strong> immunoglobulins; confirm that primary-care HIV testing has been completed</li>\n<li><strong>Microscopic colitis:</strong> colonoscopy with biopsies</li>\n<li><strong>Inflammatory bowel disease:</strong> endoscopic assessment guided by symptoms and faecal calprotectin</li>\n<li><strong>Pancreatic exocrine insufficiency:</strong> faecal elastase and pancreatic imaging when indicated</li>\n<li><strong>Bile acid diarrhoea:</strong> specialist testing or treatment according to local practice</li>\n<li><strong>Lactose intolerance or small intestinal bacterial overgrowth:</strong> breath testing or specialist-directed treatment where appropriate</li>\n</ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ul>\n<li><a href=\"https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/gastroenterology/chronic-diarrhoea-investigation/\" target=\"_blank\">DGRefHelp: Chronic diarrhoea investigation</a></li>\n<li><a href=\"https://www.rightdecisions.scot.nhs.uk/gastroenterology-pathways/irritable-bowel-syndrome-ibs/\" target=\"_blank\">NHS Scotland CfSD/MPPP: Irritable bowel syndrome pathway (January 2025)</a></li>\n<li><a href=\"https://gut.bmj.com/content/67/8/1380\" target=\"_blank\">British Society of Gastroenterology guideline for the investigation of chronic diarrhoea in adults, third edition</a></li>\n<li><a href=\"https://www.nice.org.uk/guidance/htg320/chapter/recommendations\" target=\"_blank\">NICE HTG320: Faecal calprotectin diagnostic tests</a></li>\n</ul>"
+    }
+  ],
+  "notes_for_editor": [
+    "Local-request update: HIV serology has been moved into the initial primary-care blood panel; secondary care should confirm it has already been completed.",
+    "Faecal calprotectin is framed as a selective IBD-versus-IBS test after qFIT, not a routine screen for every patient with diarrhoea.",
+    "Confirm current D&G laboratory faecal calprotectin thresholds, local stool microbiology requesting details and exact referral routes before publication.",
+    "Medication examples are prompts for clinical review rather than an exhaustive list."
+  ]
+}

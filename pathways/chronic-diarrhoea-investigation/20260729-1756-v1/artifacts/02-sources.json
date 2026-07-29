@@ -1,0 +1,38 @@
+{
+  "topic": "Chronic diarrhoea investigation",
+  "version": "20260729-1756-v1",
+  "selected_sources": [
+    {
+      "title": "Chronic diarrhoea investigation",
+      "publisher": "DGRefHelp, NHS Dumfries & Galloway",
+      "url": "https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/gastroenterology/chronic-diarrhoea-investigation/",
+      "use": "Existing local primary and secondary assessment, investigations and referral context"
+    },
+    {
+      "title": "Local gastroenterology request",
+      "publisher": "NHS Dumfries & Galloway gastroenterology",
+      "date": "29 July 2026",
+      "use": "Add HIV serology to blood tests completed by GPs"
+    },
+    {
+      "title": "CfSD/MPPP Irritable bowel syndrome pathway",
+      "publisher": "NHS Scotland Right Decisions",
+      "url": "https://www.rightdecisions.scot.nhs.uk/gastroenterology-pathways/irritable-bowel-syndrome-ibs/",
+      "date": "January 2025",
+      "use": "qFIT before selective faecal calprotectin in ongoing symptoms"
+    },
+    {
+      "title": "Guidelines for the investigation of chronic diarrhoea in adults, third edition",
+      "publisher": "BSG / Gut",
+      "url": "https://gut.bmj.com/content/67/8/1380",
+      "date": "2018",
+      "use": "Structured primary and secondary investigation of chronic diarrhoea"
+    },
+    {
+      "title": "Faecal calprotectin diagnostic tests for inflammatory diseases of the bowel (HTG320)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/htg320/chapter/recommendations",
+      "use": "Calprotectin when IBD versus IBS is being considered and cancer is not suspected"
+    }
+  ]
+}
