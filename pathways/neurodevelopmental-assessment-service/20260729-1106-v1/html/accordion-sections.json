@@ -1,0 +1,36 @@
+{
+  "accordion_sections": [
+    {
+      "heading": "Background",
+      "html": "<p>NDAS is a <strong>diagnostic assessment service</strong>. Assessment considers whether a child or young person meets criteria for a neurodevelopmental disorder.</p><p>A diagnosis can help the child, family and professionals to understand the child's neurodevelopmental profile and provide a shared name for their differences. However, a formal diagnosis is <strong>not required to access support</strong>.</p><div style=\"margin-top: 10px; background-color: #e5f0f9; padding: 0px 10px; border: 3px solid #0072cd;\"><p><strong>NDAS does not provide support or treatment.</strong> The service is the right referral destination only when diagnostic assessment is requested.</p></div>"
+    },
+    {
+      "heading": "Primary care assessment",
+      "html": "<p>Before making a professional referral, establish and document:</p><ul><li>What developmental differences are causing concern</li><li>Why the child, young person or family is requesting diagnostic assessment</li><li>How the differences affect personal, family, social, educational, occupational or other important areas of functioning</li><li>Relevant developmental history</li><li>That the child or young person and family consent to begin the assessment process</li></ul><p>Explain that the purpose of NDAS is diagnostic assessment. Agree whether this is what the child or young person and family want before identifying NDAS as the appropriate service.</p>"
+    },
+    {
+      "heading": "Primary care management",
+      "html": "<p><strong>Identify support needs and act on them without waiting for diagnosis or completion of the NDAS pathway.</strong></p><ul><li>Encourage the family to seek support for any aspect of the child's development that is causing concern.</li><li>Support can be requested alongside an NDAS assessment or instead of diagnostic assessment.</li><li>Base support on the child's needs and functional impact rather than on the presence of a formal diagnosis.</li><li>Set expectations that diagnostic assessment may improve shared understanding but does not in itself guarantee new or additional support from health, social work or education.</li></ul>"
+    },
+    {
+      "heading": "Who to refer",
+      "html": "<p>A child or young person can be referred up to their <strong>18th birthday</strong> when <strong>all</strong> of the following apply:</p><ul><li>The child or young person is developing differently.</li><li>The differences may be due to a neurodevelopmental disorder.</li><li>There is evidence of significant impact on personal, family, social, educational, occupational or another important area of functioning.</li><li>The child or young person and family request diagnostic assessment.</li></ul>"
+    },
+    {
+      "heading": "Who not to refer",
+      "html": "<p>Do not refer to NDAS:</p><ul><li>For support or treatment alone, without a request for diagnostic assessment</li><li>Where developmental differences do not have a significant functional impact</li><li>Where the referral criteria are not all met</li><li>For a person aged 18 or over</li></ul><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>Do not delay support while waiting for assessment.</strong> A diagnosis is not required before a child, young person or family asks for help.</p></div>"
+    },
+    {
+      "heading": "How to refer",
+      "html": "<p><strong>Family self-referral</strong></p><p>The family can complete the <a href=\"https://forms.cloud.microsoft/e/b2C5h4X86M\" target=\"_blank\">NDAS self-referral form</a> directly.</p><p><strong>Professional referral</strong></p><ul><li>Refer by <strong>letter or Request for Assistance (RFA) form</strong>.</li><li>NDAS will provide the family with access to the NDAS screening forms.</li></ul><div style=\"margin-top: 10px; background-color: #fdf2e4; padding: 0px 10px; border: 3px solid #ed8b00;\"><p><strong>Editor action before publication:</strong> confirm and add the destination for professional referrals. The supplied service update does not give a postal address, email address or SCI Gateway route.</p></div><p><strong>Information required for screening</strong></p><ul><li>Child's or young person's details</li><li>Consent to begin the assessment process</li><li>Family information explaining why diagnostic assessment is requested</li><li>Developmental history</li><li>Information about the impact of the differences</li></ul><p>NDAS uses Microsoft Forms for screening information; these replace the previous paper screening forms.</p>"
+    },
+    {
+      "heading": "What happens next",
+      "html": "<p>NDAS aims to review the screening information and share its decision with the family <strong>within 4 weeks of receiving the information</strong>.</p><ul><li><strong>If diagnostic assessment is recommended:</strong> NDAS sends an acknowledgement letter and adds the child or young person to the waiting list.</li><li><strong>If diagnostic assessment is not recommended:</strong> NDAS sends a letter explaining the decision and recommending any other services that may be more appropriate.</li></ul>"
+    },
+    {
+      "heading": "References",
+      "html": "<ul><li><strong>NDAS Referral Update June 26.</strong> NHS Dumfries &amp; Galloway; Joanne Service; 29 June 2026. Supplied service document.</li><li><a href=\"https://www.nhsdg.co.uk/work-with-us-portal-divisions-women-children-sexual-health/\" target=\"_blank\">NHS Dumfries &amp; Galloway - Paediatrics &amp; Child Health</a></li></ul>"
+    }
+  ]
+}

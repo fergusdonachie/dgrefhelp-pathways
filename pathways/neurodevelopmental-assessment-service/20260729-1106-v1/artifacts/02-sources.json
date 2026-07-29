@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "title": "NDAS Referral Update June 26",
+      "type": "supplied_pdf",
+      "path": "/Users/fergusdonachie/Downloads/NDAS Referral Update June 26.pdf",
+      "author": "Joanne Service",
+      "date": "29 June 2026",
+      "notes": "Primary source for the service purpose, referral criteria, screening information, self-referral link and post-screening process."
+    },
+    {
+      "title": "NHS Dumfries & Galloway - Paediatrics & Child Health",
+      "type": "official_service_page",
+      "url": "https://www.nhsdg.co.uk/work-with-us-portal-divisions-women-children-sexual-health/",
+      "notes": "Corroborates that the local neurodevelopmental assessment and diagnostic service works with children up to age 18."
+    }
+  ]
+}
