@@ -1,0 +1,47 @@
+{
+  "topic": "Irritable bowel syndrome and chronic diarrhoea",
+  "version": "20260803-1525-v2",
+  "derived_from": "pathways/irritable-bowel-syndrome-and-chronic-diarrhoea/20260729-2313-v1",
+  "selected_sources": [
+    {
+      "title": "Scottish Referral Guidelines for Suspected Cancer 2025",
+      "publisher": "Scottish Government / NHS Scotland",
+      "url": "https://www.gov.scot/publications/scottish-referral-guidelines-suspected-cancer-2025/pages/5/",
+      "use": "Lower GI qFIT indications and USC threshold; ovarian symptom assessment, CA125/ultrasound and USC referral criteria"
+    },
+    {
+      "title": "CfSD/MPPP Irritable bowel syndrome pathway",
+      "publisher": "NHS Scotland Right Decisions",
+      "url": "https://www.rightdecisions.scot.nhs.uk/gastroenterology-pathways/irritable-bowel-syndrome-ibs/",
+      "date": "January 2025",
+      "use": "Positive IBS diagnosis, staged care and selective faecal calprotectin use"
+    },
+    {
+      "title": "Irritable bowel syndrome in adults (CG61)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations",
+      "use": "Primary-care IBS management"
+    },
+    {
+      "title": "Faecal calprotectin diagnostic tests (HTG320)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/htg320/chapter/recommendations",
+      "use": "Selective IBD-versus-IBS testing where cancer is not suspected"
+    },
+    {
+      "title": "BSG guidelines on IBS and chronic diarrhoea",
+      "publisher": "BSG / Gut",
+      "urls": [
+        "https://gut.bmj.com/content/70/7/1214",
+        "https://gut.bmj.com/content/67/8/1380"
+      ],
+      "use": "IBS diagnosis, calprotectin and chronic diarrhoea assessment"
+    },
+    {
+      "title": "Local gastroenterology request",
+      "publisher": "NHS Dumfries & Galloway gastroenterology/microbiology",
+      "date": "29 July 2026",
+      "use": "Primary-care HIV testing and reduction of inappropriate faecal calprotectin requesting"
+    }
+  ]
+}
