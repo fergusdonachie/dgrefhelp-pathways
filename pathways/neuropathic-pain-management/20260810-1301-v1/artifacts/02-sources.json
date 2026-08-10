@@ -1,0 +1,75 @@
+{
+  "topic": "Neuropathic pain management",
+  "version": "20260810-1301-v1",
+  "selected_sources": [
+    {
+      "title": "NHS D&G Management of Neuropathic Pain - final draft",
+      "publisher": "NHS Dumfries & Galloway",
+      "path": "/Users/fergusdonachie/Downloads/Management of Neuropathic Pain JMu final draft.docx",
+      "use": "Local assessment, preferred treatment sequence, dosing, renal adjustment, withdrawal and safety content"
+    },
+    {
+      "title": "DGRefHelp: Neuropathic pain management",
+      "publisher": "NHS Dumfries & Galloway / Right Decisions",
+      "url": "https://rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/chronic-pain/neuropathic-pain-management/",
+      "use": "Existing page content, self-management messages and referral indications"
+    },
+    {
+      "title": "Dumfries & Galloway Joint Formulary 2025, section 6.2",
+      "publisher": "NHS Dumfries & Galloway",
+      "url": "https://rightdecisions.scot.nhs.uk/media/snna03kh/2025-d-and-g-formulary.pdf",
+      "use": "Local formulary sequence: amitriptyline, gabapentin, then duloxetine or pregabalin"
+    },
+    {
+      "title": "Neuropathic pain in adults: pharmacological management in non-specialist settings (CG173)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg173/chapter/recommendations",
+      "use": "Assessment, review, switching, referral, topical capsaicin, trigeminal neuralgia and medicines not to initiate"
+    },
+    {
+      "title": "Low back pain and sciatica in over 16s (NG59)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng59/chapter/recommendations",
+      "use": "Exclusion of sciatica from gabapentinoid treatment"
+    },
+    {
+      "title": "Chronic pain (primary and secondary) in over 16s (NG193)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng193/chapter/recommendations",
+      "use": "Distinction between neuropathic pain and chronic primary pain"
+    },
+    {
+      "title": "Improving Information Supplied with Gabapentinoids, Benzodiazepines and Z-Drugs",
+      "publisher": "MHRA",
+      "date": "8 January 2026",
+      "url": "https://www.gov.uk/drug-safety-update/improving-information-supplied-with-gabapentinoids-pregabalin-slash-gabapentin-benzodiazepines-and-z-drugs",
+      "use": "Addiction, dependence, tolerance and withdrawal warnings; individualised tapering"
+    },
+    {
+      "title": "Switching between gabapentin and pregabalin for neuropathic pain",
+      "publisher": "NHS Specialist Pharmacy Service",
+      "date": "14 January 2026",
+      "url": "https://sps.nhs.uk/articles/switching-between-gabapentin-and-pregabalin-for-neuropathic-pain/",
+      "use": "Switching options, renal and respiratory risk, dose equivalence and monitoring"
+    },
+    {
+      "title": "Amitriptyline Summary of Product Characteristics",
+      "publisher": "electronic Medicines Compendium",
+      "url": "https://www.medicines.org.uk/emc/product/10851/smpc",
+      "use": "Neuropathic-pain dose range, titration and withdrawal"
+    },
+    {
+      "title": "Duloxetine Summary of Product Characteristics",
+      "publisher": "electronic Medicines Compendium",
+      "url": "https://www.medicines.org.uk/emc/product/101907/smpc",
+      "use": "Diabetic peripheral neuropathic pain dosing, renal contraindication, review and withdrawal"
+    },
+    {
+      "title": "Carbamazepine monitoring",
+      "publisher": "NHS Specialist Pharmacy Service",
+      "date": "30 January 2026",
+      "url": "https://sps.nhs.uk/monitorings/carbamazepine-monitoring/",
+      "use": "Baseline and ongoing safety monitoring for trigeminal neuralgia treatment"
+    }
+  ]
+}
