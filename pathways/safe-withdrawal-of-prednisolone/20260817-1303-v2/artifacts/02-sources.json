@@ -1,0 +1,19 @@
+{
+  "topic": "Safe withdrawal of prednisolone therapy in adults with non-endocrine disease",
+  "version": "20260817-1303-v2",
+  "selected_sources": [
+    {
+      "title": "Safe Withdrawal of Prednisolone Therapy in Adults with Non-Endocrine Disease in Dumfries and Galloway",
+      "publisher": "NHS Dumfries & Galloway draft",
+      "path": "/Users/fergusdonachie/Downloads/Safe Withdrawal of Prednisolone Therapy in Adults with Non.docx",
+      "use": "Primary source for the page scope, order, wording, taper schedule, key messages, indications for testing and proposed local test thresholds"
+    },
+    {
+      "title": "European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency",
+      "publisher": "European Society of Endocrinology / Endocrine Society",
+      "date": "2024",
+      "url": "https://academic.oup.com/jcem/article/109/7/1657/7667842",
+      "use": "Checked the supplied taper schedule and identified the difference between its generic morning-cortisol bands and the proposed local bands in the Word draft"
+    }
+  ]
+}
