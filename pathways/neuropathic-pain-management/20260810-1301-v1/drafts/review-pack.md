@@ -30,6 +30,7 @@ This draft replaces the existing DGRefHelp neuropathic pain page, which was last
 - Gabapentinoid content now includes the January 2026 MHRA warning on addiction, dependence, tolerance and withdrawal, plus respiratory-depression risk with opioids and other CNS depressants.
 - Fixed withdrawal schedules are labelled as practical starting examples. Tapering must be individualised and may take weeks or months.
 - Sciatica and chronic primary pain are explicitly excluded because their NICE pharmacological recommendations differ.
+- The assessment section now recommends the full 10-item DN4 as the single preferred screening aid, with its symptom and examination items, scoring threshold and limitations described.
 - Long-term tramadol, morphine and other non-recommended agents are excluded from non-specialist initiation. Lidocaine plasters and capsaicin 8% patches are reserved for licensed/specialist use.
 
 ## Points requiring local confirmation before publication
