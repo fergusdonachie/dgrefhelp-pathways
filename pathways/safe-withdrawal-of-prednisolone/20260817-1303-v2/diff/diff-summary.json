@@ -1,0 +1,32 @@
+{
+  "from": "20260817-1124-v1",
+  "to": "20260817-1303-v2",
+  "summary": "V2 is a source-faithful rewrite based closely on the supplied two-page D&G Word draft.",
+  "section_count": {
+    "v1": 8,
+    "v2": 5
+  },
+  "retained_from_source": [
+    "Target population and care setting",
+    "Five-band prednisolone taper schedule",
+    "Four key messages",
+    "Three indications for adrenal-function assessment",
+    "Morning cortisol and short Synacthen test options",
+    "Proposed local test thresholds and actions"
+  ],
+  "removed_from_v1": [
+    "Expanded scope and exclusions",
+    "Pre-taper checklist",
+    "Withdrawal syndrome, adrenal insufficiency and disease-flare comparison",
+    "Detailed sick-day and adrenal-crisis management section",
+    "Specialist advice and referral criteria",
+    "Expanded resources and references"
+  ],
+  "limited_editorial_changes": [
+    "Corrected spelling and grammar",
+    "Converted schedules and results to accessible tables",
+    "Moved the applicability statement above the accordions",
+    "Separated the assessment subset into a findable accordion",
+    "Flagged local test thresholds for governance confirmation"
+  ]
+}
