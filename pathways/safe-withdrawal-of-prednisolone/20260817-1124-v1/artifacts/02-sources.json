@@ -1,0 +1,39 @@
+{
+  "topic": "Safe withdrawal of long-term prednisolone in adults",
+  "version": "20260817-1124-v1",
+  "selected_sources": [
+    {
+      "title": "Safe Withdrawal of Prednisolone Therapy in Adults with Non-Endocrine Disease in Dumfries and Galloway",
+      "publisher": "NHS Dumfries & Galloway draft",
+      "path": "/Users/fergusdonachie/Downloads/Safe Withdrawal of Prednisolone Therapy in Adults with Non.docx",
+      "use": "Local scope, taper schedule, proposed cortisol and short Synacthen thresholds, and key safety messages"
+    },
+    {
+      "title": "European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency",
+      "publisher": "European Society of Endocrinology / Endocrine Society",
+      "date": "2024",
+      "url": "https://academic.oup.com/jcem/article/109/7/1657/7667842",
+      "use": "Risk threshold, tapering principles, suggested dose reductions, morning cortisol testing, withdrawal syndrome, stress dosing and specialist advice"
+    },
+    {
+      "title": "Prednisolone therapy safe withdrawal in patients with non-endocrine disease (717)",
+      "publisher": "NHS Greater Glasgow and Clyde / Right Decisions",
+      "date": "2024",
+      "url": "https://www.rightdecisions.scot.nhs.uk/ggc-clinical-guidelines/endocrine/co-morbidities/prednisolone-therapy-safe-withdrawal-in-patients-with-non-endocrine-disease-717/",
+      "use": "Scottish comparator pathway and source for the proposed cortisol and short Synacthen thresholds in the supplied draft"
+    },
+    {
+      "title": "Steroid Emergency Card to support early recognition and treatment of adrenal crisis in adults",
+      "publisher": "NHS England National Patient Safety Alert",
+      "date": "13 August 2020",
+      "url": "https://www.england.nhs.uk/wp-content/uploads/2020/08/NPSA-Emergency-Steroid-Card-FINAL-2.3.pdf",
+      "use": "Steroid Emergency Card and acute safety requirements"
+    },
+    {
+      "title": "Adrenal Crisis Information",
+      "publisher": "Society for Endocrinology",
+      "url": "https://www.endocrinology.org/clinical-practice/clinical-guidance/adrenal-crisis/",
+      "use": "Emergency recognition, treatment and patient resources"
+    }
+  ]
+}
