@@ -1,0 +1,128 @@
+{
+  "topic": "Eating disorders in adults",
+  "version": "20260817-1223-v1",
+  "reviewed_on": "2026-08-17",
+  "local_sources": [
+    {
+      "title": "Care Pathway for Adults with an Eating Disorder",
+      "file": "ED ICP updated Nov 25.doc",
+      "status": "Supplied local draft; document control is incomplete and includes inconsistent future dates",
+      "used_for": [
+        "current proposed local service model",
+        "CMHT and SEDS pathway",
+        "assessment content",
+        "acute and inpatient interfaces"
+      ]
+    },
+    {
+      "title": "Summary: Care Pathway for Adults with an Eating Disorder",
+      "file": "CoPilot ICP summary.docx",
+      "status": "Supplied derivative summary; checked against the full ICP and not treated as an independent clinical authority",
+      "used_for": [
+        "initial information architecture",
+        "plain-language pathway overview"
+      ]
+    },
+    {
+      "title": "Risk Assessment for Eating Disorders",
+      "file": "RISK ASSESSMENT FOR EATING DISORDERS 3.doc",
+      "status": "Supplied local form; BMI-led thresholds are not suitable for publication without revision to MEED",
+      "used_for": [
+        "identifying legacy local risk criteria",
+        "comparison with MEED"
+      ]
+    },
+    {
+      "title": "Enhanced Service for Patients with an Eating Disorder",
+      "file": "Eating Disorders.pdf",
+      "date": "2008-02-25",
+      "status": "Historical enhanced-service specification; stated end date 2010-03-31",
+      "used_for": [
+        "review of former primary-care monitoring model",
+        "identifying content requiring retirement or update"
+      ]
+    }
+  ],
+  "national_sources": [
+    {
+      "title": "National Specification for the Care and Treatment of Eating Disorders in Scotland",
+      "organisation": "Scottish Government",
+      "date": "2024-11-20",
+      "url": "https://www.gov.scot/publications/national-specification-care-treatment-eating-disorders-scotland/",
+      "authority": "Current Scottish national service specification",
+      "key_points": [
+        "early and equitable access",
+        "full diagnostic and demographic range",
+        "holistic assessment",
+        "MEED-aligned monitoring",
+        "explicit shared-care responsibility",
+        "proactive engagement",
+        "planned transitions and discharge"
+      ]
+    },
+    {
+      "title": "Eating disorders: a national clinical guideline (SIGN 164)",
+      "organisation": "Scottish Intercollegiate Guidelines Network",
+      "date": "2022-08",
+      "url": "https://www.sign.ac.uk/media/1987/sign-164-eating-disorders-v2.pdf",
+      "authority": "Scottish national clinical guideline",
+      "key_points": [
+        "recognition and referral",
+        "evidence-based psychological treatments",
+        "all ages and genders",
+        "diabetes and eating-disorder care",
+        "transitions"
+      ]
+    },
+    {
+      "title": "Medical Emergencies in Eating Disorders: Guidance on Recognition and Management (CR233)",
+      "organisation": "Royal College of Psychiatrists",
+      "date": "2022-05",
+      "url": "https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233",
+      "authority": "UK emergency risk and management guidance cited by the Scottish national specification",
+      "key_points": [
+        "multifactorial traffic-light risk assessment",
+        "red and amber physical/psychiatric factors",
+        "medical admission and refeeding",
+        "avoidance of BMI-only decisions",
+        "joint medical and psychiatric care"
+      ]
+    },
+    {
+      "title": "Eating disorders: recognition and treatment (NG69)",
+      "organisation": "National Institute for Health and Care Excellence",
+      "date": "2017-05-23; updated 2020-12-16; last reviewed 2024-08-15",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+      "authority": "UK clinical guideline used for recognition, treatment and physical-health recommendations",
+      "key_points": [
+        "SCOFF not used alone",
+        "immediate referral when suspected",
+        "no BMI-only treatment/admission decisions",
+        "ECG indications",
+        "bone-density scanning",
+        "dental and laxative advice",
+        "evidence-based therapies"
+      ]
+    }
+  ],
+  "supplementary_resources": [
+    {
+      "title": "Eating disorders",
+      "organisation": "NHS inform",
+      "url": "https://www.nhsinform.scot/illnesses-and-conditions/mental-health/eating-disorders/",
+      "purpose": "Scottish public information"
+    },
+    {
+      "title": "Beat",
+      "organisation": "Beat Eating Disorders",
+      "url": "https://www.beateatingdisorders.org.uk/",
+      "purpose": "Patient and carer information and support"
+    },
+    {
+      "title": "Community Mental Health Teams",
+      "organisation": "DGRefHelp, NHS Dumfries and Galloway",
+      "local_repository_path": "pathways/community-mental-health-teams/20260422-1200-v1/html/accordion-sections.json",
+      "purpose": "Current local SCI Gateway, duty-worker and crisis-route wording"
+    }
+  ]
+}
