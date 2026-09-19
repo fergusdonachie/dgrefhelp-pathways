@@ -15,6 +15,12 @@ STANDARD_HEADINGS. Sections outside that set are allowed and treated as
 pathway-specific -- they are still emitted, and flagged in the run summary and
 the paste guide so the deviation is visible.
 
+It also warns about two things the Vercel site (dgrefhelp-pathways-site) needs:
+  - a version folder named YYYYMMDD-HHMM[-vN] so it can be sorted by name, and
+  - a drafts/review-pack.md, which feeds the site's Evidence panel.
+These are warnings, not fixes: renaming a folder and authoring an evidence
+summary are deliberate steps left to the author.
+
 Usage:
   python3 scripts/emit-sections.py pathways/<topic>/<version>/ [more versions...]
 """
@@ -31,6 +37,13 @@ STANDARD_HEADINGS = [
     "Who not to refer",
     "References",
 ]
+
+# The Vercel site (dgrefhelp-pathways-site) discovers pathway versions by
+# folder name and can only sort them chronologically when the name matches
+# this pattern: YYYYMMDD-HHMM optionally followed by -vN. A name without the
+# HHMM time (e.g. 20260721-v1) still displays, but "latest version" then falls
+# back to git commit time rather than the folder name.
+VERSION_RE = re.compile(r"^\d{8}-\d{4}(?:-v\d+)?$")
 
 
 def slug(heading: str) -> str:
@@ -74,6 +87,7 @@ def process(version_dir: Path) -> None:
     _write_paste_guide(version_dir, emitted)
     _write_bundle(version_dir, sections, page_html)
     _print_summary(version_dir, emitted)
+    _check_conventions(version_dir)
 
 
 def _write_paste_guide(version_dir: Path, emitted) -> None:
@@ -147,6 +161,21 @@ def _print_summary(version_dir: Path, emitted) -> None:
     if missing:
         print("  missing standard sections: " + ", ".join(missing))
     print("  (* = pathway-specific, outside the default template)")
+
+
+def _check_conventions(version_dir: Path) -> None:
+    """Warn about anything the Vercel site needs but that this version lacks."""
+    version = version_dir.name
+    if not VERSION_RE.match(version):
+        print(
+            f"  WARNING: version folder '{version}' is not YYYYMMDD-HHMM[-vN]; "
+            "the site cannot sort it by name (falls back to commit time)."
+        )
+    if not (version_dir / "drafts" / "review-pack.md").exists():
+        print(
+            "  WARNING: no drafts/review-pack.md; the site's Evidence panel "
+            "will be blank for this pathway."
+        )
 
 
 def main(argv) -> None:

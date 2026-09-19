@@ -28,8 +28,8 @@
     }
   ],
   "artifact_paths": {
-    "page_contents_html": "pathways/male-hypogonadism/20260721-v1/html/page-contents.html",
-    "accordion_sections_json": "pathways/male-hypogonadism/20260721-v1/html/accordion-sections.json",
-    "cms_upload_bundle_json": "pathways/male-hypogonadism/20260721-v1/outputs/cms-upload-bundle.json"
+    "page_contents_html": "pathways/male-hypogonadism/20260721-1200-v1/html/page-contents.html",
+    "accordion_sections_json": "pathways/male-hypogonadism/20260721-1200-v1/html/accordion-sections.json",
+    "cms_upload_bundle_json": "pathways/male-hypogonadism/20260721-1200-v1/outputs/cms-upload-bundle.json"
   }
 }
