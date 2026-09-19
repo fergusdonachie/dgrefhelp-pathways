@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# Pre-commit hook: keep each pathway's generated artifacts in sync with its
+# source files. If a commit stages changes to a pathway's page-contents.html or
+# accordion-sections.json, regenerate that version's derived files (per-section
+# HTML, PASTE-GUIDE.md, cms-upload-bundle.json) and stage them too, so the
+# bundle the Vercel site renders can never drift from the edited source.
+#
+# Enable once per clone with:  git config core.hooksPath .githooks
+
+repo_root=$(git rev-parse --show-toplevel) || exit 1
+cd "$repo_root" || exit 1
+
+# Version dirs whose source files are staged in this commit.
+dirs=$(
+  git diff --cached --name-only --diff-filter=ACM \
+    | grep -E '^pathways/[^/]+/[^/]+/html/(page-contents\.html|accordion-sections\.json)$' \
+    | sed -E 's|/html/[^/]+$||' \
+    | sort -u
+)
+
+[ -z "$dirs" ] && exit 0
+
+if ! command -v python3 >/dev/null 2>&1; then
+  echo "pre-commit: python3 not found; cannot regenerate pathway artifacts." >&2
+  exit 1
+fi
+
+status=0
+while IFS= read -r dir; do
+  [ -z "$dir" ] && continue
+  echo "pre-commit: regenerating artifacts for $dir"
+  if ! python3 scripts/emit-sections.py "$dir"; then
+    echo "pre-commit: emit-sections.py failed for $dir; commit aborted." >&2
+    status=1
+    continue
+  fi
+  git add "$dir"/html/*.html "$dir"/PASTE-GUIDE.md "$dir"/outputs/cms-upload-bundle.json
+done <<< "$dirs"
+
+exit $status
