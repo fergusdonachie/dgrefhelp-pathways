@@ -43,7 +43,8 @@
       "title": "Medical Emergencies in Eating Disorders (CR233)",
       "organisation": "Royal College of Psychiatrists",
       "date": "2025-12",
-      "url": "https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233"
+      "url": "https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233",
+      "use": "Table 1 printed pages 31–35 and Appendix 3; risk domains and thresholds used in an explicitly adapted adult GP escalation aid"
     },
     {
       "title": "Eating disorders: recognition and treatment (NG69)",
@@ -54,6 +55,11 @@
       "title": "MEED frontline checklist",
       "url": "https://meed.org.uk/meed-checklist/",
       "use": "Medical compromise triggers; distinct from Table 1 traffic-light classification"
+    },
+    {
+      "title": "NICE CG32 Nutrition support for adults",
+      "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+      "use": "Recommendations 1.4.5–1.4.7; indications for advice and supported feeding, not a primary-care feeding prescription"
     }
   ],
   "review_date": "2026-10-05"

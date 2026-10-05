@@ -2,7 +2,17 @@
 
 Version 20261005-v3 · 5 October 2026 · Draft for local review
 
-## Quick-reference revision
+## Self-contained risk assessment revision
+
+The introduction now explains the main presentations, indirect symptoms and importance of trajectory. The clinical sections no longer require the GP to open MEED. Emergency criteria, less severe warning signs, escalation actions and nutrition-related concerns are presented directly on the page. MEED remains in References.
+
+Criteria were checked against MEED Table 1, printed pages 31–35, and Appendix 3. The page is an adult GP escalation aid rather than a reproduction of the source traffic-light tool. It deliberately seeks same-day advice for potassium below 3.0/sodium below 130 (frontline checklist), isolated QTc prolongation (the source lists this in both red/amber columns), and significant postural changes. Source adult QTc thresholds are above 450 ms for women and above 430 ms for men; the action is clinical ECG interpretation/advice, not automatic admission. A single concerning feature requires urgent specialist advice; multiple features or deterioration require same-day discussion/assessment. Local agreement on this operational wording remains required.
+
+Lower-level warning signs cover pulse, BMI, weight loss, temperature, posture, hydration, strength, purging, exercise and implementation of the meal plan. Low-risk follow-up criteria now explicitly include stable intake, trajectory and observations. No absence-of-red-flags rule is used to label a patient safe.
+
+NICE CG32 recommendations 1.4.5–1.4.7 support the short pre-feeding advice. More than five days of little/no intake is a reason to obtain advice; the page does not claim this single factor alone meets the full NICE high-risk definition. Detailed feeding prescriptions remain specialist-led.
+
+## Earlier quick-reference revision
 
 Revised following GP review to centre the consultation and reduce repetition. Clinical page text reduced from approximately 1867 to 742 words (including references). The LES comparison remains separate and unchanged.
 

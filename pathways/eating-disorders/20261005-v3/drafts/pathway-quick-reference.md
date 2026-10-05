@@ -2,6 +2,10 @@
 
 ## Eating disorders in adults
 
+Eating disorders are mental health conditions with potentially serious physical consequences. Presentations include restrictive eating/anorexia, bingeing with compensatory behaviours such as vomiting (bulimia), binge eating disorder, and avoidant/restrictive food intake disorder (ARFID). ARFID may involve sensory aversion, fear of choking/vomiting or little interest in food, without weight or shape concerns.
+
+Patients may present with weight change, gastrointestinal symptoms, dizziness, menstrual disturbance, anxiety or poorly controlled diabetes. Early assessment and treatment matter: physical risk depends on intake, weight trajectory, purging, observations and mental state, not weight alone.
+
 - **Unwell or deteriorating:** assess for same-day medical/mental health care.
 
 - **New suspected eating disorder:** refer for assessment and a treatment plan, even if physical risk is low.
@@ -11,6 +15,8 @@
 Serious illness can occur at any weight. Normal BMI, bloods or a negative screening score do not exclude risk.
 
 ## Assessment
+
+Arrange a face-to-face assessment for observations and examination; review previous weights and any recent bloods/ECG before the appointment.
 
 ### At the consultation
 
@@ -26,7 +32,7 @@ Serious illness can occur at any weight. Normal BMI, bloods or a negative screen
 
 - **ECG:** with rapid weight loss, purging, bradycardia, hypotension, weakness, excessive exercise, electrolyte disturbance or QT-affecting medication.
 
-Use the [MEED risk framework](https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233). Do not delay urgent assessment to complete tests.
+Use the on-page escalation criteria below. Do not delay urgent assessment to complete tests.
 
 ## Primary care management
 
@@ -36,11 +42,15 @@ Use the [MEED risk framework](https://www.rcpsych.ac.uk/improving-care/campaigni
 
 - **At review:** reassess intake, weight trend, purging, observations and mental health. Review sooner with change; follow up missed appointments.
 
-- **Support:** involve carers with consent; encourage regular eating with dietetic support, stop excessive exercise and review laxatives, diuretics and QT-affecting medicines. Significant malnutrition/refeeding risk needs a specialist-led nutritional plan.
+- **Support:** involve carers with consent; encourage regular eating with dietetic support, stop excessive exercise and review laxatives, diuretics and QT-affecting medicines.
 
 - **Safety-net:** same-day help for fainting, worsening weakness, inability to maintain intake, palpitations or suicidal thoughts; 999 for collapse with ongoing impairment, seizure or immediate danger.
 
 Referral alone does not transfer responsibility. Significant/severe illness requires an explicit specialist agreement on medical responsibility.
+
+### Before increasing nutrition
+
+Seek specialist/dietetic advice for severe underweight, substantial recent weight loss, low potassium/phosphate/magnesium or little/no intake for more than 5 days. Agree feeding, vitamin supplementation and electrolyte monitoring with the team. New oedema, breathlessness, weakness or confusion after intake increases needs same-day assessment. Do not delay necessary nutrition while arranging supervised care.
 
 ### Longer-term follow-up
 
@@ -54,19 +64,33 @@ Referral alone does not transfer responsibility. Significant/severe illness requ
 
 ### Emergency or same-day assessment
 
-**999:** immediately life-threatening illness. **Same-day mental health crisis assessment:** high suicide risk/severe self-harm; involve acute medicine if physically unstable.
+**Call 999** for collapse with ongoing impairment, seizure, major haematemesis, suspected ketoacidosis with acute illness, or other immediately life-threatening presentation.
 
-**Same-day acute medical discussion/assessment** for any of the following:
+**Any criterion below: arrange same-day acute medical assessment/discussion.** Do not wait for several abnormalities. Involve mental health services alongside acute medicine when needed.
 
-- Rapid deterioration, food/fluid refusal, severe dehydration, syncope, profound weakness, significant ECG abnormality or suspected ketoacidosis.
+| Check | Same-day trigger |
+| --- | --- |
+| Pulse and circulation | Waking pulse <40 bpm; syncope; systolic BP <90 mmHg with symptoms; standing systolic fall >20 mmHg or pulse rise >30 bpm. |
+| Temperature | <35.5°C tympanic or <35.0°C axillary. |
+| Weight and intake | BMI <13; loss ≥1 kg/week for 2 consecutive weeks when undernourished; acute food/fluid refusal or intake <500 kcal/day for 2+ days. Rapid loss at any weight can be dangerous. |
+| Hydration and strength | Severe dehydration/reduced urine output; unable to sit up from lying or rise from a squat without using arms; acute confusion. |
+| ECG | Arrhythmia or other significant abnormality; QTc >450 ms (women) or >430 ms (men): seek same-day clinical interpretation/advice. |
+| Bloods | Potassium <3.0, sodium <130 or glucose <3.0 mmol/L; low/falling phosphate; significant magnesium/calcium abnormality, renal impairment or transaminases >3 times the upper limit of normal. |
+| Behaviour and symptoms | Multiple daily vomiting/laxative-misuse episodes; excessive exercise >2 hours/day when malnourished; haematemesis, severe abdominal pain/distension or rapid clinical deterioration. |
 
-- Waking pulse <40; systolic BP <90 with syncope/significant postural fall; temperature <35.5°C tympanic (<35.0°C axillary).
+**Same-day mental health crisis assessment:** significant suicide/self-harm risk or refusal of essential care putting life at risk. Obtain urgent psychiatric/capacity assessment if necessary; do not delay physical treatment.
 
-- BMI <13; intake <500 kcal/day for 2+ days; loss ≥1 kg/week for 2 consecutive weeks in an undernourished patient. Rapid loss at any weight is concerning.
+### Concerning findings below the emergency thresholds
 
-- Potassium <3.0, sodium <130 or glucose <3.0 mmol/L; falling phosphate or other significant biochemical abnormality.
+**Contact CMHT/SEDS for urgent advice and agree the next review.** Two or more of these findings, worsening observations or an unsafe home plan warrant same-day discussion/assessment:
 
-These are escalation prompts, not an exhaustive list or automatic admission criteria. Use clinical judgement and the full MEED framework; do not wait for several abnormalities.
+- Waking pulse 40–50 bpm; systolic BP <90 without symptoms, or a standing systolic fall >15 and ≤20 mmHg; temperature below 36°C without meeting the same-day thresholds.
+
+- BMI 13–14.9; loss 0.5–0.99 kg/week for 2 consecutive weeks when undernourished; restricted fluids/dehydration or noticeable difficulty sitting up/rising from a squat.
+
+- Vomiting/laxative misuse ≥3 times/week; excessive exercise >1 hour/day when malnourished; increasing restriction or inability to implement the meal plan.
+
+**These thresholds guide escalation, not admission or diagnosis.** Deterioration, carer concerns, diabetes, pregnancy or inadequate support can increase urgency. Normal bloods and absence of these findings do not prove safety.
 
 ### Specialist assessment
 
@@ -84,7 +108,7 @@ These are escalation prompts, not an exhaustive list or automatic admission crit
 
 ### Manage in primary care without a new referral
 
-- **Established eating disorder already assessed:** stable physical and mental health, low current risk agreed with the specialist team, and a documented plan for primary care follow-up. Monitoring must be deliverable and specialist treatment needs addressed.
+- **Established eating disorder already assessed:** stable intake, weight trend, observations and mental health, with no active escalation features above and low current risk agreed with the specialist team, and a documented plan for primary care follow-up. Monitoring must be deliverable and specialist treatment needs addressed.
 
 - **After specialist discharge:** continue the agreed monitoring/relapse plan while stable. Re-refer if the triggers above develop.
 
@@ -101,3 +125,5 @@ These are escalation prompts, not an exhaustive list or automatic admission crit
 - [Scottish national specification](https://www.gov.scot/publications/national-specification-care-treatment-eating-disorders-scotland/) — service access and shared care.
 
 - [SIGN 164](https://www.sign.ac.uk/media/1987/sign-164-eating-disorders-v2.pdf) — eating-disorder treatment.
+
+- [NICE CG32](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) — nutrition support and refeeding risk.
