@@ -2,13 +2,34 @@
 
 Version 20261005-v3 · 5 October 2026 · Draft for local review
 
+## Self-contained risk assessment revision
+
+The introduction now explains the main presentations, indirect symptoms and importance of trajectory. The clinical sections no longer require the GP to open MEED. Emergency criteria, less severe warning signs, escalation actions and nutrition-related concerns are presented directly on the page. MEED remains in References.
+
+Criteria were checked against MEED Table 1, printed pages 31–35, and Appendix 3. The page is an adult GP escalation aid rather than a reproduction of the source traffic-light tool. It deliberately seeks same-day advice for potassium below 3.0/sodium below 130 (frontline checklist), isolated QTc prolongation (the source lists this in both red/amber columns), and significant postural changes. Source adult QTc thresholds are above 450 ms for women and above 430 ms for men; the action is clinical ECG interpretation/advice, not automatic admission. A single concerning feature requires urgent specialist advice; multiple features or deterioration require same-day discussion/assessment. Local agreement on this operational wording remains required.
+
+Lower-level warning signs cover pulse, BMI, weight loss, temperature, posture, hydration, strength, purging, exercise and implementation of the meal plan. Low-risk follow-up criteria now explicitly include stable intake, trajectory and observations. No absence-of-red-flags rule is used to label a patient safe.
+
+NICE CG32 recommendations 1.4.5–1.4.7 support the short pre-feeding advice. More than five days of little/no intake is a reason to obtain advice; the page does not claim this single factor alone meets the full NICE high-risk definition. Detailed feeding prescriptions remain specialist-led.
+
+## Earlier quick-reference revision
+
+Revised following GP review to centre the consultation and reduce repetition. Clinical page text reduced from approximately 1867 to 742 words (including references). The LES comparison remains separate and unchanged.
+
+- Five standard sections retained; the opening gives three immediate routes: same-day care, first specialist assessment, or planned primary care follow-up.
+- “Who not to refer” now gives positive criteria for primary care follow-up after assessment or discharge, alongside the need for a workable monitoring/treatment plan and re-referral triggers. These criteria are proposed operational wording for local agreement, not a new validated risk classification.
+- Low physical risk does not remove the need for a first referral when an eating disorder is suspected. NICE NG69 1.2.10 was rechecked against official indexed guidance. The referral initiates further assessment/treatment planning; its urgency depends on risk.
+- Condensed assessment, investigations, monitoring and safety-netting. Removed repeated exclusions, the long symptom inventory and specialist treatment descriptions.
+- Emergency prompts are shown once. The list deliberately combines MEED Table 1 findings with its frontline checklist triggers; potassium below 3.0 and sodium below 130 are checklist prompts, not Table 1 red boundaries.
+- Local contact/method and shared-care approvals remain unresolved. This is not confirmation that all low-risk cases have locally commissioned GP-only care.
+
 ## Outcome
 
 Updated the existing five-section DGRefHelp draft and prepared a separate LES update review. The page is for adults aged 18 and over. It covers assessment, primary care management, who to refer, who not to refer and references. Local referral arrangements and clinical ownership must be confirmed before publication.
 
 The LES requires substantive updating, but the supplied 2008 copy cannot establish current commissioning or payment status. This corrects the earlier review pack's categorical claim that it was no longer a contractual standard. Do not cease an existing service or treat its current funding as invalid on this evidence alone.
 
-## Changes from the existing draft
+## Changes made during the initial V3 review
 
 - Added an explicit draft banner and adult scope.
 - Removed SCI Gateway as an asserted route: it was not substantiated by the supplied attachments. Retained the documented CMHT/SEDS service model and GP dietetic access with referral-method confirmation required.
