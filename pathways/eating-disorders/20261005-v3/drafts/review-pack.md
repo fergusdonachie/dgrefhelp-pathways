@@ -2,13 +2,24 @@
 
 Version 20261005-v3 · 5 October 2026 · Draft for local review
 
+## Quick-reference revision
+
+Revised following GP review to centre the consultation and reduce repetition. Clinical page text reduced from approximately 1867 to 742 words (including references). The LES comparison remains separate and unchanged.
+
+- Five standard sections retained; the opening gives three immediate routes: same-day care, first specialist assessment, or planned primary care follow-up.
+- “Who not to refer” now gives positive criteria for primary care follow-up after assessment or discharge, alongside the need for a workable monitoring/treatment plan and re-referral triggers. These criteria are proposed operational wording for local agreement, not a new validated risk classification.
+- Low physical risk does not remove the need for a first referral when an eating disorder is suspected. NICE NG69 1.2.10 was rechecked against official indexed guidance. The referral initiates further assessment/treatment planning; its urgency depends on risk.
+- Condensed assessment, investigations, monitoring and safety-netting. Removed repeated exclusions, the long symptom inventory and specialist treatment descriptions.
+- Emergency prompts are shown once. The list deliberately combines MEED Table 1 findings with its frontline checklist triggers; potassium below 3.0 and sodium below 130 are checklist prompts, not Table 1 red boundaries.
+- Local contact/method and shared-care approvals remain unresolved. This is not confirmation that all low-risk cases have locally commissioned GP-only care.
+
 ## Outcome
 
 Updated the existing five-section DGRefHelp draft and prepared a separate LES update review. The page is for adults aged 18 and over. It covers assessment, primary care management, who to refer, who not to refer and references. Local referral arrangements and clinical ownership must be confirmed before publication.
 
 The LES requires substantive updating, but the supplied 2008 copy cannot establish current commissioning or payment status. This corrects the earlier review pack's categorical claim that it was no longer a contractual standard. Do not cease an existing service or treat its current funding as invalid on this evidence alone.
 
-## Changes from the existing draft
+## Changes made during the initial V3 review
 
 - Added an explicit draft banner and adult scope.
 - Removed SCI Gateway as an asserted route: it was not substantiated by the supplied attachments. Retained the documented CMHT/SEDS service model and GP dietetic access with referral-method confirmation required.
