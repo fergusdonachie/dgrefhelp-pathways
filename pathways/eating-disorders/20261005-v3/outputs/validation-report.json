@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-05",
+  "status": "passed",
+  "checks": [
+    "JSON parse",
+    "matching exports",
+    "five expected sections",
+    "accordion toggle",
+    "desktop and mobile no horizontal overflow"
+  ],
+  "clinicalStatus": "Draft requiring the local decisions in review-pack.md"
+}

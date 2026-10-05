@@ -1,0 +1,60 @@
+{
+  "topic": "Eating disorders in adults",
+  "version": "20261005-v3",
+  "derived_from": "pathways/eating-disorders/20260817-1501-v2",
+  "local_sources": [
+    {
+      "title": "Care Pathway for Adults with an Eating Disorder",
+      "file": "ED ICP updated Nov 25-1.doc",
+      "use": "Service model and local proposals; approval and dates unresolved; no verified SCI Gateway route"
+    },
+    {
+      "title": "Summary: Care Pathway for Adults with an Eating Disorder",
+      "file": "CoPilot ICP summary-1.docx",
+      "use": "Supporting summary checked against the full ICP"
+    },
+    {
+      "title": "Risk Assessment for Eating Disorders",
+      "file": "RISK ASSESSMENT FOR EATING DISORDERS 3-1.doc",
+      "use": "Historical local criteria reviewed against MEED; BMI-led approach not retained"
+    },
+    {
+      "title": "Enhanced Service for Patients with an Eating Disorder",
+      "file": "Eating Disorders.pdf",
+      "date": "2008-02-25",
+      "use": "Supplied 2008 specification; current contractual status unverified; clinical appendices require updating"
+    }
+  ],
+  "national_sources": [
+    {
+      "title": "National Specification for the Care and Treatment of Eating Disorders in Scotland",
+      "organisation": "Scottish Government",
+      "date": "2024-11-20",
+      "url": "https://www.gov.scot/publications/national-specification-care-treatment-eating-disorders-scotland/"
+    },
+    {
+      "title": "Eating disorders: a national clinical guideline (SIGN 164)",
+      "organisation": "SIGN",
+      "date": "2022-08",
+      "url": "https://www.sign.ac.uk/media/1987/sign-164-eating-disorders-v2.pdf",
+      "verification": "Direct SIGN fetch unavailable in this review; retained as background reference, no new recommendation based solely on it."
+    },
+    {
+      "title": "Medical Emergencies in Eating Disorders (CR233)",
+      "organisation": "Royal College of Psychiatrists",
+      "date": "2025-12",
+      "url": "https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233"
+    },
+    {
+      "title": "Eating disorders: recognition and treatment (NG69)",
+      "organisation": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations"
+    },
+    {
+      "title": "MEED frontline checklist",
+      "url": "https://meed.org.uk/meed-checklist/",
+      "use": "Medical compromise triggers; distinct from Table 1 traffic-light classification"
+    }
+  ],
+  "review_date": "2026-10-05"
+}
