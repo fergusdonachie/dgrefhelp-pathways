@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-06",
+  "status": "static_checks_passed_visual_check_incomplete",
+  "checks": [
+    "JSON parse and matching exports",
+    "intro export matches bundle",
+    "five expected sections",
+    "Markdown risk table renders all seven criteria rows",
+    "clinical sections contain on-page criteria without MEED dependency"
+  ],
+  "visual_check": "Chrome launch timed out on retry; V4 desktop/mobile rendering not verified. Existing V3 preview styling retained.",
+  "clinicalStatus": "Draft requiring local agreement described in review-pack.md"
+}
