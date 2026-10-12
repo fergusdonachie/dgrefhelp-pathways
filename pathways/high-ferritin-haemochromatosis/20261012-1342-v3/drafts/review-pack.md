@@ -19,7 +19,7 @@ managed in primary care.
 | # | Feedback | Decision | Change in v3 |
 |---|---|---|---|
 | 1 | Iron metabolism specialists should investigate unless there is liver disease | Host specialty still not agreed locally (haematology and gastro each suggest the other) | None; TO AGREE 1 and 2 remain open |
-| 2 | Tsat <50% safely excludes homozygous HFE; look at historical values | Keep the national >45% threshold | Page uses **TIBC %** throughout (the D&G lab result) instead of Tsat. One note explains it is the same as the national Tsat. Referral asks for previous results |
+| 2 | Tsat <50% safely excludes homozygous HFE; look at historical values | Keep the national >45% threshold | Page uses **TIBC saturation** throughout (the D&G lab label; reference range 20–50%) instead of Tsat. A note explains it is the same as the national Tsat, and that 46–50% is within the lab range but still meets the >45% threshold (likely source of the 50% figure in the feedback). Referral asks for previous results |
 | 3 | Prefer the LiverRisk score to FIB-4 | FIB-4 stays the main score (national standard, uses routine bloods) | LiverRisk added as an alternative, noting it needs GGT, glucose and cholesterol |
 | 4 | Assess alcohol and cardiovascular risk (ASSIGN) before referral | Agreed | ASSIGN 2.0 added to Step 2 and to the referral contents |
 | 5 | No FibroScans for 12 months; advanced liver disease pathway in development | Agreed | TO AGREE 8 removed; "direct liver stiffness assessment" changed to specialist fibrosis assessment |
